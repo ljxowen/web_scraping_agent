@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T20:45:01+00:00",
+  "generated_at": "2026-10-20T01:49:49+00:00",
   "run": {
-    "run_id": "20261019T204038Z-013c83",
-    "elapsed_s": 260.6,
+    "run_id": "20261020T014517Z-919512",
+    "elapsed_s": 266.0,
     "counters": {
       "categories_discovered": 16,
       "listing_pages": 35,
@@ -12,8 +12,8 @@
       "products_stored": 148,
       "products_dead_lettered": 0,
       "inserted": 0,
-      "updated": 17,
-      "unchanged": 131
+      "updated": 1,
+      "unchanged": 147
     },
     "http": {
       "requests": 2,
@@ -63,9 +63,9 @@
       "model": "MiniMax-M2.5"
     },
     "product_latency_s": {
-      "p50": 3.73,
-      "p90": 4.16,
-      "max": 6.202999999979511
+      "p50": 3.78,
+      "p90": 4.06,
+      "max": 4.952999999979511
     }
   },
   "totals": {
@@ -324,9 +324,9 @@
     },
     {
       "task": "structure_specs",
-      "calls": 482,
-      "cached": 363,
-      "ok": 482,
+      "calls": 601,
+      "cached": 482,
+      "ok": 601,
       "avg_latency_s": 5.86,
       "prompt_tokens": 23732,
       "completion_tokens": 54524

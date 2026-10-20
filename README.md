@@ -58,6 +58,18 @@ uv run safco-agent export --format json,csv,xlsx
 uv run safco-agent stats
 ```
 
+### Docker
+
+The image is built on Microsoft's Playwright image with the uv lockfile. It has been tested end to end: build, `--help`, a sample crawl with LLM calls, and `stats` against the mounted volume. The secret is passed at runtime and is not stored in the image.
+
+```bash
+docker build -t safco-agent:poc .
+docker run --rm --env-file .env -v "$PWD/data:/app/data" -v "$PWD/output:/app/output" -v "$PWD/logs:/app/logs" safco-agent:poc crawl --max-products-per-category 3
+docker run --rm -v "$PWD/data:/app/data" safco-agent:poc stats
+```
+
+The default command is `crawl --full`. The image is about 2.7 GB, mostly Chromium and its system libraries. On Git Bash for Windows, prefix `docker run` with `MSYS_NO_PATHCONV=1` so volume paths aren't rewritten.
+
 Behaviour is controlled by [`config.yaml`](config.yaml): seeds, limits, rate limit, concurrency, timeouts, browser settings, and which LLM capabilities are on. Secrets are read only from the environment or `.env`. Each run writes:
 
 | Path | Content |
@@ -301,7 +313,7 @@ The final run took 261 s: 164 browser navigations, 0 errors, about 3.7 s median 
 | **Config-driven** | `config.yaml` (Pydantic-validated). CLI flags override limits, the LLM switch and fetch mode. |
 | **Secrets** | Only from env/`.env` (gitignored). `.env.example` is committed. Config snapshots in `crawl_runs` contain no secrets. In production, a secret manager injects env vars. |
 | **Politeness** | robots.txt (including the site's wildcard query rules), an identifying User-Agent, about 1 req/s, and trackers and heavy assets blocked in the browser. |
-| **Deployment path** | `Dockerfile` (Playwright base image plus uv lockfile) runs `safco-agent crawl` as a batch job, e.g. as a cron or Kubernetes CronJob, or an ECS scheduled task, with data/output/logs on volumes. |
+| **Deployment path** | `Dockerfile` (Playwright base image plus uv lockfile) runs `safco-agent crawl` as a batch job (image build and a containerised sample crawl were verified), e.g. as a cron or Kubernetes CronJob, or an ECS scheduled task, with data/output/logs on volumes. |
 
 ---
 
