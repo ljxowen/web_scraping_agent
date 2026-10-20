@@ -97,7 +97,8 @@ class Product(BaseModel):
     product_type: str | None = None          # grouped | configurable | simple
     category_path: list[str] = Field(default_factory=list)
     description: str | None = None
-    specifications: dict[str, str] = Field(default_factory=dict)
+    specifications: dict[str, str] = Field(default_factory=dict)        # canonical vocabulary names
+    extra_specifications: dict[str, str] = Field(default_factory=dict)  # facts outside the vocabulary
     image_urls: list[str] = Field(default_factory=list)
     price_min: Decimal | None = None
     price_max: Decimal | None = None

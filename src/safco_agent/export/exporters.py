@@ -13,7 +13,7 @@ PRODUCT_CSV_COLUMNS = [
     "product_id", "name", "brand", "manufacturer", "parent_sku", "product_type", "root_category",
     "category_path", "categories", "canonical_url", "price_min", "price_max", "price_type", "currency",
     "availability", "variant_count", "variant_skus", "rating_value", "review_count", "description",
-    "specifications", "image_urls", "alternative_products", "extraction_method", "validation_status",
+    "specifications", "extra_specifications", "image_urls", "alternative_products", "extraction_method", "validation_status",
     "validation_issues", "scraped_at", "content_hash",
 ]
 VARIANT_CSV_COLUMNS = [
@@ -63,6 +63,7 @@ def product_records(storage: Storage) -> list[dict]:
             "review_count": row["review_count"],
             "description": row["description"],
             "specifications": _loads(row["specifications_json"], {}),
+            "extra_specifications": _loads(row["extra_specifications_json"], {}),
             "image_urls": _loads(row["image_urls_json"], []),
             "alternative_products": _loads(row["alternative_products_json"], []),
             "variants": [
@@ -93,6 +94,7 @@ def _flat(rec: dict) -> dict:
         "variant_count": len(rec["variants"]),
         "variant_skus": "; ".join(v["sku"] for v in rec["variants"]),
         "specifications": json.dumps(rec["specifications"], ensure_ascii=False),
+        "extra_specifications": json.dumps(rec["extra_specifications"], ensure_ascii=False),
         "image_urls": "; ".join(rec["image_urls"]),
         "alternative_products": "; ".join(f"{a.get('name')} ({a.get('sku')})" for a in rec["alternative_products"]),
         "validation_issues": "; ".join(rec["validation_issues"]),
@@ -129,6 +131,13 @@ def quality_report(storage: Storage, records: list[dict], run_metrics: dict | No
         "avg_latency_s, SUM(prompt_tokens) prompt_tokens, SUM(completion_tokens) completion_tokens "
         "FROM llm_calls GROUP BY task")
     sku_counts = Counter(v["sku"] for v in variants)
+    canon_keys = Counter(k for r in records for k in r["specifications"])
+    extra_keys = Counter(k for r in records for k in r.get("extra_specifications", {}))
+    spec_coverage: dict[str, dict] = {}
+    for root in per_root:
+        rs = [r for r in records if root in r["root_categories"]]
+        keys = Counter(k for r in rs for k in r["specifications"])
+        spec_coverage[root] = {k: f"{c}/{len(rs)}" for k, c in keys.most_common(10)}
     return {
         "generated_at": utcnow(),
         "run": run_metrics or {},
@@ -151,6 +160,15 @@ def quality_report(storage: Storage, records: list[dict], run_metrics: dict | No
         "validation_issues": dict(Counter(i.split(":")[0] for r in records for i in r["validation_issues"])),
         "extraction_method": dict(Counter(r["extraction_method"] for r in records)),
         "price_type": dict(Counter(r["price_type"] for r in records)),
+        "specification_quality": {
+            "canonical_keys_used": len(canon_keys),
+            "canonical_values": sum(canon_keys.values()),
+            "extra_keys_used": len(extra_keys),
+            "extra_values": sum(extra_keys.values()),
+            "products_with_canonical_specs": sum(1 for r in records if r["specifications"]),
+            "top_canonical_keys": dict(canon_keys.most_common(15)),
+            "coverage_by_root_category": spec_coverage,
+        },
         "llm_usage_by_task": [dict(r) for r in llm_rows],
         "dead_letters": [dict(r) for r in storage.dead_letters()],
     }

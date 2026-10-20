@@ -44,6 +44,7 @@ CREATE TABLE IF NOT EXISTS products (
     rating_value REAL,
     review_count INTEGER,
     specifications_json TEXT,
+    extra_specifications_json TEXT,
     image_urls_json TEXT,
     alternative_products_json TEXT,
     extraction_method TEXT,
@@ -162,6 +163,13 @@ class Storage:
         self.conn = sqlite3.connect(str(db_path), isolation_level=None)  # autocommit; explicit txns below
         self.conn.row_factory = sqlite3.Row
         self.conn.executescript(SCHEMA)
+        self._migrate()
+
+    def _migrate(self) -> None:
+        """Additive column migrations for databases created by older versions."""
+        cols = {r["name"] for r in self.conn.execute("PRAGMA table_info(products)")}
+        if "extra_specifications_json" not in cols:
+            self.conn.execute("ALTER TABLE products ADD COLUMN extra_specifications_json TEXT")
 
     def close(self) -> None:
         self.conn.close()
@@ -310,10 +318,10 @@ class Storage:
             self.conn.execute(
                 """INSERT INTO products(product_id, source_product_id, canonical_url, name, brand, manufacturer,
                      parent_sku, product_type, category_path_json, description, price_min, price_max, price_type,
-                     currency, availability, rating_value, review_count, specifications_json, image_urls_json,
-                     alternative_products_json, extraction_method, field_provenance_json, validation_status,
+                     currency, availability, rating_value, review_count, specifications_json, extra_specifications_json,
+                     image_urls_json, alternative_products_json, extraction_method, field_provenance_json, validation_status,
                      validation_issues_json, scraped_at, first_seen_at, content_hash, last_run_id)
-                   VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+                   VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
                    ON CONFLICT(product_id) DO UPDATE SET
                      source_product_id=excluded.source_product_id, canonical_url=excluded.canonical_url,
                      name=excluded.name, brand=excluded.brand, manufacturer=excluded.manufacturer,
@@ -322,7 +330,9 @@ class Storage:
                      price_min=excluded.price_min, price_max=excluded.price_max, price_type=excluded.price_type,
                      currency=excluded.currency, availability=excluded.availability,
                      rating_value=excluded.rating_value, review_count=excluded.review_count,
-                     specifications_json=excluded.specifications_json, image_urls_json=excluded.image_urls_json,
+                     specifications_json=excluded.specifications_json,
+                     extra_specifications_json=excluded.extra_specifications_json,
+                     image_urls_json=excluded.image_urls_json,
                      alternative_products_json=excluded.alternative_products_json,
                      extraction_method=excluded.extraction_method, field_provenance_json=excluded.field_provenance_json,
                      validation_status=excluded.validation_status, validation_issues_json=excluded.validation_issues_json,
@@ -331,7 +341,7 @@ class Storage:
                  p.product_type, _j(p.category_path), p.description,
                  None if p.price_min is None else str(p.price_min), None if p.price_max is None else str(p.price_max),
                  p.price_type.value if p.price_type else None, p.currency, p.availability.value, p.rating_value,
-                 p.review_count, _j(p.specifications), _j(p.image_urls),
+                 p.review_count, _j(p.specifications), _j(p.extra_specifications), _j(p.image_urls),
                  _j([a.model_dump() for a in p.alternative_products]), p.extraction_method, _j(p.field_provenance),
                  p.validation_status, _j(p.validation_issues), p.scraped_at, p.scraped_at, h, run_id),
             )

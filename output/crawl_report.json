@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T01:49:49+00:00",
+  "generated_at": "2026-10-20T04:52:57+00:00",
   "run": {
-    "run_id": "20261020T014517Z-919512",
-    "elapsed_s": 266.0,
+    "run_id": "20261020T044924Z-94f6af",
+    "elapsed_s": 211.2,
     "counters": {
       "categories_discovered": 16,
       "listing_pages": 35,
@@ -12,8 +12,8 @@
       "products_stored": 148,
       "products_dead_lettered": 0,
       "inserted": 0,
-      "updated": 1,
-      "unchanged": 147
+      "updated": 11,
+      "unchanged": 137
     },
     "http": {
       "requests": 2,
@@ -36,8 +36,8 @@
         "llm_fallback_fields_recovered": 0,
         "llm_fallback_rejected_values": 0,
         "llm_spec_calls": 119,
-        "llm_specs_added": 614,
-        "llm_specs_rejected": 56
+        "llm_specs_added": 709,
+        "llm_specs_rejected": 55
       },
       "validator": {
         "valid": 144,
@@ -63,9 +63,9 @@
       "model": "MiniMax-M2.5"
     },
     "product_latency_s": {
-      "p50": 3.78,
-      "p90": 4.06,
-      "max": 4.952999999979511
+      "p50": 3.0,
+      "p90": 3.06,
+      "max": 4.9689999999827705
     }
   },
   "totals": {
@@ -304,13 +304,63 @@
     "missing_variants": 4
   },
   "extraction_method": {
-    "deterministic": 32,
-    "deterministic+llm": 116
+    "deterministic": 30,
+    "deterministic+llm": 118
   },
   "price_type": {
     "exact": 21,
     "range": 123,
     "from": 4
+  },
+  "specification_quality": {
+    "canonical_keys_used": 27,
+    "canonical_values": 796,
+    "extra_keys_used": 5,
+    "extra_values": 5,
+    "products_with_canonical_specs": 118,
+    "top_canonical_keys": {
+      "Color": 91,
+      "Texture": 90,
+      "Cuff Style": 86,
+      "Count Per Pack": 83,
+      "Product Type": 72,
+      "Thickness": 70,
+      "Material": 68,
+      "Packs Per Case": 65,
+      "Powder Status": 62,
+      "Sterility": 19,
+      "Latex Protein Level": 12,
+      "Intended Use": 11,
+      "Form": 10,
+      "Absorbability": 8,
+      "Packaging": 7
+    },
+    "coverage_by_root_category": {
+      "Sutures & surgical products": {
+        "Sterility": "15/55",
+        "Product Type": "14/55",
+        "Material": "11/55",
+        "Form": "10/55",
+        "Absorbability": "8/55",
+        "Intended Use": "8/55",
+        "Absorption Time": "5/55",
+        "Packaging": "5/55",
+        "Standards": "4/55",
+        "Texture": "3/55"
+      },
+      "Dental Exam Gloves": {
+        "Color": "89/93",
+        "Texture": "87/93",
+        "Cuff Style": "86/93",
+        "Count Per Pack": "82/93",
+        "Thickness": "69/93",
+        "Packs Per Case": "65/93",
+        "Powder Status": "62/93",
+        "Product Type": "58/93",
+        "Material": "57/93",
+        "Latex Protein Level": "12/93"
+      }
+    }
   },
   "llm_usage_by_task": [
     {
@@ -324,12 +374,12 @@
     },
     {
       "task": "structure_specs",
-      "calls": 601,
-      "cached": 482,
-      "ok": 601,
-      "avg_latency_s": 5.86,
-      "prompt_tokens": 23732,
-      "completion_tokens": 54524
+      "calls": 1077,
+      "cached": 839,
+      "ok": 1077,
+      "avg_latency_s": 7.08,
+      "prompt_tokens": 84651,
+      "completion_tokens": 115818
     }
   ],
   "dead_letters": []

@@ -18,6 +18,7 @@ from pathlib import Path
 import httpx
 
 OUT = Path("output")
+ENUM_KEYS = {"Powder Status", "Sterility", "Latex Content"}
 
 
 def norm(s: str) -> str:
@@ -45,7 +46,9 @@ def main(per_category: int = 8) -> None:
     for root, p in sample:
         time.sleep(1.0)
         page = client.get(p["canonical_url"]).text
-        src = norm(page)
+        # raw HTML (catches values inside embedded JSON) + visible text with tags stripped (catches values
+        # whose words are split by inline markup such as <b>latex</b>)
+        src = norm(page) + " \n " + norm(re.sub(r"<[^>]+>", " ", page))
         checks: dict[str, tuple[int, int]] = {}
 
         def check(name: str, values: list[str]) -> None:
@@ -63,9 +66,15 @@ def main(per_category: int = 8) -> None:
         check("variant_prices", [v["price"] for v in p["variants"] if v["price"]])
         check("breadcrumbs", p["category_path"])
         check("brand", [p["brand"]])
-        check("llm_spec_values", [p["specifications"][k.split(".", 1)[1]] for k, v in p["field_provenance"].items()
-                                  if k.startswith("specifications.") and v == "llm"
-                                  and k.split(".", 1)[1] in p["specifications"]])
+        # LLM-derived spec values must occur in the page. Enum-normalized keys (e.g. "Not made with natural
+        # rubber latex" -> "Latex-free") are deliberately rewritten, so they are excluded from this check.
+        llm_vals = []
+        for k, v in p["field_provenance"].items():
+            field, _, name = k.partition(".")
+            if v == "llm" and field in ("specifications", "extra_specifications") and name not in ENUM_KEYS:
+                if name in p.get(field, {}):
+                    llm_vals.append(p[field][name])
+        check("llm_spec_values", llm_vals)
         rows.append((root, p, checks))
     client.close()
 
@@ -73,12 +82,16 @@ def main(per_category: int = 8) -> None:
     det_specs = llm_specs = det_only_products_with_specs = with_specs = 0
     for p in products:
         prov = p["field_provenance"]
-        n_llm = sum(1 for k, v in prov.items() if k.startswith("specifications.") and v == "llm")
-        n_det = len(p["specifications"]) - n_llm
+        all_specs = {**p["specifications"], **p.get("extra_specifications", {})}
+        n_llm = sum(1 for k, v in prov.items()
+                    if k.startswith(("specifications.", "extra_specifications.")) and v == "llm")
+        n_det = len(all_specs) - n_llm
         det_specs += n_det
         llm_specs += n_llm
         det_only_products_with_specs += n_det > 0
-        with_specs += len(p["specifications"]) > 0
+        with_specs += len(all_specs) > 0
+    canon_names = {k for p in products for k in p["specifications"]}
+    extra_names = {k for p in products for k in p.get("extra_specifications", {})}
     report = json.loads((OUT / "crawl_report.json").read_text(encoding="utf-8"))
     ex = report.get("run", {}).get("agents", {}).get("extractor", {})
     usage = report.get("llm_usage_by_task", [])
@@ -104,7 +117,8 @@ def main(per_category: int = 8) -> None:
               f"{with_specs}/{len(products)} |",
               f"| Structured spec values (total) | {det_specs} | {det_specs + llm_specs} |",
               f"| Avg specs per product | {det_specs / len(products):.2f} | {(det_specs + llm_specs) / len(products):.2f} |",
-              "", f"LLM spec values rejected by the evidence check this run: {ex.get('llm_specs_rejected', 'n/a')} "
+              "", f"Spec names: {len(canon_names)} canonical names in `specifications`, "
+              f"{len(extra_names)} long-tail names in `extra_specifications`.", "", f"LLM spec values rejected by the evidence check this run: {ex.get('llm_specs_rejected', 'n/a')} "
               f"(fallback values rejected: {ex.get('llm_fallback_rejected_values', 'n/a')}).", "",
               "LLM usage by task (all runs in the DB):", "", "```json", json.dumps(usage, indent=1), "```"]
     (OUT / "verification.md").write_text("\n".join(lines) + "\n", encoding="utf-8")

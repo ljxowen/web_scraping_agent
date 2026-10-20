@@ -106,7 +106,7 @@ async def test_llm_spec_structuring_keeps_only_quoted_values(lavender_page, fake
     p = ex.extract(lavender_page).product
     await ex.llm_structure_specs(p)
     assert p.specifications["Color"] == "Lavender"
-    assert p.specifications["Count Per Box"] == "250 gloves"
+    assert p.specifications["Count Per Pack"] == "250 gloves"  # mapped onto the vocabulary
     assert "Latex Free" not in p.specifications
     assert p.specifications["Thickness"].startswith("at palm")  # deterministic value kept
     assert p.field_provenance["specifications.Color"] == "llm"
@@ -171,3 +171,18 @@ def test_multi_fragment_evidence_window_is_bounded():
 def test_values_must_be_copied_not_recombined(value, ok):
     source = evidence = "Lavender color. Nitrile exam gloves, powder-free."
     assert evidence_supported(value, evidence, source) is ok
+
+
+def test_llm_values_are_stored_as_exact_source_spans():
+    from safco_agent.agents.extractor import verbatim_span
+    src = "Both bags are not manufactured with latex, PVC or DEHP. Click here."
+    assert verbatim_span("Not manufactured with latex, PVC, or DEHP", src) == "not manufactured with latex, PVC or DEHP"
+    assert verbatim_span("Lavender", "Lavender color") == "Lavender"
+    assert verbatim_span("Purple", "Lavender color") is None
+
+
+def test_verbatim_span_keeps_surrounding_punctuation():
+    from safco_agent.agents.extractor import verbatim_span
+    src = "Ambidextrous\n250 gloves per box (230 for x-large)\nOrder 10 boxes"
+    assert verbatim_span("250 gloves per box (230 for x-large)", src) == "250 gloves per box (230 for x-large)"
+    assert verbatim_span("(230 for x-large)", src) == "(230 for x-large)"

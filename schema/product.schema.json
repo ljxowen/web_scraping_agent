@@ -54,6 +54,9 @@
         "in_stock",
         "out_of_stock",
         "backorder",
+        "special_order",
+        "drop_ship",
+        "not_purchasable",
         "discontinued",
         "unknown"
       ],
@@ -310,6 +313,13 @@
         "type": "string"
       },
       "title": "Specifications",
+      "type": "object"
+    },
+    "extra_specifications": {
+      "additionalProperties": {
+        "type": "string"
+      },
+      "title": "Extra Specifications",
       "type": "object"
     },
     "image_urls": {

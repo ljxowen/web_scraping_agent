@@ -11,6 +11,7 @@ from __future__ import annotations
 from decimal import Decimal
 from urllib.parse import urlsplit
 
+from ..extractors.spec_vocabulary import normalize_specifications
 from ..models import ExtractionResult, Product, ValidationResult
 
 MAX_REASONABLE_PRICE = Decimal("100000")
@@ -27,6 +28,7 @@ class ValidatorAgent:
         p.image_urls = list(dict.fromkeys(p.image_urls))
         p.category_path = [c.strip() for c in p.category_path if c and c.strip()]
         p.specifications = {k.strip(): " ".join(v.split()) for k, v in p.specifications.items() if k and v}
+        normalize_specifications(p)
         # de-duplicate variants by SKU, keeping first occurrence
         seen, variants = set(), []
         for v in p.variants:

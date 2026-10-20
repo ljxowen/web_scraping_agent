@@ -17,6 +17,7 @@ from selectolax.lexbor import LexborHTMLParser
 from ..extractors import jsonld as J
 from ..extractors import magento_dom as D
 from ..extractors.recommendations import alternatives_from_recs
+from ..extractors.spec_vocabulary import normalize_specifications, vocabulary_prompt
 from ..extractors.variants import (extract_master_data, normalize_availability, parse_pack, parse_price,
                                    parse_option_attributes, variants_from_master_data)
 from ..infra.llm import LLMClient, LLMError
@@ -92,6 +93,28 @@ def evidence_supported(value: str, evidence: str, source: str) -> bool:
 def _price_str(v) -> str | None:
     d = parse_price(v)
     return None if d is None else f"{d:.2f}"
+
+
+def verbatim_span(value: str, source: str) -> str | None:
+    """The exact source text matching `value` up to case, spacing and punctuation, or None.
+
+    Models sometimes re-punctuate a quote ("PVC or DEHP" -> "PVC, or DEHP"); storing the source span
+    keeps stored values genuinely verbatim."""
+    toks = re.findall(r"[A-Za-z0-9]+", value)
+    if not toks:
+        return None
+    m = re.search(r"[\W_]*".join(re.escape(t) for t in toks), source, re.I)
+    if not m:
+        return None
+    start, end = m.start(), m.end()
+    # keep surrounding punctuation the value also has, e.g. the ")" in "250/box (230 for x-large)"
+    lead = re.match(r"[^\w\s]*", value.strip()).group(0)
+    trail = re.search(r"[^\w\s]*$", value.strip()).group(0)
+    if trail and source[end:end + len(trail)] == trail:
+        end += len(trail)
+    if lead and source[max(0, start - len(lead)):start] == lead:
+        start -= len(lead)
+    return source[start:end]
 
 
 def product_id_for(source_id: str | None, url: str) -> str:
@@ -359,7 +382,8 @@ class ExtractorAgent:
         """Description lines that carry attribute-like facts not captured as 'Key: value' specs."""
         if not product.description:
             return []
-        captured = {_norm(f"{k}: {v}") for k, v in product.specifications.items()}
+        known = {**product.specifications, **product.extra_specifications}
+        captured = {_norm(f"{k}: {v}") for k, v in known.items()}
         lines: list[str] = []
         for line in product.description.split("\n"):
             # long prose paragraphs are split into sentences so each fact is judged on its own
@@ -381,7 +405,11 @@ class ExtractorAgent:
             "(material, size, dimensions, thickness, color, count per pack, sterility, powder status, texture, "
             "length, gauge, absorbability, etc.). Skip marketing claims and ordering/promotional notes. "
             "Each value must be copied from the text; include `evidence`, a verbatim quote containing the value. "
-            'Respond with JSON only: {"specifications": [{"name": "Title Case Name", "value": "...", '
+            "Use EXACTLY one of these specification names whenever the fact fits it:\n"
+            + vocabulary_prompt() +
+            "\nOnly for a fact that fits none of them, use a short Title Case name of your own. "
+            "Do not output the brand or product name. "
+            'Respond with JSON only: {"specifications": [{"name": "...", "value": "...", '
             '"evidence": "..."}]}'
         )
         user = f"Product: {product.name}\nDescription lines:\n<<<\n{source}\n>>>"
@@ -399,10 +427,12 @@ class ExtractorAgent:
             if not evidence_supported(v, ev, source):
                 self.stats["llm_specs_rejected"] += 1
                 continue
-            if k not in product.specifications:
+            v = verbatim_span(v, source) or v
+            if k not in product.specifications and k not in product.extra_specifications:
                 product.specifications[k] = v
                 product.field_provenance[f"specifications.{k}"] = "llm"
                 added += 1
+        normalize_specifications(product)
         if added:
             self.stats["llm_specs_added"] += added
             if product.extraction_method == "deterministic":
