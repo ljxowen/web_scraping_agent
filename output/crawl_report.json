@@ -1,0 +1,336 @@
+{
+  "generated_at": "2026-10-19T20:45:01+00:00",
+  "run": {
+    "run_id": "20261019T204038Z-013c83",
+    "elapsed_s": 260.6,
+    "counters": {
+      "categories_discovered": 16,
+      "listing_pages": 35,
+      "product_urls_discovered": 148,
+      "duplicate_urls_skipped": 148,
+      "products_processed": 148,
+      "products_stored": 148,
+      "products_dead_lettered": 0,
+      "inserted": 0,
+      "updated": 17,
+      "unchanged": 131
+    },
+    "http": {
+      "requests": 2,
+      "retries": 0,
+      "errors": 0
+    },
+    "browser": {
+      "navigations": 164,
+      "errors": 0
+    },
+    "agents": {
+      "classifier": {
+        "rule": 148,
+        "llm": 0,
+        "ambiguous_unresolved": 0
+      },
+      "extractor": {
+        "deterministic": 148,
+        "llm_fallback_attempts": 0,
+        "llm_fallback_fields_recovered": 0,
+        "llm_fallback_rejected_values": 0,
+        "llm_spec_calls": 119,
+        "llm_specs_added": 614,
+        "llm_specs_rejected": 56
+      },
+      "validator": {
+        "valid": 144,
+        "valid_with_warnings": 4,
+        "recoverable": 0,
+        "fatal": 0
+      },
+      "recovery": {
+        "rerender": 0,
+        "retry_http": 0,
+        "llm_extract": 0,
+        "give_up": 0
+      }
+    },
+    "llm": {
+      "calls": 0,
+      "cache_hits": 119,
+      "failures": 0,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "latency_s": 0.0,
+      "available": true,
+      "model": "MiniMax-M2.5"
+    },
+    "product_latency_s": {
+      "p50": 3.73,
+      "p90": 4.16,
+      "max": 6.202999999979511
+    }
+  },
+  "totals": {
+    "product_families": 148,
+    "sku_variants": 742,
+    "unique_skus": 741,
+    "skus_shared_across_products": [
+      "4180087"
+    ],
+    "dead_letters": 0
+  },
+  "jobs": {
+    "category": {
+      "done": 16
+    },
+    "product": {
+      "done": 148
+    }
+  },
+  "products_per_root_category": {
+    "Sutures & surgical products": {
+      "products": 55,
+      "variants": 350
+    },
+    "Dental Exam Gloves": {
+      "products": 93,
+      "variants": 392
+    }
+  },
+  "products_per_category": {
+    "Dental Exam Gloves": 93,
+    "Sutures & surgical products": 55,
+    "Bone grafting tissue augmentation": 14,
+    "Chloroprene gloves": 10,
+    "Cold packs": 2,
+    "Glove Holder": 1,
+    "IV fluids and administration sets": 5,
+    "Latex gloves": 16,
+    "Nitrile gloves": 62,
+    "Periodontal dressings": 3,
+    "Surgical blades and scalpels": 15,
+    "Surgical gloves": 3,
+    "Surgical medicaments and packing": 10,
+    "Suture needles": 1,
+    "Sutures": 5,
+    "Vinyl gloves": 1
+  },
+  "listing_traversal": [
+    {
+      "category": "https://www.safcodental.com/catalog/sutures-surgical-products",
+      "nb_hits": 55,
+      "nb_pages": 5,
+      "pages_seen": 5,
+      "hits": 55,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 0
+    },
+    {
+      "category": "https://www.safcodental.com/catalog/sutures-surgical-products/bone-grafting",
+      "nb_hits": 14,
+      "nb_pages": 2,
+      "pages_seen": 2,
+      "hits": 14,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 1
+    },
+    {
+      "category": "https://www.safcodental.com/catalog/sutures-surgical-products/cold-packs",
+      "nb_hits": 2,
+      "nb_pages": 1,
+      "pages_seen": 1,
+      "hits": 2,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 1
+    },
+    {
+      "category": "https://www.safcodental.com/catalog/sutures-surgical-products/iv-fluids-and-administration-sets",
+      "nb_hits": 5,
+      "nb_pages": 1,
+      "pages_seen": 1,
+      "hits": 5,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 1
+    },
+    {
+      "category": "https://www.safcodental.com/catalog/sutures-surgical-products/periodontal-dressings",
+      "nb_hits": 3,
+      "nb_pages": 1,
+      "pages_seen": 1,
+      "hits": 3,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 1
+    },
+    {
+      "category": "https://www.safcodental.com/catalog/sutures-surgical-products/surgical-blades-and-scalpels",
+      "nb_hits": 15,
+      "nb_pages": 2,
+      "pages_seen": 2,
+      "hits": 15,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 1
+    },
+    {
+      "category": "https://www.safcodental.com/catalog/sutures-surgical-products/surgical-medicaments-and-packing",
+      "nb_hits": 10,
+      "nb_pages": 1,
+      "pages_seen": 1,
+      "hits": 10,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 1
+    },
+    {
+      "category": "https://www.safcodental.com/catalog/sutures-surgical-products/suture-needles",
+      "nb_hits": 1,
+      "nb_pages": 1,
+      "pages_seen": 1,
+      "hits": 1,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 1
+    },
+    {
+      "category": "https://www.safcodental.com/catalog/sutures-surgical-products/sutures",
+      "nb_hits": 5,
+      "nb_pages": 1,
+      "pages_seen": 1,
+      "hits": 5,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 1
+    },
+    {
+      "category": "https://www.safcodental.com/catalog/gloves",
+      "nb_hits": 93,
+      "nb_pages": 8,
+      "pages_seen": 8,
+      "hits": 93,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 0
+    },
+    {
+      "category": "https://www.safcodental.com/catalog/gloves/chloroprene-gloves",
+      "nb_hits": 10,
+      "nb_pages": 1,
+      "pages_seen": 1,
+      "hits": 10,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 1
+    },
+    {
+      "category": "https://www.safcodental.com/catalog/gloves/glove-holder",
+      "nb_hits": 1,
+      "nb_pages": 1,
+      "pages_seen": 1,
+      "hits": 1,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 1
+    },
+    {
+      "category": "https://www.safcodental.com/catalog/gloves/latex-gloves",
+      "nb_hits": 16,
+      "nb_pages": 2,
+      "pages_seen": 2,
+      "hits": 16,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 1
+    },
+    {
+      "category": "https://www.safcodental.com/catalog/gloves/nitrile-gloves",
+      "nb_hits": 62,
+      "nb_pages": 6,
+      "pages_seen": 6,
+      "hits": 62,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 1
+    },
+    {
+      "category": "https://www.safcodental.com/catalog/gloves/surgical-gloves",
+      "nb_hits": 3,
+      "nb_pages": 1,
+      "pages_seen": 1,
+      "hits": 3,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 1
+    },
+    {
+      "category": "https://www.safcodental.com/catalog/gloves/vinyl-gloves",
+      "nb_hits": 1,
+      "nb_pages": 1,
+      "pages_seen": 1,
+      "hits": 1,
+      "source": "algolia",
+      "stopped": "last_page",
+      "depth": 1
+    }
+  ],
+  "field_completeness_products": {
+    "name": 1.0,
+    "brand": 1.0,
+    "parent_sku": 1.0,
+    "category_path": 1.0,
+    "canonical_url": 1.0,
+    "price_min": 1.0,
+    "availability": 1.0,
+    "description": 1.0,
+    "image_urls": 1.0,
+    "variants": 0.973
+  },
+  "field_completeness_variants": {
+    "sku": 1.0,
+    "manufacturer_code": 1.0,
+    "price": 1.0,
+    "availability": 1.0,
+    "pack_size": 0.895,
+    "unit_of_measure": 0.953
+  },
+  "sku_coverage": 1.0,
+  "validation_status": {
+    "valid": 144,
+    "valid_with_warnings": 4
+  },
+  "validation_issues": {
+    "missing_variants": 4
+  },
+  "extraction_method": {
+    "deterministic": 32,
+    "deterministic+llm": 116
+  },
+  "price_type": {
+    "exact": 21,
+    "range": 123,
+    "from": 4
+  },
+  "llm_usage_by_task": [
+    {
+      "task": "extract_fallback",
+      "calls": 4,
+      "cached": 0,
+      "ok": 4,
+      "avg_latency_s": 8.25,
+      "prompt_tokens": 2824,
+      "completion_tokens": 2136
+    },
+    {
+      "task": "structure_specs",
+      "calls": 482,
+      "cached": 363,
+      "ok": 482,
+      "avg_latency_s": 5.86,
+      "prompt_tokens": 23732,
+      "completion_tokens": 54524
+    }
+  ],
+  "dead_letters": []
+}

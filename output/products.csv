@@ -1,0 +1,1054 @@
+﻿product_id,name,brand,manufacturer,parent_sku,product_type,root_category,category_path,categories,canonical_url,price_min,price_max,price_type,currency,availability,variant_count,variant_skus,rating_value,review_count,description,specifications,image_urls,alternative_products,extraction_method,validation_status,validation_issues,scraped_at,content_hash
+safco:100882,ActCel,Coreva Health Sciences,Coreva Health Sciences,PFPAJ,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical medicaments and packing,Sutures & surgical products; Surgical medicaments and packing,https://www.safcodental.com/product/actcel,108.29,108.29,exact,USD,in_stock,1,5140022,,,Hemostatic non-resorbable gauze. For external use. Absorbs exudates such as blood or other bodily fluids. Easy to cut to any size or shape. Dispensed in individual sterile pouches.,{},https://www.safcodental.com/media/catalog/product/p/f/pfpaj.jpg,Safco SureStitch Sutures (PFEMN),deterministic,valid,,2026-10-19T20:43:00+00:00,dea2498ec334784b
+safco:103217,Alasta PRO with Glide Assist Technology,Dash,Dash,DRCDK,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/alasta-pro,28.49,28.49,range,USD,in_stock,5,4681214; 4681216; 4681218; 4681220; 4681222,,,"Make glove changes faster and easier with Alasta® PRO nitrile dental exam gloves, featuring innovative Glide Assist™ technology that helps you slide into gloves effortlessly — even with damp hands. Designed for dental professionals, the Soft Fit™ formulation provides a comfortable, form-fitting feel that enhances dexterity during procedures.
+The professional medical blue color offers a clean, clinical look that complements any operatory setting. Alasta® PRO gloves are fentanyl-tested and chemo-approved, ensuring trusted protection for use in high-risk or clinical dental environments.
+Each box contains 200 premium nitrile gloves, offering exceptional value and efficiency for busy dental practices.","{""Color"": ""Medical Blue"", ""Count Per Box"": ""200"", ""Material"": ""Nitrile""}",https://www.safcodental.com/media/catalog/product/d/r/drcdk.jpg; https://www.safcodental.com/media/catalog/product/h/q/hqdefault_10_5.jpg,Safco Nitrilex (DRCAL); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:43:41+00:00,c8e6ba90859acd5a
+safco:95836,Alasta aloe,Dash,Dash,DRCAU,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/alasta-reg-aloe,13.99,13.99,range,USD,in_stock,4,4680805; 4680812; 4680820; 4680827,5.0,2,"Soft-Fit ™ p owder-free nitrile exam gloves.
+The Alasta Aloe nitrile exam gloves are a great choice for those who care for their hands. Experience the power of certified organic aloe, skin friendly design, and the Soft Fit™ thin nitrile formulation. When you need nitrile gloves but want the comfort and performance of latex.
+Organic aloe provides soothing benefit to dry, irritated skin
+Skin friendly nitrile formulation lowers risk of developing contact dermatitis
+Glides on damp hands easily
+Thin design delivers increased touch sensitivity
+Cool green color","{""Brand"": ""Alasta Aloe"", ""Color"": ""Cool Green"", ""Product Type"": ""Exam Gloves"", ""Skin Care Ingredient"": ""Certified Organic Aloe""}",https://www.safcodental.com/media/catalog/product/d/r/drcau.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex UltraSoft Gloves (DRCBN),deterministic+llm,valid,,2026-10-19T20:43:36+00:00,2887a89083661c04
+safco:95824,Alasta,Dash,Dash,DRCAN,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/alasta-sup-reg-sup,13.49,25.99,range,USD,in_stock,10,4680714; 4680720; 4680726; 4680732; 4681102; 4681105; 4681108; 4681111; 4681112; 4681210,4.2,5,"Textured whole hand finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+Blue color
+Thickness: at palm 3.1 mils; at fingertip 3.9 mils; ± 1.2
+Order 10 boxes to purchase a case","{""Color"": ""Blue color"", ""Cuff Style"": ""Beaded cuff"", ""Finish"": ""Textured whole hand finish"", ""Thickness"": ""at palm 3.1 mils; at fingertip 3.9 mils; ± 1.2""}",https://www.safcodental.com/media/catalog/product/d/r/drcan.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:43:22+00:00,4060a730f79a1564
+safco:95971,Alasta Shimmer Pink Nitrile,Dash,Dash,DRCCV,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/alasta-sup-reg-sup-shimmer-pink-nitrile,14.49,14.49,range,USD,in_stock,4,4680055; 4680058; 4680061; 4680064,5.0,1,"Powder-free nitrile exam gloves.
+Pink for a cause: for every case sold, DASH® Medical donates $1 to The American Cancer Society Textured fingertip finish Beaded cuff Ambidextrous Pink color Tested for use with chemotherapy drugs Thickness: at palm 2.8 mils; at fingertips 3.9 mils 100 gloves per box Order 10 boxes to purchase a case","{""Color"": ""Pink"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""Beaded"", ""Handedness"": ""Ambidextrous"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Product Type"": ""Exam Gloves"", ""Texture"": ""Textured fingertip"", ""Thickness At Fingertips"": ""3.9 mils"", ""Thickness At Palm"": ""2.8 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drccv.jpg,Safco Nitrilex Black Gloves (DRCCX); Safco Nitrilex (DRCAL); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Soothe (DRCDJ); Safco Durasoft Latex (DRBBK),deterministic+llm,valid,,2026-10-19T20:43:35+00:00,d2d6cb3d813a594a
+safco:95737,AloePro,Dash,Dash,DRBAD,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/aloepro-trade,14.99,14.99,range,USD,in_stock,4,4680147; 4680158; 4680169; 4680173,,,"Powder-free latex exam gloves.
+Coated on the inside with soothing aloe to help moisturize and soften your hands while working. The gloves are fully textured, providing a firm grip.
+Textured whole hand finish
+Powder-free
+Beaded cuff
+Chlorinated
+Ambidextrous
+50μg or less of latex protein
+Natural color
+Aloe coated
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Natural"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""Beaded"", ""Inner Coating"": ""Aloe"", ""Latex Protein Content"": ""50μg or less"", ""Material"": ""Latex"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured""}",https://www.safcodental.com/media/catalog/product/d/r/drbad.jpg,Safco Nitrilex (DRCAL); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Durasoft Latex (DRBBK); Safco Nitrilex Prevail Gloves (DRCCJ),deterministic+llm,valid,,2026-10-19T20:44:41+00:00,269325beb9e54c69
+safco:95878,Aqua Source,Cranberry,Cranberry,DRCBL,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/aqua-source-reg,24.99,24.99,range,USD,in_stock,5,4711902; 4711905; 4711908; 4711911; 4711912,5.0,1,"Powder-free nitrile exam gloves.
+Natural form-fitting gloves coated with lanolin and Vitamin E.
+Textured whole hand finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Aqua color
+Thickness: at palm 3.2 mils; at fingertips 4.0 mils
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Aqua"", ""Count Per Box"": ""200 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured whole hand finish"", ""Thickness"": ""at palm 3.2 mils; at fingertips 4.0 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbl_2.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS),deterministic+llm,valid,,2026-10-19T20:44:02+00:00,2f8987c5300856b2
+safco:96034,"AquaPrene Polychloroprene Powder Free Examination Gloves, 200/Box",Cranberry,Cranberry,DRDAL,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Chloroprene gloves,Dental Exam Gloves; Chloroprene gloves,https://www.safcodental.com/product/aquaprene-reg,33.99,33.99,range,USD,in_stock,5,4713701; 4713703; 4713705; 4713707; 4713709,4.33,3,"Powder-free chloroprene examination gloves.
+Combines the comfort of latex and the strength of nitrile.
+Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Aqua blue color
+Thickness: at palm 2.8 mils; at fingertip3.5 mils; ±0.8
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Aqua blue"", ""Count Per Box"": ""200 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Powder Status"": ""Powder-free"", ""Product Type"": ""Examination gloves"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 2.8 mils; at fingertip3.5 mils; ±0.8""}",https://www.safcodental.com/media/catalog/product/d/r/drdal_2.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex (DRCAL); Safco Nitrilex Black Gloves (DRCCX),deterministic+llm,valid,,2026-10-19T20:43:38+00:00,04745e2dee294084
+safco:95896,Aquasoft,Halyard,Halyard,DRCBT,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/aquasoft,41.49,41.49,range,USD,in_stock,5,3021302; 3021304; 3021306; 3021308; 3021309,4.83,6,"Powder-free nitrile exam gloves.
+Ultra-thin with a silky, snug fit. Easy to don.
+Textured fingertip finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Blue
+Thickness: at palm 2.8mils; at fingertips 3.1 mils
+300 gloves per box
+Order 10 boxes to purchase a case","{""Count Per Box"": ""300 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 2.8mils; at fingertips 3.1 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbt.jpg,Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex (DRCAL); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:43:20+00:00,55e74c1a301dd336
+safco:95935,Aurelia Absolute,Supermax,Supermax,DRCCI,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/aurelia-reg-absolute-trade,16.49,16.49,range,USD,in_stock,5,4871402; 4871404; 4871406; 4871408; 4871410,5.0,1,"Powder-free nitrile exam gloves.
+Soft nitrile formulation with a high contrast black satin finish.
+Textured full finger finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Black color
+Thickness: at palm 3.2 mils; at fingertip 4.0 mils
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Black"", ""Count Per Box"": ""200 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Finish"": ""Black satin finish"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured full finger"", ""Thickness"": ""at palm 3.2 mils; at fingertip 4.0 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcci.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:43:38+00:00,205b6900c7b9cb1d
+safco:95881,Aurelia Amazing,Supermax,Supermax,DRCBM,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/aurelia-reg-amazing-reg,20.99,20.99,range,USD,in_stock,5,4871102; 4871105; 4871108; 4871111; 4871114,5.0,7,"Powder-free nitrile exam gloves.
+Thinner and more flexible than standard nitrile.
+Textured fingertip finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Purple color
+Thickness: at palm 2.0 mils; at fingertips 3.0 mils
+300 gloves per box (270 for x-large)
+Order 10 boxes to purchase a case","{""Color"": ""Purple"", ""Cuff Style"": ""Beaded"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Product Type"": ""Exam gloves"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 2.0 mils; at fingertips 3.0 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbm.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex (DRCAL); Safco Nitrilex Black Gloves (DRCCX),deterministic+llm,valid,,2026-10-19T20:43:19+00:00,aebf486aff3a9729
+safco:95899,Aurelia Blush,Supermax,Supermax,DRCBU,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/aurelia-reg-blush-reg,16.49,16.49,range,USD,in_stock,4,4871202; 4871204; 4871206; 4871208,5.0,1,"Powder-free nitrile exam gloves.
+Ultra-stretch nitrile.
+Textured fingertip finish
+Polymer coated for easy donning
+Beaded cuff
+Chlorinated
+Ambidextrous
+Pink color
+Thickness: at palm 2.5 mils; at fingertips 2.7 mils
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Pink"", ""Cuff Style"": ""beaded"", ""Material"": ""nitrile"", ""Powder Status"": ""powder-free"", ""Quantity Per Box"": ""200 gloves"", ""Texture"": ""textured fingertip"", ""Thickness"": ""at palm 2.5 mils; at fingertips 2.7 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbu.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:43:30+00:00,aa56e5de71cf866d
+safco:95950,Aurelia Bold,Supermax,Supermax,DRCCN,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/aurelia-reg-bold-reg,7.90,7.99,range,USD,in_stock,5,4871420; 4871422; 4871424; 4871426; 4871428,,,"Nitrile powder-free exam gloves.
+Maximum strength and durability.
+Fully-textured finish for improved grip
+Beaded cuff
+Chlorinated
+Ambidextrous
+Black color
+Thickness: at palm 5.0 mils; at fingertips 6.0 mils
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Black"", ""Count Per Box"": ""100 gloves per box"", ""Cuff Style"": ""Beaded"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Fully-textured"", ""Thickness"": ""at palm 5.0 mils; at fingertips 6.0 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drccn.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Black Gloves (DRCCX); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex (DRCAL),deterministic+llm,valid,,2026-10-19T20:43:50+00:00,4b6d79d89e310eb1
+safco:95770,Aurelia Distinct,Supermax,Supermax,DRBBA,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/aurelia-reg-distinct-reg,8.99,8.99,range,USD,in_stock,4,4870529; 4870534; 4870547; 4870551,5.0,1,"Honeycomb textured fingertips and palms
+Beaded cuff
+Non-Chlorinated
+Ambidextrous
+50μg or less of latex protein
+White color
+Polymer coated for easy donning
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""White"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""Beaded cuff"", ""Latex Protein Content"": ""50μg or less"", ""Texture"": ""Honeycomb textured fingertips and palms""}",https://www.safcodental.com/media/catalog/product/s/u/supermax-aurelia-distinct.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex (DRCAL); Safco Durasoft Latex (DRBBK); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS),deterministic+llm,valid,,2026-10-19T20:43:47+00:00,c239464b4a98cc3a
+safco:95746,Aurelia Refresh,Supermax,Supermax,DRBAO,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/aurelia-reg-refresh-reg,10.49,10.49,range,USD,in_stock,5,4870019; 4870024; 4870035; 4870046; 4870048,5.0,1,"Honeycomb textured fingertips and palms
+Beaded cuff
+Non-Chlorinated
+Ambidextrous
+50μg or less of latex protein
+Green color
+Polymer coated for easy donning
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Green"", ""Count Per Box"": ""100 gloves"", ""Cuff Type"": ""Beaded cuff"", ""Latex Protein Content"": ""50μg or less"", ""Texture"": ""Honeycomb textured fingertips and palms""}",https://www.safcodental.com/media/catalog/product/d/r/drbao.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex (DRCAL); Safco Durasoft Latex (DRBBK); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS),deterministic+llm,valid,,2026-10-19T20:43:39+00:00,68e9284463d8771d
+safco:95944,Aurelia Sonic 100,Supermax,Supermax,DRCCL,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/aurelia-reg-sonic-reg-100,7.59,7.59,range,USD,in_stock,5,4871320; 4871323; 4871326; 4871329; 4871331,5.0,1,"Nitrile powder-free exam gloves
+The same high tactility and lightweight comfort of Aurelia Sonic, but in a smaller count box to complement today’s more dynamic PPE environment.
+Textured fingertip finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Indigo blue color
+Thickness: at palm 2.2 mils; at fingertips 3.2 mils
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Indigo blue"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Product Type"": ""Exam gloves"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 2.2 mils; at fingertips 3.2 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drccl.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex (DRCAL); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:43:44+00:00,eafb2632c676ddba
+safco:95752,Aurelia Vibrant,Supermax,Supermax,DRBAS,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/aurelia-reg-vibrant-trade,7.99,7.99,range,USD,in_stock,4,4870322; 4870334; 4870345; 4870357,4.5,2,"Powder-free latex exam gloves.
+Micro-textured finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+50μg or less of latex protein
+Natural color
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Natural"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""Beaded"", ""Latex Protein Content"": ""50μg or less"", ""Material"": ""Latex"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Micro-textured""}",https://www.safcodental.com/media/catalog/product/d/r/drbas.jpg,Safco Durasoft Latex (DRBBK); Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:43:26+00:00,aa532d0374737a50
+safco:95860,Aurelia Perform,Supermax,Supermax,DRCBF,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/aurelia-sup-reg-sup-perform-sup-trade-sup,15.29,15.29,range,USD,in_stock,5,4870905; 4870911; 4870919; 4870926; 4870931,5.0,1,"Textured fingertip finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Teal green color
+Polymer coated for easy donning
+Thickness: at palm 2.5 mils; at fingertip 3.5 mils
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Teal green"", ""Count Per Box"": ""200 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 2.5 mils; at fingertip 3.5 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbf.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:43:42+00:00,236d99a91cf842c2
+safco:95815,Aurelia Protege,Supermax,Supermax,DRCAI,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/aurelia-sup-reg-sup-prot-eacute-g-eacute-sup-reg-sup,7.79,7.79,range,USD,in_stock,5,4870431; 4870439; 4870447; 4870458; 4870460,5.0,1,"Textured fingertip finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Blue color
+Thickness: at palm 4.0 mils; at fingertip 5.2 mils; ± 1.2
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Blue"", ""Count Per Box"": ""100 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 4.0 mils; at fingertip 5.2 mils; ± 1.2""}",https://www.safcodental.com/media/catalog/product/d/r/drcai.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:43:48+00:00,f1065b64a49a9a8f
+safco:95905,Aurelia Sonic,Supermax,Supermax,DRCBW,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/aurelia-sup-reg-sup-sonic-sup-reg-sup,24.49,24.49,range,USD,in_stock,5,4871301; 4871303; 4871305; 4871307; 4871309,4.5,2,"Nitrile powder-free exam gloves.
+Ultra-comfort nitrile formulation.
+Textured fingertip finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Indigo blue color
+Thickness: at palm 2.2 mils; at fingertips 3.2 mils
+300 gloves per box (270 for x-large)
+Order 10 boxes to purchase a case","{""Color"": ""Indigo blue"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Product Type"": ""Exam gloves"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 2.2 mils; at fingertips 3.2 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbw.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:43:32+00:00,4126b56ba7ca3c4a
+safco:95869,Aurelia Transform,Supermax,Supermax,DRCBI,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/aurelia-sup-reg-sup-transform-sup-reg-sup,16.49,16.49,range,USD,in_stock,4,4871002; 4871006; 4871012; 4871017,1.0,1,"Textured fingertip finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Blue color
+Polymer coated for easy donning
+Thickness: at palm 3.0 mils; at fingertip 3.8 mils
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Blue"", ""Count Per Pack"": ""200 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 3.0 mils; at fingertip 3.8 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbi.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:43:33+00:00,cac6f42a2ce5dbcc
+safco:100915,Barricaid,Dentsply Sirona,Dentsply Sirona,PFSGL,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Periodontal dressings,Sutures & surgical products; Periodontal dressings,https://www.safcodental.com/product/barricaid-reg,178.49,178.49,exact,USD,in_stock,1,2545052,4.0,1,"Visible light cured periodontal dressing in a convenient syringe delivery system for direct placement onto the surgical site. Forms a firm, elastic covering. Translucent pink for superior esthetics. Tasteless.",{},https://www.safcodental.com/media/catalog/product/p/f/pfsgl.jpg,,deterministic,valid,,2026-10-19T20:42:53+00:00,74621887c67e71db
+safco:95911,BeeSure Glacier Nitrile,EcoBee,EcoBee,DRCBY,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/beesure-reg-glacier-nitrile,25.49,25.49,range,USD,in_stock,4,4712701; 4712703; 4712705; 4712707,5.0,2,"Powder-free nitrile exam gloves.
+Natural, form-fitting gloves coated with lanolin and Vitamin E.
+Textured whole hand finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Aqua color
+Thickness: at palm 3.2 mils; at fingertips 4.0 mils
+300 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Aqua"", ""Count Per Box"": ""300 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""nitrile"", ""Powder Status"": ""powder-free"", ""Texture"": ""Textured whole hand finish"", ""Thickness"": ""at palm 3.2 mils; at fingertips 4.0 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcby.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:44:07+00:00,aa0e8b74b253e0f6
+safco:95779,BeeSure Latex,EcoBee,EcoBee,DRBBH,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/beesure-reg-latex,13.49,13.49,range,USD,in_stock,5,4711402; 4711409; 4711414; 4711420; 4711425,4.0,2,"Micro-textured whole hand finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+50μg or less of latex protein
+Natural color
+Polymer coating for easy donning
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Natural"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""Beaded cuff"", ""Latex Protein Content"": ""50μg or less"", ""Texture"": ""Micro-textured whole hand finish""}",https://www.safcodental.com/media/catalog/product/d/r/drbbh.jpg,Safco Durasoft Latex (DRBBK); Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex UltraSoft Gloves (DRCBN),deterministic+llm,valid,,2026-10-19T20:44:27+00:00,aacba5e96c63f2d5
+safco:96028,"BeeSure NeoGrene Chloroprene Powder Free Examination Gloves, 200/Box",EcoBee,EcoBee,DRDAH,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Chloroprene gloves,Dental Exam Gloves; Chloroprene gloves,https://www.safcodental.com/product/beesure-reg-neogrene-trade,31.79,31.79,range,USD,in_stock,4,4713401; 4713403; 4713405; 4713407,5.0,1,"Powder-free chloroprene examination gloves.
+Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Green color
+Polymer coated for easy donning
+Thickness: at palm 3.2 mils; at fingertip 3.4 mils; ±0.2
+200 gloves per box
+Order 10 boxes to purchase a case","{""Boxes Per Case"": ""10 boxes"", ""Color"": ""Green"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Chloroprene"", ""Powder Status"": ""Powder-free"", ""Quantity Per Box"": ""200 gloves per box"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 3.2 mils; at fingertip 3.4 mils; ±0.2""}",https://www.safcodental.com/media/catalog/product/d/r/drdah.jpg,Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex (DRCAL); Safco Nitrilex Black Gloves (DRCCX); Safco Durasoft Latex (DRBBK),deterministic+llm,valid,,2026-10-19T20:43:51+00:00,3538b0290ffe781c
+safco:95857,BeeSure Slim Nitrile,EcoBee,EcoBee,DRCBD,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/beesure-reg-slim-trade-nitrile,19.99,19.99,range,USD,in_stock,4,4711502; 4711510; 4711517; 4711525,5.0,1,"Textured fingertip finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+White color
+Thickness: at palm 2.5 mils; at fingertip 3 mils
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""White"", ""Count Per Box"": ""200 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 2.5 mils; at fingertip 3 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbd.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:44:34+00:00,79a7e1617db9e88e
+safco:95887,BeeSure SuperSlim Nitrile,EcoBee,EcoBee,DRCBO,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/beesure-reg-superslim-trade-nitrile,24.99,24.99,range,USD,in_stock,4,4712101; 4712103; 4712105; 4712107,4.85,13,"Powder-free nitrile exam gloves.
+Super soft and stretchy for comfortable extended wear.
+Textured fingertip finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+Cobalt blue color
+Thickness: at palm 2.0 mils; at fingertips 2.0 mils
+300 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Cobalt blue"", ""Count Per Box"": ""300 gloves"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 2.0 mils; at fingertips 2.0 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbo.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:43:22+00:00,422fbddd191b11d6
+safco:95851,BeeSure Nitrile,EcoBee,EcoBee,DRCAZ,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/beesure-sup-reg-sup-nitrile,11.49,11.49,range,USD,in_stock,5,4711201; 4711215; 4711223; 4711235; 4711238,4.5,4,"Textured fingertip finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+Blue color
+Thickness: at palm 3 mils; at fingertip 4 mils; ± 0.8
+100 gloves per box
+Order 10 boxes to purchase a case.","{""Color"": ""Blue"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""Beaded"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 3 mils; at fingertip 4 mils; ± 0.8""}",https://www.safcodental.com/media/catalog/product/d/r/drcaz.jpg,Safco Nitrilex Black Gloves (DRCCX); Safco Nitrilex (DRCAL); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:43:29+00:00,8eed1bee892d036c
+safco:95974,BeeSure UltraSlim Nitrile,EcoBee,EcoBee,DRCCW,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/beesure-ultraslim-nitrile,31.99,31.99,range,USD,in_stock,4,4712110; 4712112; 4712114; 4712116,5.0,3,"Powder-free nitrile exam gloves.
+Ultra tactile and donning ease.
+Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Blue color
+Thickness: at palm 2.0 mils; at fingertip 3.5 mils
+350 gloves per box (Large size 300 gloves per box)
+Order 10 boxes to purchase a case","{""Color"": ""Blue"", ""Cuff Style"": ""beaded cuff"", ""Material"": ""nitrile"", ""Powder Status"": ""powder-free"", ""Texture"": ""textured fingertip"", ""Thickness"": ""at palm 2.0 mils; at fingertip 3.5 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drccw.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:43:18+00:00,45a60c804e7294f7
+safco:96004,Bio Nitrile Gloves,Cranberry,Cranberry,DRCDG,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/bio-nitrile-sup-reg-sup,29.99,29.99,range,USD,in_stock,5,4710068; 4710070; 4710072; 4710074; 4710076,,,"Bio Nitrile gloves are made with advanced biodegradable materials that break down 90% in less than 1.5 years. This reduces permanent waste and means less greenhouse gas emissions.
+Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Blue color
+Thickness at palm 2.0 mils
+Thickness at fingertip 2.2 mils
+300 gloves per box (250 size XL)
+Order 10 boxes to purchase a case.","{""Color"": ""Blue"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Bio Nitrile"", ""Texture"": ""Textured fingertip finish"", ""Thickness At Fingertip"": ""2.2 mils"", ""Thickness At Palm"": ""2.0 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcdg.jpg,Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex (DRCAL); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:44:09+00:00,5aead10f8ea6f935
+safco:96010,Black Maxx Thin with Glide Assist Technology,Dash,Dash,DRCDI,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/black-maxx-sup-reg-sup,28.49,28.49,range,USD,in_stock,5,4680090; 4680092; 4680094; 4680096; 4680098,,,"Powder-free nitrile exam gloves with Glide Assist Technology.
+Proprietary inner coating helps gloves glide on damp hands easily.
+Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Black color
+Polymer coated
+Thickness: at palm 2.8 mils; at fingertip 3.9 mils
+Order 10 boxes to purchase a case","{""Color"": ""Black"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""nitrile"", ""Powder Status"": ""powder-free"", ""Product Type"": ""exam gloves"", ""Technology"": ""Glide Assist Technology"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 2.8 mils; at fingertip 3.9 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcdi.jpg,Safco Nitrilex (DRCAL); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Soothe (DRCDJ); Safco Durasoft Latex (DRBBK),deterministic+llm,valid,,2026-10-19T20:43:25+00:00,a7e6ca2bcec68f80
+safco:95776,Blossom,Mexpo,Mexpo,DRBBE,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/blossom-reg,5.00,5.00,exact,USD,in_stock,1,5640038,5.0,2,"Textured whole hand finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+No protein claim
+Natural color
+Polymer coating for easy donning
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Natural color"", ""Count Per Box"": ""100 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Finish"": ""Textured whole hand finish""}",https://www.safcodental.com/media/catalog/product/d/r/drbbe.jpg,Safco Nitrilex (DRCAL); Safco Durasoft Latex (DRBBK); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Prevail Gloves (DRCCJ),deterministic+llm,valid,,2026-10-19T20:44:49+00:00,9ea71bf3396953d6
+safco:95980,Carbon Air,Cranberry,Cranberry,DRCCY,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/carbon-reg-air,29.49,29.49,range,USD,in_stock,5,4712120; 4712122; 4712124; 4712126; 4712128,5.0,2,"Powder-free nitrile exam gloves.
+Exceptionally strong and flexible formulation prevents tearing, especially while donning.
+Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Black
+Thickness: at palm 2.0mils; at fingertips 2.7mils
+300 gloves per box (250 for x-large)
+Order 10 boxes to purchase a case","{""Count Per Box"": ""300 gloves per box (250 for x-large)"", ""Cuff Style"": ""Beaded"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 2.0mils; at fingertips 2.7mils""}",https://www.safcodental.com/media/catalog/product/d/r/drccy_2.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:43:35+00:00,deafd0dabf3d7c93
+safco:95929,Carbon Nitrile,Cranberry,Cranberry,DRCCG,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/carbon-reg-nitrile,20.99,20.99,range,USD,in_stock,5,4713901; 4713903; 4713905; 4713907; 4713909,5.0,1,"Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Black color
+Thickness: at palm 3.2 mils; at fingertip 3.4 mils
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Black"", ""Cuff Style"": ""Beaded"", ""Fingertip Finish"": ""Textured"", ""Gloves per Box"": ""200"", ""Thickness"": ""at palm 3.2 mils; at fingertip 3.4 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drccg_2.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:44:03+00:00,86550b4c5e67de1b
+safco:100918,Coe-Pak,GC America,GC America,PFSJP,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Periodontal dressings,Sutures & surgical products; Periodontal dressings,https://www.safcodental.com/product/coe-pak-trade,127.99,127.99,range,USD,in_stock,2,2802010; 2802035,1.0,1,"Non-eugenol surgical dressing and periodontal pack that has no burning sensation, no unpleasant taste, no disagreeable odor and offers proven protection to surgical sites. Extremely plastic and cohesive; ropes of any length or thickness can be formed. Sets with resilient, non-brittle hardness.",{},https://www.safcodental.com/media/catalog/product/p/f/pfsjp.jpg,,deterministic,valid,,2026-10-19T20:42:52+00:00,111a3fb8989ff5a6
+safco:100921,Coe-Pak Automix NDS,GC America,GC America,PFSMW,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Periodontal dressings,Sutures & surgical products; Periodontal dressings,https://www.safcodental.com/product/coe-pak-trade-automix-nds,82.99,156.99,range,USD,in_stock,2,2802603; 2807145,,,"Non-eugenol surgical dressing and periodontal pack that has no burning sensation, no unpleasant taste, no disagreeable odor and offers proven protection to surgical sites. Extremely pliable and cohesive; ropes of any length or thickness can be formed. Sets with resilient, non-brittle hardness.",{},https://www.safcodental.com/media/catalog/product/p/f/pfsmw.jpg,,deterministic,valid,,2026-10-19T20:43:07+00:00,074b051ef0c8d10d
+safco:100930,Coldstar Disposable Instant Non-Insulated Cold Pack,Coldstar,Coldstar,PFVJJ,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Cold packs,Sutures & surgical products; Cold packs,https://www.safcodental.com/product/coldstar-disposable-instant-non-insulated-cold-pack,20.99,73.99,range,USD,in_stock,4,5106382; 5106383; 5106385; 5106386,,,"Use in first aid treatment of: Bumps and Bruises, Sprains, Fractures, Minor Burns, Snake Bites, Insect Bites, Minor Bleeding, Nosebleeds, Headaches, Toothaches, Fever, Backaches, Sunstroke, Dislocations, Fatigue, Itching, Cramping, etc.
+Squeeze, Shake, Apply
+Instantly Cold
+FDA Approved
+Superior Quality
+Reaches therapeutic controlled temp every time
+Safe
+Time saving
+Provides maximum efficiency
+Non smear print
+Made in the USA",{},https://www.safcodental.com/media/catalog/product/p/f/pfvjj.jpg,Safco SureStitch Sutures (PFEMN),deterministic,valid,,2026-10-19T20:42:42+00:00,55db0280eb0da177
+safco:100933,CollaShield Collagen Membrane,Surgical Esthetics,Surgical Esthetics,PFWCC,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Bone grafting tissue augmentation,Sutures & surgical products; Bone grafting tissue augmentation,https://www.safcodental.com/product/collashield-trade-collagen-membrane,128.99,211.49,range,USD,in_stock,3,6130050; 6130053; 6130056,,,"Fully resorbable (16 weeks) purified porcine Type-I peritoneum membrane for osteogenesis during extraction socket preservation, ridge augmentation, periodontal defect repair or other grafting procedures.
+Common uses:
+Extraction ridge preservation.
+Periodontal defect repair.
+Vertical and horizontal ridge augmentation.
+Bone regeneration around teeth and implants.
+Sinus augmentation.
+Membrane technique utilizing tacks.
+Features and benefits:
+Highly purified porcine peritoneum tissue.
+Excellent biocompatibility.
+Easily trimmed and adapted to defect site.
+Mechanically strong, yet drapable.
+Fully absorbable.
+Cell occlusive - inhibits undesired epithelial ingrowth.
+Can be tacked or sutured in place.","{""Collagen Type"": ""Type-I"", ""Material"": ""purified porcine Type-I peritoneum membrane"", ""Resorption Time"": ""16 weeks""}",https://www.safcodental.com/media/catalog/product/p/f/pfwcc.jpg,Safco SureStitch Sutures (PFEMN),deterministic+llm,valid,,2026-10-19T20:42:09+00:00,e3f6027ddd674b52
+safco:103628,Compac Nitrile Gloves,Cranberry,Cranberry,DRCDM,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/compac-nitrile,8.49,8.49,range,USD,in_stock,5,4710150; 4710152; 4710154; 4710156; 4710158,,,"Compac Nitrile Exam Gloves are engineered to improve hygiene, efficiency, and storage optimization in dental and clinical environments. Featuring innovative By the Cuff® dispensing technology, these gloves allow users to retrieve one glove at a time while minimizing contact with glove palms and fingertips, helping reduce cross contamination during operatory preparation and patient care workflows.
+The compact polybag packaging design provides up to 2x the packing efficiency of traditional glove boxes while supporting improved chairside portability and storage flexibility. The leaflet-folded dispensing system helps eliminate accidental glove waste and supports faster, safer donning in high-volume practices.
+Constructed from powder-free nitrile with textured fingertips for improved grip and tactile sensitivity, Compac gloves deliver dependable barrier protection without natural rubber latex. The gloves are designed for clinical precision and comfortable extended wear across a variety of dental and healthcare applications.
+Available in multiple sizes and packaged 100 gloves per bag, Compac Nitrile Exam Gloves are ideal for hygiene operatories, restorative dentistry, oral surgery, and general clinical PPE workflows requiring efficient dispensing and infection control support.
+By the Cuff® Dispensing – Reduces glove contact points and cross contamination
+Single-Glove Dispensing – Helps minimize accidental glove waste
+Compact Polybag Packaging – Provides up to 2x packing efficiency versus traditional glove boxes
+Powder-Free Nitrile – Latex-free material supports barrier protection and reduced allergy concerns
+Textured Fingertips – Improves grip and tactile sensitivity during procedures
+Enhanced Hygiene Workflow – Gloves remain untouched until dispensing
+Portable Storage Design – Convenient for operatory and chairside placement
+100 Gloves per Bag – Efficient packaging for daily clinical use
+Brand: Cranberry® Compac
+Product Type: Nitrile Exam Gloves
+Material: Powder-free nitrile
+Thickness: Approximately 2.2–2.5 mil
+Texture: Fingertip textured
+Sterility: Non-sterile
+Color: Black
+Packaging: 100 gloves per bag
+Available Sizes: XS, S, M, L, XL
+Use Case: Dental and clinical examination procedures
+Dental hygiene procedures
+Restorative dentistry
+Chairside operatory preparation
+General clinical examinations
+Infection control and PPE workflows
+High-volume dental practice environments
+What is By the Cuff® dispensing?
+By the Cuff® dispensing allows gloves to be removed one at a time from the cuff area, helping reduce contamination and excessive glove contact.
+How does Compac reduce glove waste?
+The leaflet-folded dispensing system helps prevent multiple gloves from being accidentally removed at once.
+Are these gloves latex-free?
+Yes, Compac gloves are powder-free nitrile and do not contain natural rubber latex.
+What sizes are available?
+Compac Nitrile Exam Gloves are available in XS, Small, Medium, Large, and X-Large sizes.
+Are these suitable for dental operatories?
+Yes, they are designed specifically for dental and healthcare workflows requiring efficient dispensing and infection control support.","{""Available Sizes"": ""XS, S, M, L, XL"", ""Brand"": ""Cranberry® Compac"", ""Color"": ""Black"", ""Count Per Bag"": ""100 Gloves"", ""Material"": ""Powder-free nitrile"", ""Packaging"": ""100 gloves per bag"", ""Packaging Type"": ""Compact Polybag"", ""Product Type"": ""Nitrile Exam Gloves"", ""Sterility"": ""Non-sterile"", ""Texture"": ""Fingertip textured"", ""Thickness"": ""Approximately 2.2–2.5 mil"", ""Use Case"": ""Dental and clinical examination procedures""}",https://www.safcodental.com/media/catalog/product/c/r/cranberry-compac-nitrile-front-facing-100-box_1.jpg; https://www.safcodental.com/media/catalog/product/c/o/compac-nitrile-gloves-by-the-cuff-dispensing.jpg; https://www.safcodental.com/media/catalog/product/c/o/compac-nitrile-exam-gloves-by-the-cuff-dispensing-features.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex (DRCAL); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:43:44+00:00,0e74594634840f0c
+safco:95842,Contour Plus,Cranberry,Cranberry,DRCAW,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/contour-plus-trade,15.49,15.49,range,USD,in_stock,4,4710324; 4710332; 4710347; 4710355,5.0,1,"Textured whole hand finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+White color
+Thickness: at palm 4.3 mils; at fingertip 5.1 mils; ± 1.2
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""White"", ""Count Per Box"": ""100 gloves"", ""Cuff Type"": ""Beaded"", ""Finish"": ""Textured whole hand"", ""Thickness"": ""at palm 4.3 mils; at fingertip 5.1 mils; ± 1.2""}",https://www.safcodental.com/media/catalog/product/d/r/drcaw_2.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Surpass Gloves (DRCCS),deterministic+llm,valid,,2026-10-19T20:44:16+00:00,4879ee780bcf75f8
+safco:95845,Contour,Cranberry,Cranberry,DRCAX,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/contour-reg,10.29,10.29,from,USD,in_stock,0,,5.0,1,"Textured whole hand finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Blue color
+Thickness: at palm 4.3 mils; at fingertip 5 mils; ± 0.8
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Blue"", ""Count Per Box"": ""100 gloves per box"", ""Cuff Type"": ""Beaded cuff"", ""Finish"": ""Textured whole hand finish"", ""Thickness"": ""at palm 4.3 mils; at fingertip 5 mils; ± 0.8""}",https://www.safcodental.com/media/catalog/product/d/r/drcax_2.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid_with_warnings,missing_variants,2026-10-19T20:44:25+00:00,bcecd9322146313f
+safco:95917,Crave,Cranberry,Cranberry,DRCCA,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/crave-trade,24.49,24.49,range,USD,in_stock,4,4713502; 4713504; 4713506; 4713508,4.0,1,"Powder-free nitrile exam glove with lanolin and Vitamin E.
+Textured fingertip finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+Blue color
+Vitamin E and lanolin coated
+Thickness: at palm 3.5 mils; at fingertip 3.8 mils
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Blue"", ""Count Per Box"": ""200 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Special Additives"": ""Lanolin and Vitamin E"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 3.5 mils; at fingertip 3.8 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcca_2.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS),deterministic+llm,valid,,2026-10-19T20:44:11+00:00,a02f87a57cbe5211
+safco:95848,Curve Fitted,Cranberry,Cranberry,DRCAY,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/curve-reg-fitted,24.49,24.49,range,USD,in_stock,5,4711106; 4711117; 4711125; 4711138; 4711144,5.0,1,"Textured whole hand finish
+Beaded cuff
+Chlorinated
+Left/Right hand specific
+White color
+Thickness: at palm 3.5 mils; at fingertip 4 mils; ± 0.8
+100 gloves per box (50 left/right pairs)
+Order 10 boxes to purchase a case","{""Color"": ""White"", ""Cuff Style"": ""Beaded"", ""Texture"": ""Textured"", ""Thickness"": ""at palm 3.5 mils; at fingertip 4 mils; ± 0.8""}",https://www.safcodental.com/media/catalog/product/d/r/drcay_2.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Prevail Gloves (DRCCJ); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:44:17+00:00,354cb9af412a03d5
+safco:95764,Cyntek,Cranberry,Cranberry,DRBAX,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/cyntek-reg,18.99,18.99,range,USD,in_stock,5,4710407; 4710418; 4710426; 4710432; 4710433,,,"Powder-free latex exam gloves.
+Mild citrus-peppermint scent, and coated with lanolin and Vitamin E to improve skin health.
+Textured whole hand finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+50μg or less of latex protein
+Wintergreen color
+Vitamin E and lanolin coated
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Wintergreen"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""Beaded"", ""Latex Protein Content"": ""50μg or less"", ""Material"": ""Latex"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured whole hand finish""}",https://www.safcodental.com/media/catalog/product/d/r/drbax_2.jpg,Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Durasoft Latex (DRBBK); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:44:08+00:00,6f561ceeeae68dd0
+safco:100975,DentalProX VeraGraft Dental Powder,DentalProX,DentalProX,PFWVG,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Bone grafting tissue augmentation,Sutures & surgical products; Bone grafting tissue augmentation,https://www.safcodental.com/product/dentalprox-veragraft-trade-dental-powder,28.99,309.49,range,USD,in_stock,13,3257147; 3257148; 3257149; 3257150; 3257151; 3257152; 3257153; 3257154; 3257155; 3257156; 3257157; 3257158; 3257159,,,"Safe alternative to an autograft with no need for a second surgical site
+Osteoconductive
+Used for volumetric enhancement, space maintenance, and faster remodeling
+Sterile ground dental powder is available in cortical, cancellous and a cortical/cancellous mix.
+Validated to a sterility assurance level (SAL) of 10(-6) in accordance with ISO 11137-2 Method 1.","{""Form"": ""Dental Powder"", ""Material Type"": ""Cortical, Cancellous, Cortical/Cancellous Mix"", ""Sterility"": ""Sterile"", ""Sterilization Standard"": ""ISO 11137-2 Method 1""}",https://www.safcodental.com/media/catalog/product/p/f/pfwvg.jpg,,deterministic+llm,valid,,2026-10-19T20:42:31+00:00,65c9a3bdc955dab5
+safco:96055,DermAssist latex surgical gloves,Innovative Healthcare,Innovative Healthcare,DRECL,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Surgical gloves,Dental Exam Gloves; Surgical gloves,https://www.safcodental.com/product/dermassist-sup-reg-sup-latex-surgical-gloves,44.49,44.49,range,USD,in_stock,8,5380320; 5380323; 5380326; 5380329; 5380331; 5380334; 5380337; 5380342,5.0,1,"Latex powder-free sterile surgical gloves
+Textured finish
+Beaded cuff
+Right/left hand specific
+Natural latex color
+Thickness: at palm 7.5 mils; at fingertips: 8.0 mils
+Length: 11.6"" (295mm)
+50 pairs (100 gloves) gloves per box
+4 boxes in a case","{""Boxes Per Case"": ""4"", ""Color"": ""Natural latex"", ""Count Per Box"": ""50 pairs (100 gloves)"", ""Cuff Type"": ""Beaded"", ""Length"": ""11.6\"" (295mm)"", ""Material"": ""Latex"", ""Powder Status"": ""Powder-free"", ""Sterility"": ""Sterile"", ""Texture"": ""Textured"", ""Thickness"": ""at palm 7.5 mils; at fingertips: 8.0 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drecl.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Prevail Gloves (DRCCJ); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex (DRCAL),deterministic+llm,valid,,2026-10-19T20:44:30+00:00,343e5d58cda9b809
+safco:100855,Disposable scalpels,Queens Surgical,Queens Surgical,PFLSE,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical blades and scalpels,Sutures & surgical products; Surgical blades and scalpels,https://www.safcodental.com/product/disposable-scalpels,10.49,10.49,range,USD,in_stock,4,3440127; 3440133; 3440145; 3440156,4.5,2,Sterile disposable scalpel; plastic handle with stainless steel blade.,{},https://www.safcodental.com/media/catalog/product/p/f/pflse.jpg,,deterministic,valid,,2026-10-19T20:42:55+00:00,6ff3ae25f0ff6607
+safco:100861,Disposable scalpels - Bard-Parker (BD),Bard-Parker,Bard-Parker,PFLUG,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical blades and scalpels,Sutures & surgical products; Surgical blades and scalpels,https://www.safcodental.com/product/disposable-scalpels-bard-parker-bd,18.99,56.99,range,USD,in_stock,3,3381410; 3381422; 3381458,5.0,1,"Sterile disposable scalpel with a stainless steel blade. Intended for tissue separation, and other procedures that require a sharp surgical blade to puncture or cut.
+Offers the superior cutting advantages of stainless steel technology.
+Consistent sharpness, control and strength.
+Uniquely packaged for safety and ease of use.
+Sterile.
+Not made with natural rubber latex","{""Blade Material"": ""Stainless Steel"", ""Latex Status"": ""Not made with natural rubber latex"", ""Sterility"": ""Sterile""}",https://www.safcodental.com/media/catalog/product/p/f/pflug.jpg,Safco SureStitch Sutures (PFEMN),deterministic+llm,valid,,2026-10-19T20:43:03+00:00,8fb9be1e67961af3
+safco:100864,Disposable scalpels - Integra Miltex,Integra Miltex,Integra Miltex,PFLUN,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical blades and scalpels,Sutures & surgical products; Surgical blades and scalpels,https://www.safcodental.com/product/disposable-scalpels-integra-miltex,19.49,19.49,range,USD,in_stock,4,3274102; 3274104; 3274106; 3274108,5.0,1,Sterile disposable scalpel; plastic handle with a stainless steel blade. Razor sharp for superior cutting and a clean incision.,{},https://www.safcodental.com/media/catalog/product/p/f/pflun.jpg,,deterministic,valid,,2026-10-19T20:42:59+00:00,f559e3be801c48f8
+safco:96052,Encore Sensi-Touch PF,Ansell,Ansell,DREBH,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Surgical gloves,Dental Exam Gloves; Surgical gloves,https://www.safcodental.com/product/encore-reg-sensi-touch-reg-pf,56.49,56.49,range,USD,in_stock,6,3890072; 3890074; 3890076; 3890078; 3890080; 3890082,,,"Latex powder-free sterile surgical gloves.
+Textured finish
+Beaded cuff
+Right/left hand specific
+Polymer coated for fast and easy donning
+Natural latex color
+50 pairs (100 gloves) per box
+4 boxes in a case","{""Boxes Per Case"": ""4 boxes in a case"", ""Color"": ""Natural latex color"", ""Count Per Box"": ""50 pairs (100 gloves) per box"", ""Cuff Type"": ""Beaded cuff"", ""Material"": ""Latex"", ""Powder Status"": ""Powder-free"", ""Sterility"": ""Sterile"", ""Texture"": ""Textured finish""}",https://www.safcodental.com/media/catalog/product/d/r/drebh.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex (DRCAL); Safco Durasoft Latex (DRBBK),deterministic+llm,valid,,2026-10-19T20:44:37+00:00,579346a035f20bc6
+safco:95797,Essential Textured,Quantum,Quantum,DRBBP,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/essential-textured,15.97,15.97,exact,USD,in_stock,1,8100008,,,"Essential Textured Powder-free exam gloves are designed to help reduce your sensitivity to latex. All the benefits of the original Essential Powder Free, with the added feature of a textured finish for superior gripping ability. Super stretchy with excellent resistance to tears.
+Material: Latex
+Powder-free
+Thickness: 5.5 mil
+Textured fingertips
+Fit: Ambidextrous
+Length: 9.5""
+Color: Off White
+Available in 3 Sizes: TPFS small , TPFM medium , TPFL large
+Case Pack: 100 gloves per box, 10 boxes per case","{""Available in 3 Sizes"": ""TPFS small , TPFM medium , TPFL large"", ""Case Pack"": ""100 gloves per box, 10 boxes per case"", ""Color"": ""Off White"", ""Fit"": ""Ambidextrous"", ""Latex"": ""Latex"", ""Length"": ""9.5\"""", ""Material"": ""Latex"", ""Powder Status"": ""Powder-free"", ""Product Name"": ""Essential Textured"", ""Texture"": ""Textured fingertips"", ""Thickness"": ""5.5 mil""}",https://www.safcodental.com/media/catalog/product/d/r/drbbp.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex (DRCAL); Safco Durasoft Latex (DRBBK); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Prevail Gloves (DRCCJ),deterministic+llm,valid,,2026-10-19T20:44:22+00:00,0409a00ecb6ce3e6
+safco:100822,Ethicon Sutures,Ethicon,Ethicon,PFEHV,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Sutures,Sutures & surgical products; Sutures,https://www.safcodental.com/product/ethicon-sutures,125.49,512.49,range,USD,in_stock,26,2580001; 2580002; 2580004; 2580008; 2580010; 2580014; 2580022; 2580026; 2580058; 2580062; 2580070; 2580080; 2580081; 2580082; 2580084; 2580086; 2580089; 2580090; 2580094; 2588384; 2588385; 2588387; 2588388; 2588390; 2588391; 2588392,5.0,1,"Ethicon sutures are made of strong, sharp micrograin stainless steel. An exclusive Ethicon process yields the ideal balance between ductility and resistance to bending. Seamless swaging produces a needle diameter that closely matches the diameter of the attached suture. A micro-thin, super-smooth finish allows the needle to penetrate and pass through the tissue with an almost fluid-like flow. For Ethicon Sutures Chart along with additional information, click here.",{},https://www.safcodental.com/media/catalog/product/p/f/pfehv.jpg,Safco SureStitch Sutures (PFEMN),deterministic,valid,,2026-10-19T20:42:26+00:00,0805bf41b8b2c5ce
+safco:95893,Evolve 300,Cranberry,Cranberry,DRCBS,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/evolve-trade-300,33.49,33.49,range,USD,in_stock,5,4712202; 4712204; 4712206; 4712208; 4712209,5.0,1,"Powder-free nitrile exam gloves.
+Strong and soft comfort during extended wear.
+Textured fingertip finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Royal blue color
+Polymer coated for easy donning
+Thickness: at palm 2.0 mils; at fingertip 2.0 mils
+300 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Royal blue"", ""Count Per Box"": ""300 gloves per box"", ""Cuff Style"": ""Beaded"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 2.0 mils; at fingertip 2.0 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbs_2.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:44:01+00:00,e108fcf150719916
+safco:100867,Feather Microsurgical Blades,J. Morita,J. Morita,PFLVV,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical blades and scalpels,Sutures & surgical products; Surgical blades and scalpels,https://www.safcodental.com/product/feather-sup-reg-nbsp-sup-microsurgical-blades,89.99,89.99,range,USD,in_stock,4,3435243; 3435263; 3435264; 3435265,,,"Advanced instrument system of interchangeable blades and handles.
+Ultra-sharp, retains cutting efficiency.
+Ideal for microsurgery & use with a microscope.
+Optimal shapes & blade thickness.
+Small tips for surgical precision.
+Variety of applications including periodontal & regenerative surgery.
+Multiple handle designs.
+Made of high-quality stainless steel
+All blades are gamma-sterilized and can be used immediately after opening the package.",{},https://www.safcodental.com/media/catalog/product/p/f/pflvv.jpg,Safco SureStitch Sutures (PFEMN),deterministic,valid,,2026-10-19T20:42:15+00:00,bb5bd5db304cafd4
+safco:96031,Flexaprene Green,Halyard,Halyard,DRDAI,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Chloroprene gloves,Dental Exam Gloves; Chloroprene gloves,https://www.safcodental.com/product/flexaprene-green,39.49,39.49,range,USD,in_stock,4,3021402; 3021404; 3021406; 3021408,4.5,2,"Powder-free chloroprene examination gloves.
+Fingertip textured
+Beaded cuff
+Ambidextrous
+Chloroprene (Neoprene)
+Green color
+Polymer coated for easy donning
+Thickness: at palm 3.0 mils; at fingertip 3.5 mils
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Green"", ""Count Per Box"": ""200 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Chloroprene"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Fingertip textured"", ""Thickness"": ""at palm 3.0 mils; at fingertip 3.5 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drdai.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:44:34+00:00,c531563288876b03
+safco:100936,Foundation,J. Morita,J. Morita,PFWEG,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Bone grafting tissue augmentation,Sutures & surgical products; Bone grafting tissue augmentation,https://www.safcodental.com/product/foundation-trade,420.49,420.49,range,USD,in_stock,3,3430614; 3430626; 3430635,5.0,1,"A collagen-based bone augmentation material that is placed into the socket immediately following an extraction to provide support for implants, bridges, and dentures.
+Promotes bone growth after tooth extraction, allowing implants to be placed in as early as 8 weeks.
+The surrounding cells and capillaries gradually infiltrate; as the extraction socket heals, it becomes filled with new augmented bone.
+Easy-to-place, “bullet-shaped” pellets are individually packaged in sterile containers.","{""Material"": ""collagen-based"", ""Packaging"": ""individually packaged"", ""Sterility"": ""sterile""}",https://www.safcodental.com/media/catalog/product/p/f/pfweg.jpg,Safco SureStitch Sutures (PFEMN),deterministic+llm,valid,,2026-10-19T20:42:09+00:00,e382042d859e438a
+safco:96007,GloveUp,Dash,Dash,DRCDH,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/gloveup-sup-reg-sup,38.49,38.49,range,USD,in_stock,5,4680077; 4680078; 4680079; 4680080; 4680081,5.0,1,"Powder-free nitrile exam gloves.
+Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Cobalt color
+Thickness: at palm 1.9 mils; at fingertip 3.1 mils
+Order 10 boxes to purchase a case","{""Color"": ""Cobalt"", ""Cuff Style"": ""Beaded"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 1.9 mils; at fingertip 3.1 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcdh.jpg,Safco Nitrilex (DRCAL); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Durasoft Latex (DRBBK); Safco Nitrilex Soothe (DRCDJ); Safco Nitrilex Black Gloves (DRCCX),deterministic+llm,valid,,2026-10-19T20:43:29+00:00,32caba114b8338d8
+safco:100939,Guidor Easy-Graft Classic,Collagen Matrix Inc,Collagen Matrix Inc,PFWQJ,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Bone grafting tissue augmentation,Sutures & surgical products; Bone grafting tissue augmentation,https://www.safcodental.com/product/guidor-reg-e-em-asy-graft-reg-em-classic,236.99,335.99,range,USD,in_stock,3,3996802; 3996804; 3996806,5.0,1,"Synthetic particulate bone grafting material designed to be syringed directly into the bone defect. Hardens into a stable, porous scaffold in approximately one minute, eliminating the need for a dental membrane in many cases. Fully resorbable.",{},https://www.safcodental.com/media/catalog/product/p/f/pfwqj.jpg,,deterministic,valid,,2026-10-19T20:42:40+00:00,63b2cb5ad20de1a4
+safco:95875,Halo,Dash,Dash,DRCBK,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/halo-trade,11.49,11.49,exact,USD,in_stock,1,4681012,,,"Powder-free nitrile exam gloves.
+Textured fingertip finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+Blue color
+Thickness: at palm 3.5 mils; at fingertip 4.7 mils
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Blue"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""Beaded"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 3.5 mils; at fingertip 4.7 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbk.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:44:58+00:00,8f6c98e8504faf1c
+safco:103220,Halyard Black Nitrile,Halyard,Halyard,DRCDL,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/halyard-black-nitrile,9.79,9.79,range,USD,in_stock,5,3028412; 3028414; 3028416; 3028418; 3028420,,,"HALYARD* Black Nitrile Exam Gloves deliver dependable protection and professional performance for dental professionals. Perfect for clinical and hygiene procedures, these nitrile gloves provide excellent tactile sensitivity and a secure grip with textured fingertips for confident instrument handling. The sleek black color conceals stains, maintaining a clean, modern look in any dental setting. Each box contains 100 gloves in a SMARTPULL* Dispenser designed to reduce waste, improve efficiency, and save valuable operatory space.","{""Color"": ""Black"", ""Dispenser Type"": ""SMARTPULL* Dispenser"", ""Material"": ""Nitrile"", ""Quantity Per Box"": ""100 gloves"", ""Texture"": ""Textured fingertips""}",https://www.safcodental.com/media/catalog/product/d/r/drcdl.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex (DRCAL); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:43:45+00:00,6cbbe85a5519b2b3
+safco:100942,HealiAid,Surgical Esthetics,Surgical Esthetics,PFWQM,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Bone grafting tissue augmentation,Sutures & surgical products; Bone grafting tissue augmentation,https://www.safcodental.com/product/healiaid-reg-strong-nbsp-strong-collagen,106.99,172.49,range,USD,in_stock,2,6130060; 6130063,4.0,1,"White, porous, pliable and absorbable collagen wound dressing.
+Common uses:
+Extraction socket graft coverage.
+Hemostasis.
+3 rd molar extractions.
+Soft tissue repair.
+Free-gingival graft donor sites.
+Features and benefits:
+Highly purified Type I bovine collagen.
+High density for added resilience.
+Easily trimmed according to clinical needs.
+Fully absorbable.
+Can easily be shaped by hand.
+Individually packaged and sterile.","{""Absorbability"": ""Fully absorbable"", ""Color"": ""White"", ""Packaging"": ""Individually packaged"", ""Product Type"": ""Collagen wound dressing"", ""Sterility"": ""Sterile"", ""Texture"": ""Porous, pliable""}",https://www.safcodental.com/media/catalog/product/p/f/pfwqm.jpg,Safco SureStitch Sutures (PFEMN),deterministic+llm,valid,,2026-10-19T20:42:26+00:00,3b0342134662b039
+safco:100945,HeliMend,Integra Miltex,Integra Miltex,PFWQP,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Bone grafting tissue augmentation,Sutures & surgical products; Bone grafting tissue augmentation,https://www.safcodental.com/product/helimend-trade-and-helimend-trade-advanced,102.59,102.59,from,USD,in_stock,0,,,,"Please note: These products are on backorder with indefinite delivery. Safco will not be accepting orders for these products until inventory is received.
+Absorbable collagen membranes made from purified bovine tendon. Provides wound stabilization and creates space during guided tissue regeneration where a longer absorption rate is desired. Material is pliable and does not become slippery when hydrated.
+Indicated for guided tissue regeneration procedures in periodontal defects to enhance regeneration of the periodontal apparatus. Sterile, individually packed (1 per box).","{""Material"": ""Purified bovine tendon"", ""Packaging"": ""Individually packed (1 per box)"", ""Properties"": ""Pliable; does not become slippery when hydrated"", ""Sterility"": ""Sterile""}",https://www.safcodental.com/media/catalog/product/p/f/pfwqp.jpg,Safco SureStitch Sutures (PFEMN),deterministic+llm,valid_with_warnings,missing_variants,2026-10-19T20:43:12+00:00,450097604ecbe413
+safco:100948,HeliPlug,Integra Miltex,Integra Miltex,PFWQW,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Bone grafting tissue augmentation,Sutures & surgical products; Bone grafting tissue augmentation,https://www.safcodental.com/product/heliplug-reg,145.49,145.49,exact,USD,in_stock,1,3274301,4.8,5,Hemostatic absorbable collagen material derived from bovine tendon. Promotes tissue growth by providing a scaffold-like structure. Its cylindrical shape is ideal for extraction and biopsy sites. Indicated for application to moist or bleeding oral wounds created during dental surgery to control bleeding and protect the surface of the wound from further injury. Absorbs within 10 to 14 days.,"{""Absorbability"": ""10 to 14 days"", ""Type"": ""Hemostatic""}",https://www.safcodental.com/media/catalog/product/p/f/pfwqw.jpg,Safco SureStitch Sutures (PFEMN),deterministic+llm,valid,,2026-10-19T20:42:21+00:00,4127df710734d973
+safco:100891,HeliTape,Integra Miltex,Integra Miltex,PFPFP,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical medicaments and packing,Sutures & surgical products; Surgical medicaments and packing,https://www.safcodental.com/product/helitape-reg,228.99,228.99,exact,USD,in_stock,1,3274305,,,"Thin, soft, pliable collagen tape used for dressing minor wounds. Tape accelerates wound healing and is absorbed into the body after 10 to 14 days. Sterile and individually packaged.",{},https://www.safcodental.com/media/catalog/product/p/f/pfpfp.jpg,Safco SureStitch Sutures (PFEMN),deterministic,valid,,2026-10-19T20:42:52+00:00,e00d4173d5dc7561
+safco:100903,HemoStat,Medicom,Medicom,PFPFT,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical medicaments and packing,Sutures & surgical products; Surgical medicaments and packing,https://www.safcodental.com/product/hemostat-sup-trade-sup,125.99,125.99,exact,USD,in_stock,1,3152001,5.0,3,"Topical hemostatic dressing in the form of a sterile fabric prepared by the chemical treatment of regenerated cellulose. Provides safe and effective control of bleeding for extractions and periodontal surgery.
+When the fabric comes into contact with blood or fluids, it expands and transforms to a clear, viscous gel which fills voids and seals capillary ends to help stop bleeding.",{},https://www.safcodental.com/media/catalog/product/m/e/medicom-hemostat-20-box.jpg,Safco SureStitch Sutures (PFEMN),deterministic,valid,,2026-10-19T20:42:13+00:00,59e296bcc51dfdc4
+safco:95863,Hu-Friedy nitrile utility gloves,Hu-Friedy,Hu-Friedy,DRCBG,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/hu-friedy-nitrile-utility-gloves,25.49,25.49,range,USD,in_stock,4,3920131; 3920211; 3920213; 3920366,5.0,1,"Nitrile flock-lined utility gloves.
+Puncture resistant gloves protect hands from harsh chemicals, solvents, and oils. Can be steam autoclaved up to five times.
+Textured whole hand finish
+Flat cuff
+Non-chlorinated
+Left/right-hand fitted
+Lilac color
+Thickness: 0.38mm
+3 pairs per box","{""Color"": ""Lilac"", ""Count Per Box"": ""3 pairs"", ""Cuff Style"": ""Flat cuff"", ""Lining Type"": ""Flock-lined"", ""Material"": ""Nitrile"", ""Texture"": ""Textured whole hand finish"", ""Thickness"": ""0.38mm""}",https://www.safcodental.com/media/catalog/product/d/r/drcbg.jpg,Safco Nitrilex (DRCAL); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Soothe (DRCDJ); Safco Nitrilex Black Gloves (DRCCX),deterministic+llm,valid,,2026-10-19T20:44:45+00:00,911398137a5a63c1
+safco:95932,Inspire,Cranberry,Cranberry,DRCCH,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/inspire-trade,29.49,29.49,range,USD,in_stock,5,4714102; 4714104; 4714106; 4714108; 4714110,4.4,5,"Powder-free nitrile exam gloves.
+InSoft™ formulation for increased comfort and minimal hand fatigue.
+Textured fingertip finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+Aegean blue color
+Thickness: at palm 2.0 mils; at fingertip 2.3 mils
+300 gloves per box (250 for x-large)
+Order 10 boxes to purchase a case","{""Color"": ""Aegean blue"", ""Count Per Box"": ""300 gloves per box (250 for x-large)"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 2.0 mils; at fingertip 2.3 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcch_2.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:44:05+00:00,1fe196809cc5fb88
+safco:100927,Instant Cold Pack,Halyard,Halyard,PFVGG,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Cold packs,Sutures & surgical products; Cold packs,https://www.safcodental.com/product/instant-cold-pack,22.99,22.99,range,USD,in_stock,2,3020210; 3020225,5.0,1,Flexible single use cold pack provides 20 minutes of therapy. Squeeze to activate; no need for refrigeration. Plastic outer wrap.,{},https://www.safcodental.com/media/catalog/product/p/f/pfvgg.jpg,,deterministic,valid,,2026-10-19T20:42:48+00:00,7ac8703d8d91fd7c
+safco:100885,Integra Miltex HeliCote,Integra Miltex,Integra Miltex,PFPFM,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical medicaments and packing,Sutures & surgical products; Surgical medicaments and packing,https://www.safcodental.com/product/integra-sup-reg-sup-miltex-sup-reg-sup-helicote-sup-reg-sup,173.99,173.99,exact,USD,in_stock,1,3274706,,,"Collagen Wound Dressing
+Integra Miltex absorbable collagen wound dressing products are used to help control bleeding and protect the wound site in order for the healing process to begin. For application to moist or bleeding clean oral wounds created during dental surgery, and to protect the surface of the wound from further injury. Collagen wound dressing products are reabsorbed by the body within 10 to 14 days after placement. These collagen products are packaged in individual clam shells with an easy-to-peel backing, making it easy for clinicians to open packages during procedures.
+Helps control bleeding
+10 to 14 day absorption
+Sterile, individually packaged dressings","{""Absorption Time"": ""10 to 14 days"", ""Packaging"": ""Individually packaged"", ""Product Type"": ""Absorbable collagen wound dressing"", ""Sterility"": ""Sterile""}",https://www.safcodental.com/media/catalog/product/p/f/pfpfm.jpg,,deterministic+llm,valid,,2026-10-19T20:43:08+00:00,c0de206385850bd2
+safco:100978,IV administration sets,B Braun,B Braun,PFXCT,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > IV fluids and administration sets,Sutures & surgical products; IV fluids and administration sets,https://www.safcodental.com/product/iv-administration-sets,174.29,388.59,range,USD,in_stock,3,5102206; 5102207; 5102208,,,"SafeDay IV administration sets are indicated for 24-hour use. Components are not made with DEHP, latex or natural rubber. Sterile packaging permits direct placement of set on sterile field. Cost-effective needle-free access ports are designed to provide an effective barrier against microbial contamination.","{""DEHP Content"": ""Not made with DEHP"", ""Sterility"": ""Sterile"", ""Usage Duration"": ""24-hour""}",https://www.safcodental.com/media/catalog/product/p/f/pfxct.jpg,,deterministic+llm,valid,,2026-10-19T20:42:55+00:00,c35f16a1e9ef68b8
+safco:100981,Lactated Ringer's,B Braun,B Braun,PFXER,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > IV fluids and administration sets,Sutures & surgical products; IV fluids and administration sets,https://www.safcodental.com/product/lactated-ringer-s,70.49,178.49,range,USD,in_stock,2,5102302; 5102305,5.0,1,"Due to supply chain disruptions, we are unable to accept backorders until the item is back in stock.
+Sterile, nonpyrogenic and contains no bacteriostatic or antimicrobial agents. Indicated for use in adults and pediatric patients as a source of electrolytes and water for hydration. EXCEL ® IV bags feature a sturdy port system and are not manufactured with latex, PVC or DEHP.
+Click here to see full prescribing information","{""Latex"": ""Not manufactured with latex"", ""Port System"": ""Sturdy port system"", ""Pyrogen Status"": ""Nonpyrogenic"", ""Sterility"": ""Sterile""}",https://www.safcodental.com/media/catalog/product/p/f/pfxer.jpg,Safco SureStitch Sutures (PFEMN),deterministic+llm,valid,,2026-10-19T20:42:59+00:00,f76f78bec37310d8
+safco:95833,Lavender Nitrile,Halyard,Halyard,DRCAS,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/lavender-nitrile,38.99,38.99,range,USD,in_stock,5,3020800; 3020810; 3020815; 3020822; 3020830,4.71,7,"Powder-free nitrile exam gloves.
+Soft and strong; one of the thinnest nitrile gloves on the market. Thicker and longer cuff!
+Textured fingertips
+Beaded cuff
+Low dermatitis potential
+Ambidextrous
+Lavender color
+Thickness: at palm 2.0 mils; at fingertip 2.8 mils
+250 gloves per box (230 for x-large)
+Order 10 boxes to purchase a case","{""Color"": ""Lavender"", ""Count Per Box"": ""250 gloves per box (230 for x-large)"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertips"", ""Thickness"": ""at palm 2.0 mils; at fingertip 2.8 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcas.jpg,Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:43:16+00:00,cc8b505a4c09e1e5
+safco:100825,Look sutures,Surgical Specialties,Surgical Specialties,PFEKR,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Sutures,Sutures & surgical products; Sutures,https://www.safcodental.com/product/look-trade-sutures,36.99,141.49,range,USD,in_stock,43,4180002; 4180004; 4180006; 4180008; 4180010; 4180012; 4180014; 4180016; 4180018; 4180020; 4180022; 4180024; 4180026; 4180028; 4180030; 4180032; 4180034; 4180035; 4180036; 4180039; 4180040; 4180041; 4180042; 4180044; 4180050; 4180053; 4180054; 4180055; 4180057; 4180059; 4180060; 4180061; 4180067; 4180072; 4180078; 4180079; 4180080; 4180081; 4180082; 4180083; 4180084; 4180085; 4180087,5.0,2,"Made by Surgical Specialties Corporation, with over 50 years suture manufacturing experience and over 25 years experience making stainless steel suture needles. ISO 9001 approved. All products meet or exceed FDA and QSR requirements and U.S.P. specifications. You get consistently sharp cutting needles plus resistance to bending and breaking. All sizes are reverse cutting. For Look Sutures Chart along with additional information, click here.",{},https://www.safcodental.com/media/catalog/product/p/f/pfekr.jpg,Safco SureStitch Sutures (PFEMN),deterministic,valid,,2026-10-19T20:42:32+00:00,e5c1242ca81fbf09
+safco:95941,Luxe,Cranberry,Cranberry,DRCCK,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/luxe-trade,32.49,32.49,range,USD,in_stock,5,4713610; 4713614; 4713617; 4713621; 4713625,5.0,4,"Coated with a blend of lanolin and Vitamin E to maximize moisture retention, and for easy donning.
+Textured fingertip finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+Azure blue color
+Thickness: at palm 2.5 mils; at fingertip 2.6 mils
+300 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Azure blue"", ""Count Per Box"": ""300 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 2.5 mils; at fingertip 2.6 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcck_2.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Surpass Gloves (DRCCS),deterministic+llm,valid,,2026-10-19T20:44:18+00:00,0cf5aaa9d934fa75
+safco:95983,Micro-Touch NitraFree Blue,Ansell,Ansell,DRCCZ,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/micro-touch-reg-nitrafree-trade-blue,10.00,10.00,exact,USD,in_stock,1,3890050,,,"Powder-free nitrile exam gloves.
+Comfortable and reliable protection with a low dermatits potential. Made without sulfur-based chemical accelerants for tactility and to help prevent allergic reactions.
+Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Blue color
+Thickness: at palm 2.8 mils; at fingertip 3.9 mils
+200 gloves per box (X-large 180 gloves per box)
+Order 10 boxes to purchase a case
+Tested for use with chemotherapy drugs","{""Boxes per Case"": ""10 boxes"", ""Color"": ""Blue"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""nitrile"", ""Powder Status"": ""powder-free"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 2.8 mils; at fingertip 3.9 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drccz.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:45:00+00:00,56ec9806485b29cd
+safco:95830,Micro-Touch Nitrile,Ansell,Ansell,DRCAP,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/micro-touch-reg-nitrile,19.99,19.99,exact,USD,in_stock,1,3890635,,,"Textured fingertips finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Blue color
+Thickness: at palm 2.4 mils; at fingertip 3.1 mils
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Blue"", ""Count Per Box"": ""200 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Texture"": ""Textured fingertips finish"", ""Thickness"": ""at palm 2.4 mils; at fingertip 3.1 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcap.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:44:56+00:00,a048cf5af2d74504
+safco:96025,Micro-Touch Affinity,Ansell,Ansell,DRDAG,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Chloroprene gloves,Dental Exam Gloves; Chloroprene gloves,https://www.safcodental.com/product/micro-touch-sup-reg-sup-affinity-sup-reg-sup,23.49,23.49,range,USD,in_stock,5,3890902; 3890905; 3890908; 3890911; 3890915,5.0,2,"Powder-free Neoprene (polychloroprene) exam gloves.
+Textured fingertips finish
+Beaded cuff
+Ambidextrous
+Neoprene
+Green color
+Polymer coated for easy donning
+Thickness: at palm 5.1 mils; at fingertip 6.3 mils
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Green"", ""Count Per Box"": ""100 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Neoprene (polychloroprene)"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertips"", ""Thickness"": ""at palm 5.1 mils; at fingertip 6.3 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drdag.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:44:38+00:00,e1b6a8786e321dfd
+safco:95965,Microflex 92-134,Ansell,Ansell,DRCCT,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/microflex-reg-92-134,10.49,10.49,range,USD,in_stock,5,3891043; 3891046; 3891049; 3891052; 3891086,5.0,1,"Powder-free nitrile exam gloves.
+Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Blue color
+Thickness: at palm 2.8 mils; at fingertip 4.3 mils
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Blue"", ""Count Per Pack"": ""100 gloves per box"", ""Cuff Style"": ""beaded cuff"", ""Material"": ""nitrile"", ""Powder Status"": ""powder-free"", ""Texture"": ""textured fingertip finish"", ""Thickness"": ""at palm 2.8 mils; at fingertip 4.3 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcct.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:44:49+00:00,2bf928fc1b070e93
+safco:95743,Microflex Diamond Grip Plus,Ansell,Ansell,DRBAI,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/microflex-reg-diamond-grip-plus-trade,16.49,16.49,range,USD,in_stock,5,4750732; 4750746; 4750751; 4750760; 4750777,3.0,1,"Textured whole hand finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+50μg or less of latex protein
+Natural color
+Polymer coating for easy donning
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Natural"", ""Cuff Style"": ""Beaded"", ""Finish"": ""Textured whole hand finish"", ""Gloves per Box"": ""100"", ""Latex Protein Content"": ""50μg or less""}",https://www.safcodental.com/media/catalog/product/d/r/drbai.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex (DRCAL); Safco Nitrilex Surpass Gloves (DRCCS); Safco Durasoft Latex (DRBBK),deterministic+llm,valid,,2026-10-19T20:44:15+00:00,9fdf6bb47f75f7fc
+safco:95914,Microflex MidKnight,Ansell,Ansell,DRCBZ,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/microflex-reg-midknight-reg,17.99,17.99,exact,USD,in_stock,1,4751305,5.0,1,"Powder-free nitrile exam gloves.
+Textured whole hand finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Black color
+Thickness: at palm 4.7 mils; at fingertip 6.3 mils
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Black"", ""Count Per Box"": ""100 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured whole hand finish"", ""Thickness"": ""at palm 4.7 mils; at fingertip 6.3 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbz.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:44:45+00:00,05d9c319740720fc
+safco:95989,Microflex MidKnight Touch,Ansell,Ansell,DRCDB,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/microflex-reg-midknight-trade-touch,11.49,11.49,range,USD,in_stock,5,3890030; 3890032; 3890034; 3890036; 3890038,5.0,1,"Powder-free nitrile exam gloves.
+ERGOFORM technology reduces muscle strain and improves comfort
+Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Black color
+Thickness: at palm 2.8 mils; at fingertip 4.3 mils
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Black"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 2.8 mils; at fingertip 4.3 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcdb.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:44:21+00:00,63b819e72b5b27b8
+safco:95827,Microflex TQ-601 Soft White Nitrile,Ansell,Ansell,DRCAO,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/microflex-reg-tq-601-soft-white-nitrile,11.99,11.99,exact,USD,in_stock,1,4751034,4.0,1,"Textured fingertip finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+White color
+Thickness: at palm 2.6 mils; at fingertip 3.7 mils
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""White"", ""Count Per Box"": ""100 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 2.6 mils; at fingertip 3.7 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcao.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:44:53+00:00,8f8a0c1b2a8971cf
+safco:95854,Microflex Xceed,Ansell,Ansell,DRCBC,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/microflex-reg-xceed-reg,29.49,29.49,range,USD,in_stock,5,4751200; 4751205; 4751213; 4751218; 4751221,5.0,1,"Textured fingertip finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Blue color
+Thickness: at palm 2.8 mils; at fingertip 3.5 mils
+250 gloves per box (230 for x-large)
+Order 10 boxes to purchase a case","{""Color"": ""Blue"", ""Count Per Box"": ""250 gloves per box (230 for x-large)"", ""Cuff Style"": ""Beaded cuff"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 2.8 mils; at fingertip 3.5 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbc.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Soothe (DRCDJ); Safco Nitrilex UltraSoft Gloves (DRCBN),deterministic+llm,valid,,2026-10-19T20:43:26+00:00,395c49c36226887b
+safco:96022,Microflex Neogard,Ansell,Ansell,DRDAF,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Chloroprene gloves,Dental Exam Gloves; Chloroprene gloves,https://www.safcodental.com/product/microflex-sup-reg-sup-neogard-sup-reg-sup,23.49,23.49,range,USD,in_stock,5,4750661; 4750663; 4750667; 4750671; 4750673,5.0,1,"Powder-free chloroprene exam gloves.
+Exceptional tactile sensitivity. Excellent wet and dry grip. Stretchy soft comfort.
+Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Chloroprene
+Polymer coated for easy donning
+Green color
+Thickness: at palm 3.9 mils; at fingertip 5.1 mils
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Green"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""beaded"", ""Material"": ""chloroprene"", ""Powder Status"": ""powder-free"", ""Texture"": ""textured fingertip"", ""Thickness"": ""at palm 3.9 mils; at fingertip 5.1 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drdaf.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Surpass Gloves (DRCCS),deterministic+llm,valid,,2026-10-19T20:43:32+00:00,baf2cc50908f169d
+safco:96016,Microflex NeoPro,Ansell,Ansell,DRDAC,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Chloroprene gloves,Dental Exam Gloves; Chloroprene gloves,https://www.safcodental.com/product/microflex-sup-reg-sup-neopro-sup-reg-sup,24.99,24.99,range,USD,in_stock,5,4750614; 4750620; 4750633; 4750642; 4750657,5.0,1,"Powder-free chloroprene examination gloves.
+Textured whole hand finish
+Beaded cuff
+Ambidextrous
+Chloroprene
+Green color
+Polymer coated for easy donning
+Thickness: at palm 5.1 mils; at fingertip 6.7 mils
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Green"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Chloroprene"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured whole hand finish"", ""Thickness"": ""at palm 5.1 mils; at fingertip 6.7 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drdac.jpg,Safco Nitrilex (DRCAL); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Surpass Gloves (DRCCS),deterministic+llm,valid,,2026-10-19T20:44:43+00:00,095ac744f37cf75f
+safco:96037,Microflex NeoSoft,Ansell,Ansell,DRDAN,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Chloroprene gloves,Dental Exam Gloves; Chloroprene gloves,https://www.safcodental.com/product/microflex-sup-reg-sup-neosoft-trade,18.49,18.49,exact,USD,in_stock,1,3890015,,,"Powder-free chloroprene examination gloves.
+Features HYDRASOFT™ technology that provides 2x more moisture retention.
+Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Chloroprene (neoprene)
+Green color
+Polymer coated for easy donning
+Thickness: at palm 2.8 mils; at fingertip 3.5 mils
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Green"", ""Count Per Box"": ""100 gloves per box"", ""Cuff Style"": ""Beaded"", ""Material"": ""Chloroprene"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 2.8 mils; at fingertip 3.5 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drdan.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Surpass Gloves (DRCCS),deterministic+llm,valid,,2026-10-19T20:44:51+00:00,5e5a7de53333224c
+safco:95872,Microflex Ultraform,Ansell,Ansell,DRCBJ,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/microflex-sup-reg-sup-ultraform-sup-trade-sup,28.49,28.49,range,USD,in_stock,8,4751240; 4751243; 4751245; 4751247; 4751250; 4751252; 4751255; 4751260,4.33,3,"Textured fingertip finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Cobalt blue color
+Thickness: at palm 2.0 mils; at fingertip 3.1 mils
+300 gloves per box (250 for x-large)
+Order 10 boxes to purchase a case","{""Color"": ""Cobalt blue"", ""Count Per Box"": ""300 gloves per box (250 for x-large)"", ""Cuff Style"": ""Beaded"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 2.0 mils; at fingertip 3.1 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbj.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:43:23+00:00,868032d9cbf6cca5
+safco:100852,"Myco Medical Microsurgical Blades, Carbon Steel",Myco Medical,Myco Medical,PFLQT,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical blades and scalpels,Sutures & surgical products; Surgical blades and scalpels,https://www.safcodental.com/product/myco-medical-glassvan-reg-microsurgical-blades-carbon-steel,8.49,8.49,range,USD,in_stock,2,7570001; 7570025,,,"GLASSVAN® surgical blades have been trusted by users around the world for more than 25 years.
+Automated grinding and proprietary polishing process ensure consistent, clean, and sharp cutting edges
+Produced from high quality Swiss carbon steel.
+Two VCI strips ensure product and packaging integrity and reduce risk of blade piercing the foil.",{},https://www.safcodental.com/media/catalog/product/p/f/pflqt.jpg,Safco SureStitch Sutures (PFEMN),deterministic,valid,,2026-10-19T20:43:10+00:00,e3490119f663b977
+safco:100876,Myco Medical Glassvan Scalpel Blades,Myco Medical,Myco Medical,PFLWR,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical blades and scalpels,Sutures & surgical products; Surgical blades and scalpels,https://www.safcodental.com/product/myco-medical-nbsp-glassvan-reg-scalpel-blades,24.99,35.49,range,USD,in_stock,9,7570022; 7570023; 7570024; 7570042; 7570045; 7570050; 7570051; 7570052; 7570053,,,"GLASSVAN® Surgical Blades have been trusted by users around the world for more than 25 years.
+Automated grinding and proprietary polishing process ensure consistent, clean, and sharp cutting edges
+Produced from high quality Swiss carbon steel
+Two VCI strips ensure product and packaging integrity and reduce risk of blade piercing the foil
+Manufactured in FDA-inspected facilities and conform to ISO-7740 and ISO-13485
+Carbon steel and stainless-steel blades are available sterile in sizes 10-25, with select sizes also available non-sterile.","{""Sizes Available"": ""10-25"", ""Standards Compliance"": ""ISO-7740, ISO-13485""}",https://www.safcodental.com/media/catalog/product/p/f/pflwr.jpg,,deterministic+llm,valid,,2026-10-19T20:42:44+00:00,ab3f3ee542036dca
+safco:100828,Myco Medical Reli-Pro Sutures,Myco Medical,Myco Medical,PFELV,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Sutures,Sutures & surgical products; Sutures,https://www.safcodental.com/product/myco-medical-reli-reg-pro-sutures,8.49,75.99,range,USD,in_stock,36,4180087; 7570006; 7570007; 7570008; 7570009; 7570010; 7570011; 7570012; 7570013; 7570014; 7570015; 7570016; 7570017; 7570018; 7570019; 7570020; 7570021; 7570028; 7570029; 7570030; 7570031; 7570032; 7570033; 7570034; 7570035; 7570036; 7570037; 7570038; 7570039; 7570040; 7570041; 7570056; 7570058; 7570059; 7570060; 7570061,,,"RELI® PRO sutures from MYCO Medical are premium sterile absorbable and non-absorbable surgical-grade sutures packaged in a new low-memory racetrack tray to improve suture performance
+All RELI® PRO sutures include needles made from 300 Series stainless steel for the perfect blend of strength and ductility
+RediPass needle coating facilitates smoother needle penetration and reduces tissue dragging
+100% in-line manufacturing inspection ensures a smooth and secure needle to suture attachment site
+Pure Glide -- Continuous inner lined barrier eliminates any chance for the suture to get caught in gaps
+Notched Label -- Medical-grade paper label is notched in place to provide easy product identification and ensurable product integrity
+Easy Lift Needle -- The tab, when pressed from behind lifts the needle away from the card for easy removal
+Longer Lengths -- Longer suture lengths (up to 36"") are available
+Twin Needle Parks -- Securely accommodates and protects all Myco needle configurations","{""Needle Coating"": ""RediPass"", ""Needle Material"": ""300 Series Stainless Steel"", ""Packaging"": ""Low-Memory Racetrack Tray"", ""Product Name"": ""RELI® PRO sutures"", ""Sterility"": ""Sterile"", ""Suture Type"": ""Absorbable and Non-Absorbable""}",https://www.safcodental.com/media/catalog/product/p/f/pfelv.jpg,Safco SureStitch Sutures (PFEMN),deterministic+llm,valid,,2026-10-19T20:42:46+00:00,724593b4ca939a23
+safco:100879,Myco Medical TechnoCut Disposable Scalpels,Myco Medical,Myco Medical,PFLXA,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical blades and scalpels,Sutures & surgical products; Surgical blades and scalpels,https://www.safcodental.com/product/myco-medical-technocut-reg-disposable-scalpels,8.99,9.49,range,USD,in_stock,5,7570003; 7570026; 7570047; 7570048; 7570054,,,"Non-slip, clear shield improves safety and enables easy blade size identification
+Ergonomic, non-slip plastic handle with integrated metric ruler for convenience
+Scalpel blades produced from high-quality Swiss stainless steel
+100% automated inspection verifies the blade to handle attachment
+Cold-staking used for attaching blade to handle, improving consistency
+Scalpels manufactured in facilities that conform to ISO 13485","{""Shield Color"": ""Clear"", ""Shield Texture"": ""Non-slip""}",https://www.safcodental.com/media/catalog/product/p/f/pflxa.jpg,,deterministic+llm,valid,,2026-10-19T20:42:57+00:00,dc23cd99643487c0
+safco:95812,NitriDerm Ultra White,Innovative Healthcare,Innovative Healthcare,DRCAH,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/nitriderm-reg-ultra-white,6.00,6.00,exact,USD,in_stock,1,5380133,5.0,3,"Powder-free nitrile exam gloves.
+Textured fingertip finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+White color
+Thickness: at palm 3.1 mils; at fingertip 3.9 mils; ± 0.8
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""White"", ""Count Per Box"": ""100 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 3.1 mils; at fingertip 3.9 mils; ± 0.8""}",https://www.safcodental.com/media/catalog/product/d/r/drcah.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:44:55+00:00,f55e089f9c82183e
+safco:96058,NitriDerm nitrile surgical gloves,Innovative Healthcare,Innovative Healthcare,DRECM,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Surgical gloves,Dental Exam Gloves; Surgical gloves,https://www.safcodental.com/product/nitriderm-sup-reg-sup-nbsp-nitrile-surgical-gloves,64.49,64.49,range,USD,in_stock,7,5380350; 5380352; 5380354; 5380356; 5380358; 5380361; 5380363,3.0,1,"Nitrile powder-free sterile surgical gloves
+Textured finish
+Beaded cuff
+Right/left hand specific
+White color
+Thickness at fingertips: 7.0 mils
+Length: 12""
+50 pairs (100 gloves) per box
+4 boxes in a case","{""Color"": ""White"", ""Count Per Box"": ""50 pairs (100 gloves) per box"", ""Count Per Case"": ""4 boxes in a case"", ""Cuff Style"": ""Beaded cuff"", ""Length"": ""12\"""", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Sterility"": ""Sterile"", ""Texture"": ""Textured finish"", ""Thickness at fingertips"": ""7.0 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drecm.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex (DRCAL); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:44:32+00:00,7259aae277ac0c21
+safco:95713,Nuvo,Dash,Dash,DRuII-lc,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Vinyl gloves,Dental Exam Gloves; Vinyl gloves,https://www.safcodental.com/product/nuvo-trade,7.49,7.49,range,USD,in_stock,4,4680227; 4680235; 4680243; 4680251,,,"Powder-free vinyl examination gloves.
+Soft, form fitting gloves designed to retain the superior elongation properties of latex normally absent from vinyl gloves.
+Smooth finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+Gloves are white
+Thickness: at palm 3.2 mils; at fingertip 2.3 mils
+100 gloves per box
+10 boxes in a case","{""Count Per Box"": ""100 Gloves"", ""Count Per Case"": ""10 Boxes"", ""Cuff Style"": ""Beaded Cuff"", ""Material"": ""Vinyl"", ""Powder Status"": ""Powder-free"", ""Product Type"": ""Examination Gloves"", ""Thickness"": ""at palm 3.2 mils; at fingertip 2.3 mils""}",https://www.safcodental.com/media/catalog/product/d/r/druii_lc.jpg,Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex (DRCAL); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:44:19+00:00,d317fdf9ebe6ede4
+safco:96049,Ocean Pacific NeoNatural,Medicom,Medicom,DRDAS,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Chloroprene gloves,Dental Exam Gloves; Chloroprene gloves,https://www.safcodental.com/product/ocean-pacific-sup-reg-sup-neonatural-sup-trade-sup,23.49,23.49,range,USD,in_stock,5,3150130; 3150132; 3150134; 3150136; 3150138,,,"Powder-free chloroprene examination gloves.
+Polychlorprene exam gloves combine the softness of latex with the strength of nitrile for reliable protection without sacrificing comfort or dexterity.
+Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Emerald green color
+Thickness: at palm 3.1 mils; at fingertip 4 mils
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Emerald green"", ""Count Per Box"": ""100 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 3.1 mils; at fingertip 4 mils"", ""Type"": ""Examination gloves""}",https://www.safcodental.com/media/catalog/product/d/r/drdas.jpg,Safco Nitrilex (DRCAL); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Surpass Gloves (DRCCS),deterministic+llm,valid,,2026-10-19T20:43:50+00:00,054d1196891f335f
+safco:100906,OraSoothe Sockit!,Septodont,Septodont,PFPGH,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical medicaments and packing,Sutures & surgical products; Surgical medicaments and packing,https://www.safcodental.com/product/orasoothe-reg-sockit-gel,9.99,309.49,range,USD,in_stock,3,5106359; 5690102; 5690106,5.0,3,"Hydrogel dressing treats intraoral wounds and lesions. Provides fast, continuous pain relief without numbing. Protects from chemical and microbial contamination and promotes optimal healing. Contains no drugs, and has no toxicity or contraindications. Safe if swallowed. Individual 10g syringes are ideal for both in-office and take-home use. FDA approved.
+Please note: SOCKIT! Gel has changed its name. This product has transitioned to OraSoothe ""SOCKIT"" Gel . The product is the same - only the name has changed.",{},https://www.safcodental.com/media/catalog/product/p/f/pfpgh.jpg; https://www.safcodental.com/media/catalog/product/s/e/septodont-orasoothe-oral-coating-rinse-hygiene-3-4-oz_1.jpg,,deterministic,valid,,2026-10-19T20:42:05+00:00,11018d593b020d07
+safco:100900,ORCA Foam,Orca Products,Orca Products,PFPFS,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical medicaments and packing,Sutures & surgical products; Surgical medicaments and packing,https://www.safcodental.com/product/orca-sup-trade-sup-foam,104.99,317.59,range,USD,in_stock,2,5100038; 5100039,,,"Absorbable gelatin sponge hemostat, USP. Provides reliable and rapid hemostasis during dental surgical procedures.
+Offers fast and complete resorption in 3-7 days, no removal necessary.
+Ideal size for easy application.
+Absorbs up to 35x its weight.
+Aids in control of hemorrhage in surgical or extraction sites.
+Individually packaged, sterile cubes prevent cross-contamination.
+Excellent carrier medium for fluids such as antibiotics or ORCA Dry Socket.","{""Form"": ""Cubes"", ""Intended Use"": ""Dental surgical procedures"", ""Packaging"": ""Individually packaged"", ""Resorption Time"": ""3-7 days"", ""Standard"": ""USP"", ""Sterility"": ""Sterile"", ""Type"": ""Absorbable gelatin sponge hemostat""}",https://www.safcodental.com/media/catalog/product/p/f/pfpfs.jpg,Safco SureStitch Sutures (PFEMN),deterministic+llm,valid,,2026-10-19T20:43:07+00:00,1d95abd2c10ba9a9
+safco:100894,ORCA Dry Socket,Orca Products,Orca Products,PFPFQ,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical medicaments and packing,Sutures & surgical products; Surgical medicaments and packing,https://www.safcodental.com/product/orca-trade-dry-socket,122.95,122.95,exact,USD,in_stock,1,5100034,,,"Non-medicated, clinically proven formula for relief from dry sockets and oral pain. Consists of essential oils and other natural ingredients. Place 8 to 10 drops onto a resorbable gelatin sponge or gauze strip directly to dry socket or areas of discomfort.",{},https://www.safcodental.com/media/catalog/product/p/f/pfpfq.jpg,,deterministic,valid,,2026-10-19T20:42:50+00:00,e53601900cbc21b9
+safco:100954,OSSIF-i sem,Surgical Esthetics,Surgical Esthetics,PFWRD,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Bone grafting tissue augmentation,Sutures & surgical products; Bone grafting tissue augmentation,https://www.safcodental.com/product/ossif-i-sem-trade,41.49,279.49,range,USD,in_stock,18,6130001; 6130003; 6130005; 6130007; 6130009; 6130011; 6130012; 6130013; 6130015; 6130017; 6130019; 6130021; 6130023; 6130025; 6130027; 6130029; 6130031; 6130033,,,"Mineralized cancellous bone allograft Ideal for filling periodontal defects, extraction sockets, apicoectomy and root-resection. Can be used in conjunction with placement of dental implants. Double-sterile packaged jars can be taken directly to the sterile surgical site; material does not need to be transferred to another container.
+Mineralized cortical/cancellous bone allograft Excellent osteoconductive scaffold used in a variety of surgical procedures, including: extraction socket grafting, implant placement, osseous ridge repair, and sinus augmentations. Outstanding inner porosity and surface area, promotes clot formation and consistent, stable ossification and space maintenance. Double-sterile packaged jars; material does not need to be transferred to another container.
+Demineralized cancellous bone allograft sponge strips Pliable and resilient sponge matrix that can be adapted to numerous clinical needs including horizontal or vertical ridge augmentation, extraction sockets, recession defects, and can be used in conjunction with the placement of dental implants. Quickly becomes well vascularized following placement, and acts as an osteoconductive and osteoinductive scaffold for bone formation.","{""Packaging Type"": ""Jars"", ""Sterility"": ""Double-sterile""}",https://www.safcodental.com/media/catalog/product/p/f/pfwrd.jpg,Safco SureStitch Sutures (PFEMN),deterministic+llm,valid,,2026-10-19T20:42:05+00:00,e8e695083cec5bce
+safco:100963,Ossify Cortical Bone Sheet,Surgical Esthetics,Surgical Esthetics,PFWRG,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Bone grafting tissue augmentation,Sutures & surgical products; Bone grafting tissue augmentation,https://www.safcodental.com/product/ossify-sup-reg-sup-cortical-bone-sheet,149.49,260.99,range,USD,in_stock,2,6130102; 6130104,,,"Ossify Bone Sheet is 100% laminar cortical bone that has been demineralized, which makes it flexible allowing it to be contoured, molded and trimmed. This enables it to be used as a membrane and can be screwed, tacked or sutured into place. It can be placed alone or in combination with particulate allograft to regenerate larger defects. It comes pre-hydrated and ready to use.",{},https://www.safcodental.com/media/catalog/product/p/f/pfwrg.jpg,Safco SureStitch Sutures (PFEMN),deterministic,valid,,2026-10-19T20:42:17+00:00,364be970049c1b5f
+safco:100960,Ossify DBM Cortical Fiber Bone Graft,Surgical Esthetics,Surgical Esthetics,PFWRF,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Bone grafting tissue augmentation,Sutures & surgical products; Bone grafting tissue augmentation,https://www.safcodental.com/product/ossify-sup-reg-sup-dbm-cortical-fiber-bone-graft,121.49,307.49,range,USD,in_stock,6,6130089; 6130091; 6130093; 6130095; 6130097; 6130099,,,"Ossify DBM Fiber is a next generation bone allograft composed of interwoven demineralized cortical bone fibers. It is configured both by itself and with the addition of 1-1.5mm mineralized cancellous particles. This unique allograft provides an ideal scaffold for bone formation with its extremely high surface area and its optimum shape conforming properties, making it highly osteoconductive. In addition, it has great osteoinductive potential due to the specialized demineralized process. The graft hydrates very uniformly with PRP, blood or saline for maximum handling. It can be used in a variety of surgical applications, including socket grafting, GBR, sinus augmentation, and other bone grafting procedures.",{},https://www.safcodental.com/media/catalog/product/p/f/pfwrf.jpg,Safco SureStitch Sutures (PFEMN),deterministic,valid,,2026-10-19T20:42:19+00:00,f040300769da78de
+safco:100957,Ossify Min/Demin Cortical Cancellous Bone Graft,Surgical Esthetics,Surgical Esthetics,PFWRE,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Bone grafting tissue augmentation,Sutures & surgical products; Bone grafting tissue augmentation,https://www.safcodental.com/product/ossify-sup-reg-sup-min-demin-cortical-cancellous-bone-graft,79.99,158.99,range,USD,in_stock,3,5130082; 5130084; 6130080,,,"Ossify Min/Demin Cortical Cancellous Bone Allograft is a versatile, all-in-one bone graft designed to promote optimal bone regeneration across a wide range of clinical applications. Composed of a 50/50 blend of cortical and cancellous bone, the graft features 30% demineralized bone, leaving 70% of the material mineralized. This unique formulation enhances both osteoconductive and osteoinductive properties, supporting superior bone healing. Suitable for a variety of bone regeneration procedures, including socket grafting, ridge preservation, guided bone regeneration (GBR), and sinus augmentation. 0.5 – 1.0mm particle size.","{""Demineralized Bone Content"": ""30%"", ""Mineralized Bone Content"": ""70%"", ""Particle Size"": ""0.5 – 1.0mm""}",https://www.safcodental.com/media/catalog/product/p/f/pfwre.jpg,Safco SureStitch Sutures (PFEMN),deterministic+llm,valid,,2026-10-19T20:42:07+00:00,15f4f9e1d1f155aa
+safco:100897,Periacryl 90,GluStitch,GluStitch,PFPFR,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical medicaments and packing,Sutures & surgical products; Surgical medicaments and packing,https://www.safcodental.com/product/periacryl-reg-90,146.99,252.99,range,USD,in_stock,2,5102001; 5102003,4.67,3,"Cyanoacrylate oral tissue adhesive used in dental surgeries. High viscosity formula provides increased control for precision application and less waste. Hemostatic and bacteriostatic. Violet color.
+Refrigeration required; this product is stored under refrigeration at Safco.",{},https://www.safcodental.com/media/catalog/product/p/f/pfpfr.jpg,,deterministic,valid,,2026-10-19T20:42:35+00:00,879e914d77cf6e5a
+safco:100819,Perma Sharp sutures,Hu-Friedy,Hu-Friedy,PFEDB,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Sutures,Sutures & surgical products; Sutures,https://www.safcodental.com/product/perma-sharp-reg-sutures,73.99,266.49,range,USD,in_stock,48,3920173; 3920252; 3920253; 3920601; 3920603; 3920605; 3920607; 3920611; 3920613; 3920615; 3920617; 3920619; 3920621; 3920623; 3920625; 3920627; 3920629; 3920631; 3920633; 3920639; 3920640; 3920643; 3920658; 3920662; 3920668; 3928950; 3928953; 3928954; 3928955; 3928956; 3928957; 3928958; 3930044; 3930045; 3930046; 3930047; 3930135; 3930136; 3930137; 3930138; 3930139; 3930140; 3930141; 3930142; 3930143; 3930144; 3930145; 3930237,5.0,1,"Suture needles are made from Series 300 Stainless Steel, the ideal alloy for dental sutures. This alloy allows a very fine point geometry, stays sharp throughout the suturing procedure and is less likely to bend and more resistant to breakage. In addition, the needles have a high-polished finish for a smoother penetration. For Perma Sharp® Sutures Chart along with additional information, click here.",{},https://www.safcodental.com/media/catalog/product/p/f/pfedb.jpg,,deterministic,valid,,2026-10-19T20:42:25+00:00,7e880dfe44c361b8
+safco:95785,Polymed,Ventyv,Ventyv,DRBBL,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/polymed-reg,6.99,6.99,from,USD,in_stock,0,,,,"Latex powder-free exam gloves.
+Multi-layer latex glove that combines the elasticity of latex and the strength of copolymers. Fusion bonding protects against cracking and peeling in normal use.
+Textured fingertip finish
+Beaded cuff
+Polymer coated
+Ambidextrous
+Natural white color
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Natural white"", ""Cuff Style"": ""Beaded cuff"", ""Gloves per Box"": ""100"", ""Layer Count"": ""Multi-layer"", ""Material"": ""Latex"", ""Powder Status"": ""Powder-free"", ""Product Type"": ""Exam Gloves"", ""Texture"": ""Textured fingertip""}",https://www.safcodental.com/media/catalog/product/d/r/drbbl.jpg,Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex (DRCAL); Safco Durasoft Latex (DRBBK); Safco Nitrilex Surpass Gloves (DRCCS),deterministic+llm,valid_with_warnings,missing_variants,2026-10-19T20:45:00+00:00,6287905efdcbc290
+safco:95995,PowerForm Black,SW Safety,SW Safety,DRCDD,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/powerform-black,16.49,18.99,range,USD,in_stock,5,8100014; 8100015; 8100016; 8100017; 8100018,5.0,1,"Powder-free nitrile exam gloves.
+Protect hands and the environment with a biodegradable single-use exam glove that combines performance, durability and tactile sensitivity for critical tasks. EcoTek® Biodegradability Technology accelerates landfill breakdown without any performance loss.
+Tear-resistant beaded cuff
+Fully textured
+Consistent thickness for greater dexterity and tactile sensitivity
+Silicone-free for critical environments
+Clean processing technology reduces potential skin irritation
+Black color
+5.0 mil. thickness
+1.5 AQL exceeds laboratory standards
+100 gloves per box
+Order 10 boxes to purchase a case.","{""AQL"": ""1.5"", ""Color"": ""Black"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""beaded cuff"", ""Material"": ""nitrile"", ""Powder Status"": ""powder-free"", ""Texture"": ""Fully textured"", ""Thickness"": ""5.0 mil""}",https://www.safcodental.com/media/catalog/product/d/r/drcdd.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ),deterministic+llm,valid,,2026-10-19T20:44:30+00:00,6e9feb3b30524b10
+safco:95788,ProDerm,Innovative Healthcare,Innovative Healthcare,DRBBM,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/proderm-trade,4.00,4.00,exact,USD,in_stock,1,5380003,5.0,3,"Powder-free latex exam gloves.
+Polymer bonded interior for easy donning. Slightly thinner for incredible tactile sensitivity and comfort.
+Textured whole hand finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+White color
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""White"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Latex"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured whole hand finish""}",https://www.safcodental.com/media/catalog/product/d/r/drbbm.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco Durasoft Latex (DRBBK),deterministic+llm,valid,,2026-10-19T20:44:53+00:00,07d81972770971cc
+safco:95890,Pulse Nitrile,Innovative Healthcare,Innovative Healthcare,DRCBQ,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/pulse-nitrile,17.49,17.49,range,USD,in_stock,5,5380202; 5380204; 5380206; 5380208; 5380210,5.0,4,"Powder-free nitrile exam gloves.
+Textured fingertip finish
+Beaded cuff
+Lightly chlorinated
+Ambidextrous
+Dark lavender blue color
+Thickness: at palm 3.0mils; at fingertips 3.5 mils
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Dark lavender blue"", ""Count Per Box"": ""200 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 3.0mils; at fingertips 3.5 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbq.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:44:28+00:00,a397bc377c579618
+safco:95926,Pulse LOGIC,Innovative Healthcare,Innovative Healthcare,DRCCF,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/pulse-reg-logic-trade,21.99,21.99,range,USD,in_stock,4,5380301; 5380303; 5380305; 5380307,,,"Powder-free nitrile exam gloves.
+Thinner, but stronger and more elastic than normal nitrile gloves. The softer, more relaxed formulation is ideal for its ability to reduce muscle fatigue.
+Textured fingertip finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+Blue color
+Thickness: at palm 2.5 mils; at fingertip 3.0 mils.
+300 gloves per box
+10 boxes in a case","{""Boxes Per Case"": ""10 boxes in a case"", ""Color"": ""Blue"", ""Count Per Box"": ""300 gloves per box"", ""Material"": ""nitrile"", ""Powder Status"": ""powder-free"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 2.5 mils; at fingertip 3.0 mils.""}",https://www.safcodental.com/media/catalog/product/d/r/drccf.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:44:42+00:00,77b9ec6bdf270ef1
+safco:95758,Pulse Latex,Innovative Healthcare,Innovative Healthcare,DRBAV,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/pulse-trade-latex,9.49,9.49,range,USD,in_stock,5,5380034; 5380035; 5380047; 5380054; 5380063,5.0,1,"Textured whole hand finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+50μg or less of latex protein
+Natural color
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Natural"", ""Cuff Type"": ""Beaded"", ""Gloves Per Box"": ""100"", ""Latex Protein Content"": ""50μg or less"", ""Texture"": ""Textured""}",https://www.safcodental.com/media/catalog/product/d/r/drbav.jpg,Safco Durasoft Latex (DRBBK); Safco Nitrilex (DRCAL); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex UltraSoft Gloves (DRCBN),deterministic+llm,valid,,2026-10-19T20:44:40+00:00,8e1b2a6410d1a768
+safco:95806,Purple Nitrile,Halyard,Halyard,DRCAB,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/purple-nitrile,30.99,30.99,range,USD,in_stock,4,3020151; 3020164; 3020176; 3020180,5.0,1,"Powder-free nitrile exam gloves.
+Textured fingertip finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Purple color
+Thickness: at palm 4.7 mils; at fingertip 5.9 mils
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""purple"", ""Count Per Pack"": ""100 gloves per box"", ""Material"": ""nitrile"", ""Powder Status"": ""powder-free"", ""Texture"": ""textured fingertip"", ""Thickness"": ""at palm 4.7 mils; at fingertip 5.9 mils"", ""Type"": ""exam gloves""}",https://www.safcodental.com/media/catalog/product/d/r/drcab.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:44:36+00:00,3dab2dd7de46c431
+safco:95998,Quantum Blue,Quantum,Quantum,DRCDE,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/quantum-blue,8.59,8.59,range,USD,in_stock,4,8210002; 8210003; 8210004; 8210005,5.0,4,"Powder-free nitrile exam gloves.
+The soft and stretchy formulation of the Quantum Blue Nitrile Exam Glove provides for an exceptional fit and feel. Nonstick interior makes donning a breeze, even with damp hands. Micro-textured outer surface allows superior gripping of instruments. The super soft and stretchy formulation mimics the fit and feel of latex. Quantum Blue exam gloves are highly puncture and chemical resistant.
+Super soft and stretchy
+Non-stick inner surface
+Fit: Ambidextrous
+4.0 MIL thick
+Length: 9.5""
+Beaded cuff
+Micro-textured outer surface
+Color: Vibrant blue
+Industries: Dental, veterinarian, mortuary, cleaning, tattoo
+Case Pack: 100 gloves per box, 10 boxes per case
+Formerly called Cobalt Blue","{""Case Pack"": ""100 gloves per box, 10 boxes per case"", ""Color"": ""Vibrant blue"", ""Cuff Style"": ""Beaded cuff"", ""Fit"": ""Ambidextrous"", ""Glove Type"": ""exam gloves"", ""Industries"": ""Dental, veterinarian, mortuary, cleaning, tattoo"", ""Length"": ""9.5\"""", ""Material"": ""nitrile"", ""Powder Status"": ""powder-free"", ""Surface Texture"": ""Micro-textured outer surface"", ""Thickness"": ""4.0 MIL""}",https://www.safcodental.com/media/catalog/product/d/r/drcde.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:43:59+00:00,9a5665ec9b835b28
+safco:100972,R.T.R. Membrane,Septodont,Septodont,PFWRX,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Bone grafting tissue augmentation,Sutures & surgical products; Bone grafting tissue augmentation,https://www.safcodental.com/product/r-t-r-membrane,108.99,108.99,from,USD,in_stock,0,,,,"Biocompatible Type I bovine Achilles tendon collagen. The absorbable, implantable material creates a barrier to protect PDL development from fast growing tissues. Supports wound stabilization and allows essential nutrients to pass through.
+Indicated for GTR procedures.
+Absorbable within 4-8 weeks.
+Appears white in the dry state; translucent and non-slippery when wet.
+Cut to size and shape.","{""Absorbability"": ""4-8 weeks"", ""Customizable"": ""Cut to size and shape""}",https://www.safcodental.com/media/catalog/product/p/f/pfwrx.jpg,,deterministic+llm,valid_with_warnings,missing_variants,2026-10-19T20:43:15+00:00,ec1fa004da37d33a
+safco:100969,R.T.R.+ Syringe,Septodont,Septodont,PFWRU,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Bone grafting tissue augmentation,Sutures & surgical products; Bone grafting tissue augmentation,https://www.safcodental.com/product/r-t-r-syringe,152.99,152.99,range,USD,in_stock,2,3541626; 3541627,5.0,1,"Sterile and fully resorbable synthetic bone grafting material. Ideal osteogenic matrix mimics human bone. Available in 2 biphasic β-TCP (β-Tricalcium phosphate) / Hydroxyapatite formulations:
+40%/60%: New bone formation gradually forms at the same pace as natural bone.
+80%/20%: New natural bone will generate at an accelerated pace.
+Indications include: post-extraction socket preservation, periodontal defects, infrabony defects, peri-implant defects, sinus lift, ridge augmentation, and cystic cavities.","{""Indications include"": ""post-extraction socket preservation, periodontal defects, infrabony defects, peri-implant defects, sinus lift, ridge augmentation, and cystic cavities."", ""Material Composition"": ""Biphasic β-TCP (β-Tricalcium phosphate) / Hydroxyapatite"", ""Product Type"": ""Synthetic bone grafting material"", ""Resorbability"": ""Fully resorbable"", ""Sterility"": ""Sterile""}",https://www.safcodental.com/media/catalog/product/p/f/pfwru.jpg,,deterministic+llm,valid,,2026-10-19T20:42:39+00:00,b8e56554b64417b3
+safco:100966,Regenafill Bone Graft Plug,Surgical Esthetics,Surgical Esthetics,PFWRL,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Bone grafting tissue augmentation,Sutures & surgical products; Bone grafting tissue augmentation,https://www.safcodental.com/product/regenafill-sup-trade-sup-bone-graft-plug,259.99,259.99,range,USD,in_stock,2,6130070; 6130072,,,"Composed of 80% carbonate phosphate based mineral with a carbonate apatite structure combined with 20% Type I Achilles bovine tendon collagen. This mineral is physically and chemically comparable to the mineralized matrix of human bone, which makes it an excellent choice for socket preservation. No membrane needed in most cases.
+Intended for use in dental surgery including:
+• Augmentation or reconstructive treatment of the alveolar ridge. • Filling of infrabony periodontal defects. • Filling of defects after root resection, apicoectomy, and cystectomy. • Filling of extraction sockets to enhance preservation of alveolar ridge. • Elevation of the maxillary sinus floor. • Filling of periodontal defects in conjunction with GTR. • Filling of peri-implant defects in conjunction with GBR.",{},https://www.safcodental.com/media/catalog/product/p/f/pfwrl.jpg,Safco SureStitch Sutures (PFEMN),deterministic,valid,,2026-10-19T20:42:11+00:00,90955aa05269edf3
+safco:95908,Revo200,Cranberry,Cranberry,DRCBX,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/revo200-reg,21.99,21.99,exact,USD,in_stock,1,4712603,5.0,1,"Textured fingertip finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+Dark blue color
+Thickness: at palm 2.0 mils; at fingertip 2.8 mils
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Dark blue"", ""Count Per Box"": ""200 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 2.0 mils; at fingertip 2.8 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbx_2.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:44:23+00:00,3ee97abfead19f0d
+safco:95959,RevoSoft,Cranberry,Cranberry,DRCCR,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/revosoft-reg-nitrile-gloves,28.99,28.99,range,USD,in_stock,4,4712611; 4712613; 4712615; 4712617,5.0,1,"Nitrile powder-free exam gloves.
+Unique nitrile formulation created for enhanced ease of use, softness, and fit. Improved fingertip texture offers superior handling and control.
+Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Blue color
+Thickness: at palm 2.0 mils; at fingertip 2.8 mils
+Order 10 boxes to purchase a case","{""Color"": ""Blue"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 2.0 mils; at fingertip 2.8 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drccr_2.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:43:42+00:00,7112087d457a8aad
+safco:95782,Safco Durasoft Latex,Safco,Safco,DRBBK,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/safco-durasoft-trade-latex-gloves,6.99,6.99,range,USD,in_stock,5,1028033; 1028035; 1028038; 1028041; 1028043,5.0,5,"Powder-free latex exam gloves.
+Safco’s natural latex provides an ultra-soft feel with the quality and value you’ve come to expect from Safco products.
+Whole-hand micro-textured finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+50μg or less of latex protein
+Natural latex white
+100 gloves per box
+Order 10 boxes to purchase a case","{""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""Beaded"", ""Powder Status"": ""Powder-free"", ""Product Type"": ""Latex exam gloves"", ""Protein Content"": ""50μg or less"", ""Texture"": ""Whole-hand micro-textured finish""}",https://www.safcodental.com/media/catalog/product/d/r/drbbk.jpg,,deterministic+llm,valid,,2026-10-19T20:43:53+00:00,3d4f3d507423a2b5
+safco:96040,Safco EZ Green Chloroprene Gloves,Safco,Safco,DRDAP,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Chloroprene gloves,Dental Exam Gloves; Chloroprene gloves,https://www.safcodental.com/product/safco-ez-green-chloroprene,17.99,17.99,range,USD,in_stock,4,1028046; 1028048; 1028050; 1028052,5.0,1,"Powder-free chloroprene examination gloves.
+Similar feel and elasticity to that of latex without the risk of allergic reation to latex proteins. Provides supreme tactile sensitivity.
+Textured fingertip finish
+Beaded cuff
+Ambidextreous
+Green color
+Thickness: at palm 3.0 mils; at fingertips 3.5 mils
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Green"", ""Count Per Box"": ""200 gloves per box"", ""Cuff Style"": ""Beaded"", ""Material"": ""Chloroprene"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 3.0 mils; at fingertips 3.5 mils"", ""Type"": ""Examination""}",https://www.safcodental.com/media/catalog/product/d/r/drdap.jpg,Safco Durasoft Latex (DRBBK); Safco Nitrilex Soothe (DRCDJ); Safco Nitrilex Black Gloves (DRCCX),deterministic+llm,valid,,2026-10-19T20:44:00+00:00,f221b09740cda446
+safco:95977,Safco Nitrilex Black Gloves,Safco,Safco,DRCCX,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/safco-nitrilex-black,13.29,13.29,range,USD,in_stock,5,1027972; 1027974; 1027976; 1027978; 1027980,5.0,1,"Powder-free nitrile exam gloves.
+Our strongest and thinnest nitrile glove yet. Designed to preserve the sensitivity you have come to expect from the Nitrilex line of gloves.
+Textured fingertip finish
+Beaded cuff
+Non-chlorinated
+Ambidextreous
+Black color
+Polymer coated for easy donning
+Thickness: at palm 2.0 mils; at fingertip 2.3 mils
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Black"", ""Count Per Box"": ""200 gloves"", ""Cuff Style"": ""Beaded"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Product Type"": ""Exam gloves"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 2.0 mils; at fingertip 2.3 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drccx.jpg,Safco Nitrilex Soothe (DRCDJ); Safco Durasoft Latex (DRBBK),deterministic+llm,valid,,2026-10-19T20:43:55+00:00,af76593a44d16fb4
+safco:95938,Safco Nitrilex Prevail Gloves,Safco,Safco,DRCCJ,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/safco-nitrilex-prevail-trade-nitrile-gloves,15.99,15.99,range,USD,in_stock,5,1028085; 1028087; 1028090; 1028093; 1028094,4.14,7,"Powder-free nitrile exam gloves.
+Nitrilex Prevail preserves ultimate tactile sensitivity with the strength you have come to expect from our line of Nitrilex exam gloves.
+Textured fingertip finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+Blue color
+Polymer coated for easy donning
+Thickness at palm 2.5 mils; at fingertips 3.0 mils
+300 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Blue"", ""Count Per Box"": ""300 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip finish"", ""Thickness At Fingertips"": ""3.0 mils"", ""Thickness At Palm"": ""2.5 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drccj.jpg,Safco Durasoft Latex (DRBBK); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:43:57+00:00,79a6f62dc9b9c9ce
+safco:95821,Safco Nitrilex,Safco,Safco,DRCAL,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/safco-nitrilex-reg-nitrile-gloves,6.49,6.49,range,USD,in_stock,5,1028031; 1028044; 1028057; 1028069; 1028070,4.86,7,"Powder-free nitrile exam gloves.
+Soft, micro-textured formulation provides a more natural comfort and feel not typically found in other nitrile gloves. Easy-don formulation.
+Textured whole hand finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Blue color
+Thickness: at palm 4.3 mils; at fingertip 5.1 mils; ± 1.2
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Blue"", ""Count Per Box"": ""100 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Micro-textured"", ""Texture Finish"": ""Textured whole hand finish"", ""Thickness"": ""at palm 4.3 mils; at fingertip 5.1 mils; ± 1.2""}",https://www.safcodental.com/media/catalog/product/d/r/drcal.jpg,Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Black Gloves (DRCCX),deterministic+llm,valid,,2026-10-19T20:43:58+00:00,dba6beb1036bda26
+safco:95884,Safco Nitrilex UltraSoft Gloves,Safco,Safco,DRCBN,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/safco-nitrilex-reg-ultrasoft-nitrile-gloves,13.29,13.29,range,USD,in_stock,5,1028005; 1028009; 1028012; 1028016; 1028018,4.6,10,"Powder-free nitrile exam gloves.
+Ultra-soft and form-fitting with a textured fingertip finish. Gloves dispense easily, one by one.
+Textured fingertip finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Lavender blue color
+Thickness: at palm 3.2 mils; at fingertips 3.5 mils
+200 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Lavender blue"", ""Count Per Box"": ""200 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Dispensing"": ""One by one"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 3.2 mils; at fingertips 3.5 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcbn.jpg,Safco Nitrilex Black Gloves (DRCCX); Safco Durasoft Latex (DRBBK); Safco Nitrilex Soothe (DRCDJ),deterministic+llm,valid,,2026-10-19T20:43:54+00:00,94bf0a18bcfe008d
+safco:96013,Safco Nitrilex Soothe,Safco,Safco,DRCDJ,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/safco-nitrilex-soothe,15.99,15.99,range,USD,in_stock,5,1028073; 1028077; 1028078; 1028086; 1028088,,,"Powder-free nitrile exam gloves.
+Our reliably strong and thin nitrile glove, but now with a colloidal oatmeal coating. This is specifically formulated to lock in moisture, giving your skin a chance to rehydrate from handwashing. Designed to soften your skin and soothe itching, our anti-inflammatory properties make our Safco Nitrilex Soothe perfect for clinicians with dry skin, returning your hands to their natural PH balance.
+Made in Malaysia
+Textured fingertip finish
+Beaded cuff
+Non-chlorinated
+Ambidextreous
+Chemotherapy drug tested per ASTM D6978
+Robin Egg Blue color
+Moisturizing anti-irritant and anti-inflammatory colloidal oatmeal coated
+Thickness: at palm 2.5 mils; at fingertip 3.3 mils
+To purchase a full case, please order as qty of 10","{""Coating"": ""Colloidal Oatmeal"", ""Color"": ""Robin Egg Blue"", ""Cuff Style"": ""Beaded"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Testing Standard"": ""Chemotherapy drug tested per ASTM D6978"", ""Texture"": ""Textured Fingertip"", ""Thickness"": ""at palm 2.5 mils; at fingertip 3.3 mils"", ""Type"": ""Exam Gloves""}",https://www.safcodental.com/media/catalog/product/d/r/drcdj.jpg,Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:43:56+00:00,0c77277726be5d3e
+safco:95962,Safco Nitrilex Surpass Gloves,Safco,Safco,DRCCS,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/safco-nitrilex-surpass-trade,15.99,15.99,range,USD,in_stock,5,1027990; 1027993; 1027996; 1027999; 1028001,4.92,26,"Powder-free nitrile exam gloves.
+A comfortable glove you can wear all day without fatigue. Designed to exceed your expectations in durability and comfort while maintaining tactile sensitivity. Features textured fingertips with the strength you have come to expect in our Nitrilex line of exam gloves. ASTM D6978 tested and approved for use with chemotherapy drugs.
+Textured fingertip finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+Blue color
+Thickness: at palm 3.2 mils; at fingertip 3.5 mils
+300 gloves per box
+Order 10 boxes to purchase a case
+For full Dental Product Shopper review click here.","{""Chemotherapy Approval"": ""ASTM D6978 tested and approved"", ""Color"": ""Blue"", ""Count Per Box"": ""300 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertips"", ""Texture Finish"": ""Textured fingertip finish"", ""Thickness"": ""at palm 3.2 mils; at fingertip 3.5 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drccs.jpg,,deterministic+llm,valid,,2026-10-19T20:43:52+00:00,de07e78fcc342907
+safco:100831,Safco SureStitch Sutures,Safco,Safco,PFEMN,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Sutures,Sutures & surgical products; Sutures,https://www.safcodental.com/product/safco-surestitch-trade-sutures,30.49,53.99,range,USD,in_stock,15,1025801; 1025807; 1025811; 1025815; 1025822; 1025829; 1025833; 1025847; 1025859; 1025861; 1025865; 1025870; 1025875; 1025879; 1025885,5.0,4,"Extra sharp cutting edges on the needle reduce tissue drag and produce a precise, smooth penetration with minimal trauma. Needle channel is fitted to the specific size of the suture material. Excellent handling and tying characteristics. Reverse cutting.
+Plain gut (catgut): Made of first quality raw material, catgut has extremely high tensile strength. Every strand is precision polished to a uniform diameter, permitting smooth and secure knotting.
+Chromic gut (catgut): Produced with the same precision and quality materials as plain gut, plus treated with chromic acid salts to decrease tissue reactivity and provide a slower absorption rate.
+Black braided silk: Noncapillary silk has excellent handling and tying characteristics. Modern braiding technique provides a uniform smooth surface and a greater tensile strength. Nylon black monofilament: A non-absorbable polyamide suture with characteristic high tensile strength. The uniform smooth surface permits easy passage through tissue.
+For Safco SureStitch™ Sutures Chart along with additional information, click here.","{""Absorbability"": ""Non-absorbable"", ""Chromic gut (catgut)"": ""Produced with the same precision and quality materials as plain gut, plus treated with chromic acid salts to decrease tissue reactivity and provide a slower absorption rate."", ""Color"": ""Black"", ""Plain gut (catgut)"": ""Made of first quality raw material, catgut has extremely high tensile strength. Every strand is precision polished to a uniform diameter, permitting smooth and secure knotting."", ""Structure"": ""Monofilament""}",https://www.safcodental.com/media/catalog/product/p/f/pfemn.jpg,,deterministic+llm,valid,,2026-10-19T20:42:21+00:00,2a90ff3dedbb6113
+safco:100870,Safety Scalpels,Integra Miltex,Integra Miltex,PFLVZ,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical blades and scalpels,Sutures & surgical products; Surgical blades and scalpels,https://www.safcodental.com/product/safety-scalpels,38.49,38.49,range,USD,in_stock,2,3274478; 3274479,,,"Retractable blade scalpel offers ultimate safety.
+Sterile Stainless steel, razor-sharp cutting edge.
+Advance blade with slider in one motion.
+Blade locks into place with audible confirmation.
+Retract with one motion to protected position.
+Metric ruler on each scalpel.
+Individually packaged.",{},https://www.safcodental.com/media/catalog/product/p/f/pflvz.jpg,,deterministic,valid,,2026-10-19T20:43:11+00:00,f2d9895c06ce5bdc
+safco:100849,Scalpel Handles - Hu-Friedy,Hu-Friedy,Hu-Friedy,PFLNB,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical blades and scalpels,Sutures & surgical products; Surgical blades and scalpels,https://www.safcodental.com/product/scalpel-handles-hu-friedy,38.99,98.49,range,USD,in_stock,5,3920389; 3921896; 3928908; 3928914; 3929442,5.0,1,"The #3 style scalpel handle with metric ruler is used for cutting gingival tissue and making surgical incisions.
+The #5 Offset Angle Scalpel handle design is ideal for posterior and palatal areas with a 30 degree angle
+The #5 European Round Scalpel Blade Handle is used for cutting gingival tissue and making surgical incisions. The round scalpel handle provides greater rotational movement with fingertip control and enhances dexterity.
+The #5 Straight Round Scalpel Blade Handle is used for cutting gingival tissue and making surgical incisions.","{""Handle Style"": ""#3"", ""Intended Area"": ""Posterior and palatal areas"", ""Intended Use"": ""Cutting gingival tissue and making surgical incisions"", ""Special Feature"": ""Metric Ruler""}",https://www.safcodental.com/media/catalog/product/p/f/pflnb.jpg,Safco SureStitch Sutures (PFEMN),deterministic+llm,valid,,2026-10-19T20:43:04+00:00,9f02a5ff2f1e3250
+safco:95749,Sigma,Cranberry,Cranberry,DRBAR,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/sigma-reg,13.99,13.99,range,USD,in_stock,5,4710224; 4710235; 4710246; 4710257; 4710263,,,"Textured whole hand finish
+Beaded cuff
+Lightly chlorinated
+Ambidextrous
+50µg or less of latex protein
+Natural color
+Polymer coated for easy donning
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Natural"", ""Cuff Style"": ""Beaded cuff"", ""Finish"": ""Textured whole hand finish"", ""Gloves Per Box"": ""100"", ""Latex Protein Content"": ""50µg or less""}",https://www.safcodental.com/media/catalog/product/d/r/drbar_2.jpg,Safco Durasoft Latex (DRBBK); Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Prevail Gloves (DRCCJ),deterministic+llm,valid,,2026-10-19T20:44:04+00:00,d3035144e3dd7fe9
+safco:95734,Silkcare,Cranberry,Cranberry,DRBAC,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/silkcare-reg,18.99,18.99,range,USD,in_stock,4,4710010; 4710018; 4710024; 4710036,5.0,2,"Powder-free latex exam gloves.
+Coated with USP grade Lanolin and Vitamin E to minimize dry skin irritation associated with frequent hand washing.
+Textured whole hand finish
+Beaded cuff
+Lightly chlorinated
+Ambidextrous
+50μg or less of latex protein
+Natural color
+Vitamin E and lanolin coated
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""natural"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""beaded"", ""Latex Protein Content"": ""50μg or less"", ""Material"": ""latex"", ""Powder Status"": ""powder-free"", ""Texture"": ""textured whole hand finish""}",https://www.safcodental.com/media/catalog/product/d/r/drbac_2.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Durasoft Latex (DRBBK); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex Prevail Gloves (DRCCJ),deterministic+llm,valid,,2026-10-19T20:44:06+00:00,218ffda28962c608
+safco:100984,Sodium chloride 0.9% for injection - B Braun,B Braun,B Braun,PFXHJ,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > IV fluids and administration sets,Sutures & surgical products; IV fluids and administration sets,https://www.safcodental.com/product/sodium-chloride-0-9-for-injection-b-braun,68.29,149.99,range,USD,in_stock,3,5102401; 5102403; 5102405,5.0,2,"Due to supply chain disruptions, we are unable to accept backorders until the item is back in stock.
+Indicated for extracellular fluid replacement, treatment of metabolic alkalosis in the presence of fluid loss and mild sodium depletion.
+Note:
+250ml bags and 500ml bags come in EXCEL ® IV bags, which feature a sturdy port system.
+1,000ml bags come in both E3 bags, which have rounded shoulders, no overwrap, a seamless design, and the EXCEL ® IV bags, which feature a sturdy port system.
+Both the EXCEL® and E3 bags are not manufactured with latex, PVC or DEHP.
+Click here to see full prescribing information",{},https://www.safcodental.com/media/catalog/product/p/f/pfxhj.jpg,,deterministic,valid,,2026-10-19T20:42:28+00:00,aa8bed6751eccbab
+safco:100987,Sodium chloride 0.9% for injection - Baxter,Baxter Healthcare,Baxter Healthcare,PFXHK,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > IV fluids and administration sets,Sutures & surgical products; IV fluids and administration sets,https://www.safcodental.com/product/sodium-chloride-0-9-for-injection-baxter,73.99,267.99,range,USD,in_stock,4,5102410; 5102412; 5102414; 5102416,5.0,2,"Due to supply chain disruptions, we are unable to accept backorders until the item is back in stock.
+0.9% sodium chloride injection. Viaflex IV injection plastic container. USP sterile disposable port closure. Not made with natural rubber latex.",{},https://www.safcodental.com/media/catalog/product/p/f/pfxhk.jpg,,deterministic,valid,,2026-10-19T20:42:36+00:00,8d0e8631a897bf28
+safco:100873,Soft Tissue Trimmer,Kerr Rotary,Kerr Rotary,PFLWH,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical blades and scalpels,Sutures & surgical products; Surgical blades and scalpels,https://www.safcodental.com/product/soft-tissue-trimmer,144.99,144.99,range,USD,in_stock,2,4605716; 4605738,,,FG bur designed for soft tissue surgery. Can be used as an alternative to electrosurgery and surgical blades; functions as a rotating scalpel for soft tissue that promotes coagulation for minimal bleeding. Biocompatible hard oxide point cuts tissue without burning. Autoclavable.,{},https://www.safcodental.com/media/catalog/product/p/f/pflwh.jpg,Safco SureStitch Sutures (PFEMN),deterministic,valid,,2026-10-19T20:42:17+00:00,507e2e3b64377294
+safco:100990,Sterile water for injection - B Braun,B Braun,B Braun,PFXKQ,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > IV fluids and administration sets,Sutures & surgical products; IV fluids and administration sets,https://www.safcodental.com/product/sterile-water-for-injection-b-braun,80.99,187.99,range,USD,in_stock,4,5102502; 5102504; 5102506; 5102508,5.0,1,"Due to supply chain disruptions, we are unable to accept backorders until the item is back in stock.
+Clear, colorless, odorless liquid. Sterile, hypotonic, nonpyrogenic, and contains no bacteriostatic or antimicrobial agents. EXCEL ® IV bags feature a sturdy port system and are not manufactured with latex, PVC or DEHP.
+Click here to see full prescribing information","{""Pyrogen Status"": ""Nonpyrogenic"", ""Sterility"": ""Sterile"", ""Tonicity"": ""Hypotonic""}",https://www.safcodental.com/media/catalog/product/p/f/pfxkq.jpg,,deterministic+llm,valid,,2026-10-19T20:42:32+00:00,59930b1e0bfb3a5f
+safco:100846,Surgical blade handles - Bard-Parker (BD),Bard-Parker,Bard-Parker,PFLMA,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical blades and scalpels,Sutures & surgical products; Surgical blades and scalpels,https://www.safcodental.com/product/surgical-blade-handles-bard-parker-bd,32.59,34.99,range,USD,in_stock,2,3381337; 3381340,4.0,2,"Stainless steel. Handles are intended to be used for tissue separation, and other procedures that require a sharp surgical blade to puncture or cut.
+Consistent sharpness, control and strength surgeons demand.
+Uniquely packaged for safety and ease of use.
+Nonsterile.
+Sizes 3 fit blades sizes 10-15.
+Size 4 fits blade sizes 20-25.","{""Handle Size 3 Compatible Blades"": ""10-15"", ""Handle Size 4 Compatible Blades"": ""20-25""}",https://www.safcodental.com/media/catalog/product/p/f/pflma.jpg,Safco SureStitch Sutures (PFEMN),deterministic+llm,valid,,2026-10-19T20:43:03+00:00,44b1cc0dfac82ad9
+safco:100843,Surgical blades,Queens Surgical,Queens Surgical,PFLJQ,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical blades and scalpels,Sutures & surgical products; Surgical blades and scalpels,https://www.safcodental.com/product/surgical-blades,20.49,20.49,range,USD,in_stock,9,3440209; 3440212; 3440217; 3440231; 3440236; 3440316; 3440319; 3440325; 3440329,5.0,1,"Box of 100 single-use blades, in sterile foil packs.",{},https://www.safcodental.com/media/catalog/product/p/f/pfljq.jpg,Safco SureStitch Sutures (PFEMN),deterministic,valid,,2026-10-19T20:42:44+00:00,558a5436394ea8b9
+safco:100837,Surgical blades - Bard-Parker (BD),Bard-Parker,Bard-Parker,PFLDB,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical blades and scalpels,Sutures & surgical products; Surgical blades and scalpels,https://www.safcodental.com/product/surgical-blades-bard-parker-bd,56.29,198.79,range,USD,in_stock,6,3381242; 3381264; 3381290; 3385011; 3385015; 3385017,5.0,1,Single-use blades in individual foil packs.,{},https://www.safcodental.com/media/catalog/product/p/f/pfldb.jpg,,deterministic,valid,,2026-10-19T20:42:48+00:00,8f38e2131a276c7c
+safco:100858,Surgical blades - Hu-Friedy,Hu-Friedy,Hu-Friedy,PFLTA,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical blades and scalpels,Sutures & surgical products; Surgical blades and scalpels,https://www.safcodental.com/product/surgical-blades-hu-friedy,97.99,247.99,range,USD,in_stock,7,3920328; 3920391; 3920458; 3928961; 3930043; 3930133; 3930151,,,The Hu-Friedy surgical blades are single use carbon steel blades used for cutting gingival tissue and making surgical incisions. They are crafted from the finest materials for strength and durability. Both microsurgical and standard styles are offered to match clinician and procedural preferences.,{},https://www.safcodental.com/media/catalog/product/p/f/pflta.jpg,Safco SureStitch Sutures (PFEMN),deterministic,valid,,2026-10-19T20:42:40+00:00,1a30c11383647598
+safco:100840,Surgical blades - Integra Miltex,Integra Miltex,Integra Miltex,PFLGV,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical blades and scalpels,Sutures & surgical products; Surgical blades and scalpels,https://www.safcodental.com/product/surgical-blades-integra-miltex,51.99,124.49,range,USD,in_stock,17,3271504; 3271513; 3271523; 3271527; 3271535; 3271541; 3271567; 3271578; 3271586; 3271590; 3271614; 3271621; 3271636; 3271642; 3271653; 3271665; 3271687,5.0,1,"Box of 100 sterile single-use blades, in individual foil packs.",{},https://www.safcodental.com/media/catalog/product/p/f/pflgv.jpg,,deterministic,valid,,2026-10-19T20:42:36+00:00,d31953cea06a3193
+safco:100909,SURGICEL Original Absorbable Hemostat,Ethicon,Ethicon,PFPHJ,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical medicaments and packing,Sutures & surgical products; Surgical medicaments and packing,https://www.safcodental.com/product/surgicel-reg,1118.99,1118.99,exact,USD,in_stock,1,2580213,,,"Sterile, shear-weave, absorbable hemostat used to control bleeding in tooth extractions and oral surgery. Produced from oxidized regenerated cellulose to ensure purity and consistency. Fully absorbable within 7-14 days. Strong yet flexible and malleable to conform to irregular surfaces; may be folded or cut to size.","{""Absorbability Timeframe"": ""Within 7-14 days"", ""Product Type"": ""Absorbable Hemostat"", ""Sterility"": ""Sterile"", ""Structure"": ""Shear-weave""}",https://www.safcodental.com/media/catalog/product/p/f/pfphj.jpg,Safco SureStitch Sutures (PFEMN),deterministic+llm,valid,,2026-10-19T20:42:13+00:00,9ab73a892933cf6d
+safco:100912,Surgifoam,Ethicon,Ethicon,PFPJK,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Surgical medicaments and packing,Sutures & surgical products; Surgical medicaments and packing,https://www.safcodental.com/product/surgifoam-reg,214.49,251.99,range,USD,in_stock,2,2580512; 2580524,5.0,4,"Sterile, water insoluble, malleable porcine gelatin absorbable sponge, intended for hemostatic use by applying to a bleeding surface.
+Use in oral surgery for the obliteration of dead space created by simple extraction, root amputation and removal of cysts, tumors and impacted teeth.
+Rapid hemostasis.
+Easy to handle: compressible, does not require any cutting.
+Absorbs up to 40 times its own weight.
+Bioresorbable.
+The sponge is porous and off-white in appearance.","{""Absorbability"": ""absorbable"", ""Absorption Capacity"": ""up to 40 times its own weight"", ""Easy to handle"": ""compressible, does not require any cutting."", ""Material"": ""porcine gelatin"", ""Solubility"": ""water insoluble"", ""Sterility"": ""sterile""}",https://www.safcodental.com/media/catalog/product/p/f/pfpjk.jpg,Safco SureStitch Sutures (PFEMN),deterministic+llm,valid,,2026-10-19T20:42:03+00:00,fd89594fac4a70bc
+safco:100834,Suture needles - Integra Miltex,Integra Miltex,Integra Miltex,PFHIK,grouped,Sutures & surgical products,Dental Supplies > Sutures & surgical products > Suture needles,Sutures & surgical products; Suture needles,https://www.safcodental.com/product/suture-needles-integra-miltex,52.49,52.49,exact,USD,in_stock,1,3271223,,,Miltex Regular Surgeon's Needles.,{},https://www.safcodental.com/media/catalog/product/p/f/pfhik.jpg,,deterministic,valid,,2026-10-19T20:43:15+00:00,8edfa2e49879132d
+safco:95920,Transcend,Cranberry,Cranberry,DRCCC,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/transcend-trade,29.99,29.99,range,USD,in_stock,4,4713603; 4713605; 4713607; 4713608,4.4,5,"Powder-free nitrile exam gloves.
+Low Derma technology reduces the risk of skin irritation.
+Textured fingertip finish
+Beaded cuff
+Chlorinated
+Ambidextrous
+Matte blue color
+Thickness: at palm 2.5 mils; at fingertip 2.9 mils
+300 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""matte blue"", ""Count Per Box"": ""300 gloves per box"", ""Cuff Style"": ""beaded"", ""Material"": ""nitrile"", ""Powder Status"": ""powder-free"", ""Texture"": ""textured fingertip"", ""Thickness"": ""at palm 2.5 mils; at fingertip 2.9 mils"", ""Type"": ""exam gloves""}",https://www.safcodental.com/media/catalog/product/d/r/drccc_2.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:44:13+00:00,8e5fae0802a283a1
+safco:96043,True Comfort Blu,Dash,Dash,DRDAQ,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Chloroprene gloves,Dental Exam Gloves; Chloroprene gloves,https://www.safcodental.com/product/true-comfort-reg-blu,18.99,18.99,range,USD,in_stock,5,4680067; 4680069; 4680071; 4680073; 4680075,,,"Powder-free, latex-free, chloroprene examination gloves.
+Unrivaled wet grip, increased touch sensitivity, and silky smooth comfort. Chemotherapty drug rated.
+Textured fingertip finish
+Beaded cuff
+Ambidextrous
+Ocean blue color
+Thickness: at palm 2.4 mils; at fingertip 3.1 mils
+To purchase a full case, please order as qty of 10 boxes","{""Color"": ""Ocean blue"", ""Cuff Style"": ""Beaded cuff"", ""Latex Content"": ""Latex-free"", ""Material"": ""Chloroprene"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip finish"", ""Thickness"": ""at palm 2.4 mils; at fingertip 3.1 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drdaq.jpg,Safco Nitrilex (DRCAL); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Prevail Gloves (DRCCJ),deterministic+llm,valid,,2026-10-19T20:43:47+00:00,6a78e269374b27d6
+safco:95992,TrueForm,SW Safety,SW Safety,DRCDC,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/trueform,5.00,6.00,range,USD,in_stock,2,8100011; 8100013,,,"SW Safety TrueForm Exam Glove TF-95RB 3.1 MIL in Royal Blue. Medical grade glove with textured fingertips and reinforced palm. Perfect for dental, medical applications as well as veterinarian and dairy.","{""Brand"": ""SW Safety"", ""Color"": ""Royal Blue"", ""Feature"": ""Reinforced palm"", ""Grade"": ""Medical grade"", ""Model Number"": ""TF-95RB"", ""Product Name"": ""TrueForm Exam Glove"", ""Texture"": ""Textured fingertips"", ""Thickness"": ""3.1 MIL""}",https://www.safcodental.com/media/catalog/product/d/r/drcdc.jpg,,deterministic+llm,valid,,2026-10-19T20:44:26+00:00,1271239337708613
+safco:95767,VitalGard,Dash,Dash,DRBAZ,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Latex gloves,Dental Exam Gloves; Latex gloves,https://www.safcodental.com/product/vitalgard-reg,12.49,12.49,exact,USD,in_stock,1,4680663,5.0,3,"Textured whole hand finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+50μg or less of latex protein
+Natural color
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Natural"", ""Count Per Box"": ""100 gloves per box"", ""Cuff Style"": ""Beaded cuff"", ""Finish"": ""Textured whole hand finish"", ""Latex Protein Content"": ""50μg or less""}",https://www.safcodental.com/media/catalog/product/d/r/drbaz.jpg,Safco Durasoft Latex (DRBBK); Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:44:56+00:00,e9a38700236a9ec2
+safco:95716,Wire glove box holder,Unimed,Unimed,DRvCD-lc,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Glove Holder,Dental Exam Gloves; Glove Holder,https://www.safcodental.com/product/wire-glove-box-holder,21.49,30.49,range,USD,in_stock,3,6220102; 6220104; 6220106,,,"Three size options to hold 2, 3 or 4 glove boxes. 4"" depth can accommodate virtually any size glove box on the market. Steel construction with baked-on white finish. Includes wall mounting hardware.",{},https://www.safcodental.com/media/catalog/product/d/r/drvcd_lc.jpg,Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Surpass Gloves (DRCCS); Safco Nitrilex Prevail Gloves (DRCCJ); Safco EZ Green Chloroprene Gloves (DRDAP); Safco Nitrilex (DRCAL),deterministic,valid,,2026-10-19T20:44:47+00:00,25c217f6654e91d2
+safco:95818,Xlim,Cranberry,Cranberry,DRCAJ,grouped,Dental Exam Gloves,Dental Supplies > Dental Exam Gloves > Nitrile gloves,Dental Exam Gloves; Nitrile gloves,https://www.safcodental.com/product/xlim-reg,11.49,11.49,range,USD,in_stock,5,4710520; 4710532; 4710544; 4710556; 4710568,4.0,1,"Powder-free nitrile exam gloves.
+Textured fingertip finish
+Beaded cuff
+Non-chlorinated
+Ambidextrous
+Blue color
+Thickness: at palm 2.4 mils; at fingertip 3.2 mils
+100 gloves per box
+Order 10 boxes to purchase a case","{""Color"": ""Blue"", ""Count Per Box"": ""100 gloves"", ""Cuff Style"": ""Beaded"", ""Material"": ""Nitrile"", ""Powder Status"": ""Powder-free"", ""Texture"": ""Textured fingertip"", ""Thickness"": ""at palm 2.4 mils; at fingertip 3.2 mils""}",https://www.safcodental.com/media/catalog/product/d/r/drcaj_2.jpg,Safco Nitrilex (DRCAL); Safco Nitrilex UltraSoft Gloves (DRCBN); Safco Nitrilex Prevail Gloves (DRCCJ); Safco Nitrilex Surpass Gloves (DRCCS); Safco EZ Green Chloroprene Gloves (DRDAP),deterministic+llm,valid,,2026-10-19T20:44:12+00:00,3795a45d20dfa20a

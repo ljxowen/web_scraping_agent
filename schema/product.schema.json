@@ -1,0 +1,453 @@
+{
+  "$defs": {
+    "AlternativeProduct": {
+      "properties": {
+        "relation": {
+          "title": "Relation",
+          "type": "string"
+        },
+        "name": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Name"
+        },
+        "sku": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Sku"
+        },
+        "url": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Url"
+        }
+      },
+      "required": [
+        "relation"
+      ],
+      "title": "AlternativeProduct",
+      "type": "object"
+    },
+    "Availability": {
+      "enum": [
+        "in_stock",
+        "out_of_stock",
+        "backorder",
+        "discontinued",
+        "unknown"
+      ],
+      "title": "Availability",
+      "type": "string"
+    },
+    "PriceType": {
+      "enum": [
+        "exact",
+        "range",
+        "from"
+      ],
+      "title": "PriceType",
+      "type": "string"
+    },
+    "Variant": {
+      "properties": {
+        "sku": {
+          "title": "Sku",
+          "type": "string"
+        },
+        "name": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Name"
+        },
+        "manufacturer_code": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Manufacturer Code"
+        },
+        "option_text": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Option Text"
+        },
+        "attributes": {
+          "additionalProperties": {
+            "type": "string"
+          },
+          "title": "Attributes",
+          "type": "object"
+        },
+        "price": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Price"
+        },
+        "currency": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": "USD",
+          "title": "Currency"
+        },
+        "availability": {
+          "$ref": "#/$defs/Availability",
+          "default": "unknown"
+        },
+        "availability_label": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Availability Label"
+        },
+        "pack_size": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Pack Size"
+        },
+        "unit_of_measure": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Unit Of Measure"
+        },
+        "source_variant_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Source Variant Id"
+        }
+      },
+      "required": [
+        "sku"
+      ],
+      "title": "Variant",
+      "type": "object"
+    }
+  },
+  "properties": {
+    "product_id": {
+      "title": "Product Id",
+      "type": "string"
+    },
+    "source_product_id": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Source Product Id"
+    },
+    "canonical_url": {
+      "title": "Canonical Url",
+      "type": "string"
+    },
+    "name": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Name"
+    },
+    "brand": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Brand"
+    },
+    "manufacturer": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Manufacturer"
+    },
+    "parent_sku": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Parent Sku"
+    },
+    "product_type": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Product Type"
+    },
+    "category_path": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Category Path",
+      "type": "array"
+    },
+    "description": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Description"
+    },
+    "specifications": {
+      "additionalProperties": {
+        "type": "string"
+      },
+      "title": "Specifications",
+      "type": "object"
+    },
+    "image_urls": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Image Urls",
+      "type": "array"
+    },
+    "price_min": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Price Min"
+    },
+    "price_max": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Price Max"
+    },
+    "price_type": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/PriceType"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null
+    },
+    "currency": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Currency"
+    },
+    "availability": {
+      "$ref": "#/$defs/Availability",
+      "default": "unknown"
+    },
+    "rating_value": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Rating Value"
+    },
+    "review_count": {
+      "anyOf": [
+        {
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Review Count"
+    },
+    "alternative_products": {
+      "items": {
+        "$ref": "#/$defs/AlternativeProduct"
+      },
+      "title": "Alternative Products",
+      "type": "array"
+    },
+    "variants": {
+      "items": {
+        "$ref": "#/$defs/Variant"
+      },
+      "title": "Variants",
+      "type": "array"
+    },
+    "extraction_method": {
+      "default": "deterministic",
+      "title": "Extraction Method",
+      "type": "string"
+    },
+    "field_provenance": {
+      "additionalProperties": {
+        "type": "string"
+      },
+      "title": "Field Provenance",
+      "type": "object"
+    },
+    "validation_status": {
+      "default": "pending",
+      "title": "Validation Status",
+      "type": "string"
+    },
+    "validation_issues": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Validation Issues",
+      "type": "array"
+    },
+    "scraped_at": {
+      "title": "Scraped At",
+      "type": "string"
+    }
+  },
+  "required": [
+    "product_id",
+    "canonical_url"
+  ],
+  "title": "Safco product family (one product page) with purchasable SKU variants",
+  "type": "object",
+  "$schema": "https://json-schema.org/draft/2020-12/schema"
+}

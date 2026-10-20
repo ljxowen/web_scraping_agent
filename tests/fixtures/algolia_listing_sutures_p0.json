@@ -1,0 +1,2976 @@
+{
+ "request": {
+  "requests": [
+   {
+    "indexName": "safco_prod_default_products",
+    "params": "facetFilters=%5B%5B%22categories.level1%3ADental%20Supplies%20%2F%2F%2F%20Sutures%20%26%20surgical%20products%22%5D%5D&facets=%5B%22categories.level0%22%2C%22categories.level1%22%2C%22categories.level2%22%2C%22item%22%2C%22manufacturer_name%22%2C%22on_offer%22%2C%22price.USD.default%22%2C%22safco_additives%22%2C%22safco_age%22%2C%22safco_delivery_form%22%2C%22safco_gauge%22%2C%22safco_percentage%22%2C%22safco_pre_age%22%2C%22safco_pre_alcohol_status%22%2C%22safco_pre_bristle_firmness%22%2C%22safco_pre_color_profile%22%2C%22safco_pre_cure_type%22%2C%22safco_pre_delivery_format%22%2C%22safco_pre_flavor_profile%22%2C%22safco_pre_fluoride%22%2C%22safco_pre_grit%22%2C%22safco_pre_item%22%2C%22safco_pre_item_type%22%2C%22safco_pre_material%22%2C%22safco_pre_packaging_type%22%2C%22safco_pre_quantity%22%2C%22safco_pre_shade%22%2C%22safco_pre_toothbrush_type%22%2C%22safco_pre_volume%22%2C%22safco_pre_wax_status%22%2C%22safco_volume%22%5D&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&hitsPerPage=12&maxValuesPerFacet=40&numericFilters=%5B%22visibility_catalog%3D1%22%5D&page=0&query=&ruleContexts=%5B%22magento_filters%22%2C%22magento-category-937%22%5D"
+   },
+   {
+    "indexName": "safco_prod_default_products",
+    "params": "analytics=false&clickAnalytics=false&facets=%5B%22categories.level0%22%2C%22categories.level1%22%5D&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&hitsPerPage=0&maxValuesPerFacet=40&numericFilters=%5B%22visibility_catalog%3D1%22%5D&page=0&query=&ruleContexts=%5B%22magento_filters%22%2C%22magento-category-937%22%5D"
+   },
+   {
+    "indexName": "safco_prod_default_products",
+    "params": "analytics=false&clickAnalytics=false&facets=%5B%22categories.level2%22%5D&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&hitsPerPage=0&maxValuesPerFacet=40&numericFilters=%5B%22visibility_catalog%3D1%22%5D&page=0&query=&ruleContexts=%5B%22magento_filters%22%2C%22magento-category-937%22%5D"
+   }
+  ]
+ },
+ "response": {
+  "results": [
+   {
+    "hits": [
+     {
+      "is_featured_product": "No",
+      "stock_availability": "In stock",
+      "price_drop": "No",
+      "parent_ids": [],
+      "name": "Surgifoam",
+      "price": {
+       "USD": {
+        "default": 206.49,
+        "default_formated": "$206.49",
+        "special_from_date": "",
+        "special_to_date": "",
+        "default_max": 242.99,
+        "default_original_formated": "$214.49"
+       }
+      },
+      "category_ids": [
+       "955",
+       "2305"
+      ],
+      "categoryIds": [
+       "4",
+       "937",
+       "955",
+       "1972",
+       "2305"
+      ],
+      "family_title": "Surgifoam",
+      "algoliaLastUpdateAtCET": 1792413034,
+      "on_offer": "Yes",
+      "manufacturer_name": "Ethicon",
+      "visibility_search": 1,
+      "image_url": "https://www.safcodental.com/media/catalog/product/p/f/pfpjk.jpg?width=265&height=265&canvas=265,265&optimize=medium&fit=bounds",
+      "meta_keyword": "GELFOAM,1972,1969",
+      "clearance": "No",
+      "personalization": "No",
+      "family_id": 100912,
+      "is_black_friday": 0,
+      "url": "https://www.safcodental.com/product/surgifoam-reg",
+      "ordered_qty": 1835,
+      "categories": {
+       "level0": [
+        "Dental Supplies",
+        "Shop By Manufacturer"
+       ],
+       "level1": [
+        "Dental Supplies /// Sutures & surgical products",
+        "Shop By Manufacturer /// Ethicon"
+       ],
+       "level2": [
+        "Dental Supplies /// Sutures & surgical products /// Surgical medicaments and packing"
+       ]
+      },
+      "categories_without_path": [
+       "Surgical medicaments and packing",
+       "Ethicon"
+      ],
+      "thumbnail_url": "https://www.safcodental.com/media/catalog/product/p/f/pfpjk.jpg?width=75&height=75&canvas=75,75&optimize=medium&fit=bounds",
+      "is_new": "No",
+      "is_cyber_monday": 0,
+      "matching_skus": [],
+      "type_id": "grouped",
+      "promo_description": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Surgifoam (2cm x 6cm x 0.7cm) - Q4 Offer</div><ul><li>&lt;b&gt;$199.99 Limited Time Sale!&lt;/b&gt;\r\nDiscounted price will reflect in the cart.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+      "family_url": "https://www.safcodental.com/product/surgifoam-reg",
+      "objectID": "100912",
+      "_highlightResult": {
+       "name": {
+        "value": "Surgifoam",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "type_id": {
+        "value": "grouped",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "categories": {
+        "level0": [
+         {
+          "value": "Dental Supplies",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level1": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer /// Ethicon",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level2": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products /// Surgical medicaments and packing",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ]
+       },
+       "categories_without_path": [
+        {
+         "value": "Surgical medicaments and packing",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "Ethicon",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "sku": [
+        {
+         "value": "PFPJK",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "2580512",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "258-0512",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "2580524",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "258-0524",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "meta_keyword": {
+        "value": "GELFOAM,1972,1969",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "promo_description": {
+        "value": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Surgifoam (2cm x 6cm x 0.7cm) - Q4 Offer</div><ul><li>&lt;b&gt;$199.99 Limited Time Sale!&lt;/b&gt;\r\nDiscounted price will reflect in the cart.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "clearance": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "stock_availability": {
+        "value": "In stock",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "manufacturer_name": {
+        "value": "Ethicon",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "personalization": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "family_title": {
+        "value": "Surgifoam",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      },
+      "visibility_catalog": 1,
+      "sku": [
+       "PFPJK",
+       "2580512",
+       "258-0512",
+       "2580524",
+       "258-0524"
+      ]
+     },
+     {
+      "is_featured_product": "No",
+      "visibility_catalog": 1,
+      "family_url": "https://www.safcodental.com/product/ossif-i-sem-trade",
+      "image_url": "https://www.safcodental.com/media/catalog/product/p/f/pfwrd.jpg?width=265&height=265&canvas=265,265&optimize=medium&fit=bounds",
+      "stock_availability": "In stock",
+      "family_title": "OSSIF-i sem",
+      "is_cyber_monday": 0,
+      "algoliaLastUpdateAtCET": 1792413531,
+      "visibility_search": 1,
+      "ordered_qty": 817,
+      "categoryIds": [
+       "4",
+       "937",
+       "940",
+       "1972",
+       "2842"
+      ],
+      "thumbnail_url": "https://www.safcodental.com/media/catalog/product/p/f/pfwrd.jpg?width=75&height=75&canvas=75,75&optimize=medium&fit=bounds",
+      "sku": [
+       "PFWRD",
+       "6130001",
+       "613-0001",
+       "6130003",
+       "613-0003",
+       "6130005",
+       "613-0005",
+       "6130007",
+       "613-0007",
+       "6130009",
+       "613-0009",
+       "6130011",
+       "613-0011",
+       "6130012",
+       "613-0012",
+       "6130013",
+       "613-0013",
+       "6130015",
+       "613-0015",
+       "6130017",
+       "613-0017",
+       "6130019",
+       "613-0019",
+       "6130021",
+       "613-0021",
+       "6130023",
+       "613-0023",
+       "6130025",
+       "613-0025",
+       "6130027",
+       "613-0027",
+       "6130029",
+       "613-0029",
+       "6130031",
+       "613-0031",
+       "6130033",
+       "613-0033"
+      ],
+      "is_new": "No",
+      "categories": {
+       "level0": [
+        "Dental Supplies",
+        "Shop By Manufacturer"
+       ],
+       "level1": [
+        "Dental Supplies /// Sutures & surgical products",
+        "Shop By Manufacturer /// Surgical Esthetics"
+       ],
+       "level2": [
+        "Dental Supplies /// Sutures & surgical products /// Bone grafting tissue augmentation"
+       ]
+      },
+      "on_offer": "Yes",
+      "manufacturer_name": "Surgical Esthetics",
+      "parent_ids": [],
+      "price": {
+       "USD": {
+        "default": 41.49,
+        "default_formated": "$41.49",
+        "special_from_date": "",
+        "special_to_date": "",
+        "default_max": 279.49
+       }
+      },
+      "is_black_friday": 0,
+      "objectID": "100954",
+      "categories_without_path": [
+       "Bone grafting tissue augmentation",
+       "Surgical Esthetics"
+      ],
+      "category_ids": [
+       "940",
+       "2842"
+      ],
+      "clearance": "No",
+      "matching_skus": [],
+      "name": "OSSIF-i sem",
+      "type_id": "grouped",
+      "meta_keyword": "BONE,BONEGRAFT,GRAFT,BG-010050,BG-010100,BG-010200,BG-011050,BG-011100,BG-011200,BONEGRAFT,BG-012025,BG-012050,BG-012100,BG-012200,BG-013050,BG-013100,BG-013200,BG-014050,BG-014100,BG-014200,BG-024010,BG-024020",
+      "promo_description": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Surgical Esthetics Bone Grafting Products - Q4</div><ul><li>&lt;b&gt;Buy 5, Get 1 FREE!&lt;/b&gt;\r\n&lt;b&gt;Buy 12, Get 3 FREE!&lt;/b&gt;\r\n&lt;/b&gt;Buy 30, Get 10 FREE!&lt;/b&gt;\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+      "family_id": 100954,
+      "_highlightResult": {
+       "name": {
+        "value": "OSSIF-i sem",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "type_id": {
+        "value": "grouped",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "categories": {
+        "level0": [
+         {
+          "value": "Dental Supplies",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level1": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer /// Surgical Esthetics",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level2": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products /// Bone grafting tissue augmentation",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ]
+       },
+       "categories_without_path": [
+        {
+         "value": "Bone grafting tissue augmentation",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "Surgical Esthetics",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "sku": [
+        {
+         "value": "PFWRD",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130001",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0001",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130003",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0003",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130005",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0005",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130007",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0007",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130009",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0009",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130011",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0011",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130012",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0012",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130013",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0013",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130015",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0015",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130017",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0017",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130019",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0019",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130021",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0021",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130023",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0023",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130025",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0025",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130027",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0027",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130029",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0029",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130031",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0031",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130033",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0033",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "meta_keyword": {
+        "value": "BONE,BONEGRAFT,GRAFT,BG-010050,BG-010100,BG-010200,BG-011050,BG-011100,BG-011200,BONEGRAFT,BG-012025,BG-012050,BG-012100,BG-012200,BG-013050,BG-013100,BG-013200,BG-014050,BG-014100,BG-014200,BG-024010,BG-024020",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "promo_description": {
+        "value": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Surgical Esthetics Bone Grafting Products - Q4</div><ul><li>&lt;b&gt;Buy 5, Get 1 FREE!&lt;/b&gt;\r\n&lt;b&gt;Buy 12, Get 3 FREE!&lt;/b&gt;\r\n&lt;/b&gt;Buy 30, Get 10 FREE!&lt;/b&gt;\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "clearance": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "stock_availability": {
+        "value": "In stock",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "manufacturer_name": {
+        "value": "Surgical Esthetics",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "family_title": {
+        "value": "OSSIF-i sem",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      },
+      "url": "https://www.safcodental.com/product/ossif-i-sem-trade"
+     },
+     {
+      "price": {
+       "USD": {
+        "default": 8.99,
+        "default_formated": "$8.99",
+        "special_from_date": "",
+        "special_to_date": "",
+        "default_max": 298.49,
+        "default_original_formated": "$9.99"
+       }
+      },
+      "price_drop": "No",
+      "url": "https://www.safcodental.com/product/orasoothe-reg-sockit-gel",
+      "meta_keyword": "Dry Socket,01S0630,Dry Socket,HELIPLUG,IT,SOCK,01S0600,01S0610",
+      "parent_ids": [],
+      "family_id": 100906,
+      "family_url": "https://www.safcodental.com/product/orasoothe-reg-sockit-gel",
+      "is_new": "No",
+      "is_cyber_monday": 0,
+      "matching_skus": [],
+      "ordered_qty": 732,
+      "family_title": "OraSoothe Sockit!",
+      "visibility_catalog": 1,
+      "promo_description": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>OraSoothe Sockit Gel 25 pack - Q4</div><ul><li>&lt;b&gt;Buy 1, Get 1 FREE!&lt;/b&gt;\r\nFree goods will ship from Safco.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+      "algoliaLastUpdateAtCET": 1792412976,
+      "categories": {
+       "level0": [
+        "Dental Supplies",
+        "Shop By Manufacturer"
+       ],
+       "level1": [
+        "Dental Supplies /// Sutures & surgical products",
+        "Shop By Manufacturer /// Septodont"
+       ],
+       "level2": [
+        "Dental Supplies /// Sutures & surgical products /// Surgical medicaments and packing"
+       ]
+      },
+      "thumbnail_url": "https://www.safcodental.com/media/catalog/product/p/f/pfpgh.jpg?width=75&height=75&canvas=75,75&optimize=medium&fit=bounds",
+      "image_url": "https://www.safcodental.com/media/catalog/product/p/f/pfpgh.jpg?width=265&height=265&canvas=265,265&optimize=medium&fit=bounds",
+      "on_offer": "Yes",
+      "clearance": "No",
+      "objectID": "100906",
+      "type_id": "grouped",
+      "categories_without_path": [
+       "Surgical medicaments and packing",
+       "Septodont"
+      ],
+      "manufacturer_name": "Septodont",
+      "personalization": "No",
+      "visibility_search": 1,
+      "categoryIds": [
+       "4",
+       "937",
+       "955",
+       "1972",
+       "2782"
+      ],
+      "name": "OraSoothe Sockit!",
+      "is_featured_product": "No",
+      "category_ids": [
+       "955",
+       "2782"
+      ],
+      "stock_availability": "In stock",
+      "is_black_friday": 0,
+      "_highlightResult": {
+       "name": {
+        "value": "OraSoothe Sockit!",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "type_id": {
+        "value": "grouped",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "categories": {
+        "level0": [
+         {
+          "value": "Dental Supplies",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level1": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer /// Septodont",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level2": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products /// Surgical medicaments and packing",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ]
+       },
+       "categories_without_path": [
+        {
+         "value": "Surgical medicaments and packing",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "Septodont",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "sku": [
+        {
+         "value": "PFPGH",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "5106359",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "510-6359",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "5690102",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "569-0102",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "5690106",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "569-0106",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "meta_keyword": {
+        "value": "Dry Socket,01S0630,Dry Socket,HELIPLUG,IT,SOCK,01S0600,01S0610",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "promo_description": {
+        "value": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>OraSoothe Sockit Gel 25 pack - Q4</div><ul><li>&lt;b&gt;Buy 1, Get 1 FREE!&lt;/b&gt;\r\nFree goods will ship from Safco.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "clearance": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "stock_availability": {
+        "value": "In stock",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "manufacturer_name": {
+        "value": "Septodont",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "personalization": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "family_title": {
+        "value": "OraSoothe Sockit!",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      },
+      "sku": [
+       "PFPGH",
+       "5106359",
+       "510-6359",
+       "5690102",
+       "569-0102",
+       "5690106",
+       "569-0106"
+      ]
+     },
+     {
+      "type_id": "grouped",
+      "ordered_qty": 303,
+      "promo_description": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Surgical Esthetics Bone Grafting Products - Q4</div><ul><li>&lt;b&gt;Buy 5, Get 1 FREE!&lt;/b&gt;\r\n&lt;b&gt;Buy 12, Get 3 FREE!&lt;/b&gt;\r\n&lt;/b&gt;Buy 30, Get 10 FREE!&lt;/b&gt;\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+      "objectID": "100957",
+      "thumbnail_url": "https://www.safcodental.com/media/catalog/product/p/f/pfwre.jpg?width=75&height=75&canvas=75,75&optimize=medium&fit=bounds",
+      "_highlightResult": {
+       "name": {
+        "value": "Ossify Min/Demin Cortical Cancellous Bone Graft",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "type_id": {
+        "value": "grouped",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "categories": {
+        "level0": [
+         {
+          "value": "Dental Supplies",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level1": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer /// Surgical Esthetics",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level2": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products /// Bone grafting tissue augmentation",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ]
+       },
+       "categories_without_path": [
+        {
+         "value": "Bone grafting tissue augmentation",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "Surgical Esthetics",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "sku": [
+        {
+         "value": "PFWRE",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "5130082",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "513-0082",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "5130084",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "513-0084",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130080",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0080",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "meta_keyword": {
+        "value": "BG-017100,BG-017200,BG-017050",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "promo_description": {
+        "value": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Surgical Esthetics Bone Grafting Products - Q4</div><ul><li>&lt;b&gt;Buy 5, Get 1 FREE!&lt;/b&gt;\r\n&lt;b&gt;Buy 12, Get 3 FREE!&lt;/b&gt;\r\n&lt;/b&gt;Buy 30, Get 10 FREE!&lt;/b&gt;\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "clearance": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "stock_availability": {
+        "value": "In stock",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "manufacturer_name": {
+        "value": "Surgical Esthetics",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "family_title": {
+        "value": "Ossify Min/Demin Cortical Cancellous Bone Graft",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "matching_skus": [
+        {
+         "value": "5130082",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "5130084",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130080",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ]
+      },
+      "on_offer": "Yes",
+      "meta_keyword": "BG-017100,BG-017200,BG-017050",
+      "manufacturer_name": "Surgical Esthetics",
+      "name": "Ossify Min/Demin Cortical Cancellous Bone Graft",
+      "price": {
+       "USD": {
+        "default": 79.99,
+        "default_formated": "$79.99",
+        "special_from_date": "",
+        "special_to_date": "",
+        "default_max": 158.99
+       }
+      },
+      "category_ids": [
+       "940",
+       "2842"
+      ],
+      "parent_ids": [],
+      "is_new": "No",
+      "sku": [
+       "PFWRE",
+       "5130082",
+       "513-0082",
+       "5130084",
+       "513-0084",
+       "6130080",
+       "613-0080"
+      ],
+      "family_id": 100957,
+      "family_url": "https://www.safcodental.com/product/ossify-sup-reg-sup-min-demin-cortical-cancellous-bone-graft",
+      "matching_skus": [
+       "5130082",
+       "5130084",
+       "6130080"
+      ],
+      "url": "https://www.safcodental.com/product/ossify-sup-reg-sup-min-demin-cortical-cancellous-bone-graft",
+      "is_black_friday": 0,
+      "algoliaLastUpdateAtCET": 1792413531,
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "categories_without_path": [
+       "Bone grafting tissue augmentation",
+       "Surgical Esthetics"
+      ],
+      "image_url": "https://www.safcodental.com/media/catalog/product/p/f/pfwre.jpg?width=265&height=265&canvas=265,265&optimize=medium&fit=bounds",
+      "is_featured_product": "No",
+      "clearance": "No",
+      "stock_availability": "In stock",
+      "is_cyber_monday": 0,
+      "categories": {
+       "level0": [
+        "Dental Supplies",
+        "Shop By Manufacturer"
+       ],
+       "level1": [
+        "Dental Supplies /// Sutures & surgical products",
+        "Shop By Manufacturer /// Surgical Esthetics"
+       ],
+       "level2": [
+        "Dental Supplies /// Sutures & surgical products /// Bone grafting tissue augmentation"
+       ]
+      },
+      "categoryIds": [
+       "4",
+       "937",
+       "940",
+       "1972",
+       "2842"
+      ],
+      "family_title": "Ossify Min/Demin Cortical Cancellous Bone Graft"
+     },
+     {
+      "name": "Foundation",
+      "price": {
+       "USD": {
+        "default": 409.49,
+        "default_formated": "$409.49",
+        "special_from_date": "",
+        "special_to_date": "",
+        "default_original_formated": "$420.49"
+       }
+      },
+      "manufacturer_name": "J. Morita",
+      "family_url": "https://www.safcodental.com/product/foundation-trade",
+      "visibility_search": 1,
+      "ordered_qty": 298,
+      "clearance": "No",
+      "is_featured_product": "No",
+      "visibility_catalog": 1,
+      "family_id": 100936,
+      "family_title": "Foundation",
+      "algoliaLastUpdateAtCET": 1792413404,
+      "categories_without_path": [
+       "Bone grafting tissue augmentation",
+       "J. Morita"
+      ],
+      "sku": [
+       "PFWEG",
+       "3430614",
+       "343-0614",
+       "3430626",
+       "343-0626",
+       "3430635",
+       "343-0635"
+      ],
+      "on_offer": "Yes",
+      "stock_availability": "In stock",
+      "matching_skus": [],
+      "categories": {
+       "level0": [
+        "Dental Supplies",
+        "Shop By Manufacturer"
+       ],
+       "level1": [
+        "Dental Supplies /// Sutures & surgical products",
+        "Shop By Manufacturer /// J. Morita"
+       ],
+       "level2": [
+        "Dental Supplies /// Sutures & surgical products /// Bone grafting tissue augmentation"
+       ]
+      },
+      "categoryIds": [
+       "4",
+       "937",
+       "940",
+       "1972",
+       "2431"
+      ],
+      "thumbnail_url": "https://www.safcodental.com/media/catalog/product/p/f/pfweg.jpg?width=75&height=75&canvas=75,75&optimize=medium&fit=bounds",
+      "parent_ids": [],
+      "url": "https://www.safcodental.com/product/foundation-trade",
+      "type_id": "grouped",
+      "image_url": "https://www.safcodental.com/media/catalog/product/p/f/pfweg.jpg?width=265&height=265&canvas=265,265&optimize=medium&fit=bounds",
+      "category_ids": [
+       "940",
+       "2431"
+      ],
+      "promo_description": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Foundation\u2122 - Q4</div><ul><li>&lt;b&gt;Buy 4 non-assortable boxes, Get 1 of the same OR Get 5 microsurgical blades FREE!\r\nBuy 7 non-assortable boxes, Get 2 boxes of the same FREE!&lt;/b&gt;\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+      "is_black_friday": 0,
+      "is_cyber_monday": 0,
+      "meta_keyword": "BONE,COLLAGEN,GRAFT,MEMBRANE,27-500100,27-500200,27-500150",
+      "is_new": "No",
+      "objectID": "100936",
+      "_highlightResult": {
+       "name": {
+        "value": "Foundation",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "type_id": {
+        "value": "grouped",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "categories": {
+        "level0": [
+         {
+          "value": "Dental Supplies",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level1": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer /// J. Morita",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level2": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products /// Bone grafting tissue augmentation",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ]
+       },
+       "categories_without_path": [
+        {
+         "value": "Bone grafting tissue augmentation",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "J. Morita",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "sku": [
+        {
+         "value": "PFWEG",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "3430614",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "343-0614",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "3430626",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "343-0626",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "3430635",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "343-0635",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "meta_keyword": {
+        "value": "BONE,COLLAGEN,GRAFT,MEMBRANE,27-500100,27-500200,27-500150",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "promo_description": {
+        "value": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Foundation\u2122 - Q4</div><ul><li>&lt;b&gt;Buy 4 non-assortable boxes, Get 1 of the same OR Get 5 microsurgical blades FREE!\r\nBuy 7 non-assortable boxes, Get 2 boxes of the same FREE!&lt;/b&gt;\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "clearance": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "stock_availability": {
+        "value": "In stock",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "manufacturer_name": {
+        "value": "J. Morita",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "family_title": {
+        "value": "Foundation",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      }
+     },
+     {
+      "type_id": "grouped",
+      "visibility_search": 1,
+      "meta_keyword": "CS15X20,CS20X30,CS30X40",
+      "family_url": "https://www.safcodental.com/product/collashield-trade-collagen-membrane",
+      "clearance": "No",
+      "family_title": "CollaShield Collagen Membrane",
+      "is_cyber_monday": 0,
+      "algoliaLastUpdateAtCET": 1792413531,
+      "name": "CollaShield Collagen Membrane",
+      "is_featured_product": "No",
+      "parent_ids": [],
+      "objectID": "100933",
+      "on_offer": "Yes",
+      "matching_skus": [
+       "6130050",
+       "6130053",
+       "6130056"
+      ],
+      "_highlightResult": {
+       "name": {
+        "value": "CollaShield Collagen Membrane",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "type_id": {
+        "value": "grouped",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "categories": {
+        "level0": [
+         {
+          "value": "Dental Supplies",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level1": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer /// Surgical Esthetics",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level2": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products /// Bone grafting tissue augmentation",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ]
+       },
+       "categories_without_path": [
+        {
+         "value": "Bone grafting tissue augmentation",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "Surgical Esthetics",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "sku": [
+        {
+         "value": "PFWCC",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130050",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0050",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130053",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0053",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130056",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0056",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "meta_keyword": {
+        "value": "CS15X20,CS20X30,CS30X40",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "promo_description": {
+        "value": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>CollaShield Collagen Membrane - Q4</div><ul><li>&lt;b&gt;Buy 5, Get 1 FREE!&lt;/b&gt;\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "clearance": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "stock_availability": {
+        "value": "In stock",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "manufacturer_name": {
+        "value": "Surgical Esthetics",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "family_title": {
+        "value": "CollaShield Collagen Membrane",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "matching_skus": [
+        {
+         "value": "6130050",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130053",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130056",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ]
+      },
+      "ordered_qty": 661,
+      "categories_without_path": [
+       "Bone grafting tissue augmentation",
+       "Surgical Esthetics"
+      ],
+      "image_url": "https://www.safcodental.com/media/catalog/product/p/f/pfwcc.jpg?width=265&height=265&canvas=265,265&optimize=medium&fit=bounds",
+      "stock_availability": "In stock",
+      "thumbnail_url": "https://www.safcodental.com/media/catalog/product/p/f/pfwcc.jpg?width=75&height=75&canvas=75,75&optimize=medium&fit=bounds",
+      "sku": [
+       "PFWCC",
+       "6130050",
+       "613-0050",
+       "6130053",
+       "613-0053",
+       "6130056",
+       "613-0056"
+      ],
+      "price": {
+       "USD": {
+        "default": 128.99,
+        "default_formated": "$128.99",
+        "special_from_date": "",
+        "special_to_date": "",
+        "default_max": 211.49
+       }
+      },
+      "promo_description": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>CollaShield Collagen Membrane - Q4</div><ul><li>&lt;b&gt;Buy 5, Get 1 FREE!&lt;/b&gt;\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+      "is_new": "No",
+      "is_black_friday": 0,
+      "visibility_catalog": 1,
+      "categories": {
+       "level0": [
+        "Dental Supplies",
+        "Shop By Manufacturer"
+       ],
+       "level1": [
+        "Dental Supplies /// Sutures & surgical products",
+        "Shop By Manufacturer /// Surgical Esthetics"
+       ],
+       "level2": [
+        "Dental Supplies /// Sutures & surgical products /// Bone grafting tissue augmentation"
+       ]
+      },
+      "categoryIds": [
+       "4",
+       "937",
+       "940",
+       "1972",
+       "2842"
+      ],
+      "category_ids": [
+       "940",
+       "2842"
+      ],
+      "manufacturer_name": "Surgical Esthetics",
+      "family_id": 100933,
+      "url": "https://www.safcodental.com/product/collashield-trade-collagen-membrane"
+     },
+     {
+      "family_title": "Regenafill Bone Graft Plug",
+      "image_url": "https://www.safcodental.com/media/catalog/product/p/f/pfwrl.jpg?width=265&height=265&canvas=265,265&optimize=medium&fit=bounds",
+      "meta_keyword": "RFP10X20,RFP6X25",
+      "matching_skus": [
+       "6130070",
+       "6130072"
+      ],
+      "sku": [
+       "PFWRL",
+       "6130070",
+       "613-0070",
+       "6130072",
+       "613-0072"
+      ],
+      "url": "https://www.safcodental.com/product/regenafill-sup-trade-sup-bone-graft-plug",
+      "manufacturer_name": "Surgical Esthetics",
+      "objectID": "100966",
+      "price": {
+       "USD": {
+        "default": 259.99,
+        "default_formated": "$259.99",
+        "special_from_date": "",
+        "special_to_date": ""
+       }
+      },
+      "stock_availability": "In stock",
+      "is_new": "No",
+      "_highlightResult": {
+       "name": {
+        "value": "Regenafill Bone Graft Plug",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "type_id": {
+        "value": "grouped",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "categories": {
+        "level0": [
+         {
+          "value": "Dental Supplies",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level1": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer /// Surgical Esthetics",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level2": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products /// Bone grafting tissue augmentation",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ]
+       },
+       "categories_without_path": [
+        {
+         "value": "Bone grafting tissue augmentation",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "Surgical Esthetics",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "sku": [
+        {
+         "value": "PFWRL",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130070",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0070",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130072",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0072",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "meta_keyword": {
+        "value": "RFP10X20,RFP6X25",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "promo_description": {
+        "value": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Regenafill\u2122 Bone Graft Plug - Q4</div><ul><li>&lt;b&gt;Buy 4, Get 1 FREE!&lt;/b&gt;\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "clearance": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "stock_availability": {
+        "value": "In stock",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "manufacturer_name": {
+        "value": "Surgical Esthetics",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "family_title": {
+        "value": "Regenafill Bone Graft Plug",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "matching_skus": [
+        {
+         "value": "6130070",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130072",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ]
+      },
+      "is_black_friday": 0,
+      "is_cyber_monday": 0,
+      "name": "Regenafill Bone Graft Plug",
+      "type_id": "grouped",
+      "categories_without_path": [
+       "Bone grafting tissue augmentation",
+       "Surgical Esthetics"
+      ],
+      "promo_description": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Regenafill\u2122 Bone Graft Plug - Q4</div><ul><li>&lt;b&gt;Buy 4, Get 1 FREE!&lt;/b&gt;\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+      "clearance": "No",
+      "parent_ids": [],
+      "visibility_catalog": 1,
+      "family_url": "https://www.safcodental.com/product/regenafill-sup-trade-sup-bone-graft-plug",
+      "family_id": 100966,
+      "algoliaLastUpdateAtCET": 1792413531,
+      "visibility_search": 1,
+      "ordered_qty": 207,
+      "categoryIds": [
+       "4",
+       "937",
+       "940",
+       "1972",
+       "2842"
+      ],
+      "on_offer": "Yes",
+      "category_ids": [
+       "940",
+       "2842"
+      ],
+      "categories": {
+       "level0": [
+        "Dental Supplies",
+        "Shop By Manufacturer"
+       ],
+       "level1": [
+        "Dental Supplies /// Sutures & surgical products",
+        "Shop By Manufacturer /// Surgical Esthetics"
+       ],
+       "level2": [
+        "Dental Supplies /// Sutures & surgical products /// Bone grafting tissue augmentation"
+       ]
+      },
+      "thumbnail_url": "https://www.safcodental.com/media/catalog/product/p/f/pfwrl.jpg?width=75&height=75&canvas=75,75&optimize=medium&fit=bounds",
+      "is_featured_product": "No"
+     },
+     {
+      "objectID": "100903",
+      "family_title": "HemoStat",
+      "type_id": "grouped",
+      "ordered_qty": 427,
+      "image_url": "https://www.safcodental.com/media/catalog/product/m/e/medicom-hemostat-20-box.jpg?width=265&height=265&canvas=265,265&optimize=medium&fit=bounds",
+      "on_offer": "Yes",
+      "category_ids": [
+       "955",
+       "2530"
+      ],
+      "personalization": "No",
+      "is_black_friday": 0,
+      "name": "HemoStat",
+      "categories_without_path": [
+       "Surgical medicaments and packing",
+       "Medicom"
+      ],
+      "categoryIds": [
+       "4",
+       "937",
+       "955",
+       "1972",
+       "2530"
+      ],
+      "thumbnail_url": "https://www.safcodental.com/media/catalog/product/m/e/medicom-hemostat-20-box.jpg?width=75&height=75&canvas=75,75&optimize=medium&fit=bounds",
+      "sku": [
+       "PFPFT",
+       "3152001",
+       "315-2001"
+      ],
+      "promo_description": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>HemoStat - Q4</div><ul><li>&lt;b&gt;Buy 3, Get 1 FREE!&lt;/b&gt;\r\nFree goods will ship from Safco.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+      "stock_availability": "In stock",
+      "family_url": "https://www.safcodental.com/product/hemostat-sup-trade-sup",
+      "clearance": "No",
+      "price_drop": "No",
+      "_highlightResult": {
+       "name": {
+        "value": "HemoStat",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "type_id": {
+        "value": "grouped",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "categories": {
+        "level0": [
+         {
+          "value": "Dental Supplies",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level1": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer /// Medicom",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level2": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products /// Surgical medicaments and packing",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ]
+       },
+       "categories_without_path": [
+        {
+         "value": "Surgical medicaments and packing",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "Medicom",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "sku": [
+        {
+         "value": "PFPFT",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "3152001",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "315-2001",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "meta_keyword": {
+        "value": "4900-STAT",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "promo_description": {
+        "value": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>HemoStat - Q4</div><ul><li>&lt;b&gt;Buy 3, Get 1 FREE!&lt;/b&gt;\r\nFree goods will ship from Safco.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "clearance": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "stock_availability": {
+        "value": "In stock",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "manufacturer_name": {
+        "value": "Medicom",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "personalization": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "family_title": {
+        "value": "HemoStat",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      },
+      "manufacturer_name": "Medicom",
+      "algoliaLastUpdateAtCET": 1792412920,
+      "url": "https://www.safcodental.com/product/hemostat-sup-trade-sup",
+      "family_id": 100903,
+      "categories": {
+       "level0": [
+        "Dental Supplies",
+        "Shop By Manufacturer"
+       ],
+       "level1": [
+        "Dental Supplies /// Sutures & surgical products",
+        "Shop By Manufacturer /// Medicom"
+       ],
+       "level2": [
+        "Dental Supplies /// Sutures & surgical products /// Surgical medicaments and packing"
+       ]
+      },
+      "is_featured_product": "No",
+      "meta_keyword": "4900-STAT",
+      "is_cyber_monday": 0,
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "parent_ids": [],
+      "matching_skus": [],
+      "price": {
+       "USD": {
+        "default": 125.99,
+        "default_formated": "$125.99",
+        "special_from_date": "",
+        "special_to_date": ""
+       }
+      },
+      "is_new": "No"
+     },
+     {
+      "on_offer": "Yes",
+      "is_new": "No",
+      "categories": {
+       "level0": [
+        "Dental Supplies",
+        "Shop By Manufacturer"
+       ],
+       "level1": [
+        "Dental Supplies /// Sutures & surgical products",
+        "Shop By Manufacturer /// Ethicon"
+       ],
+       "level2": [
+        "Dental Supplies /// Sutures & surgical products /// Surgical medicaments and packing"
+       ]
+      },
+      "categoryIds": [
+       "4",
+       "937",
+       "955",
+       "1972",
+       "2305"
+      ],
+      "image_url": "https://www.safcodental.com/media/catalog/product/p/f/pfphj.jpg?width=265&height=265&canvas=265,265&optimize=medium&fit=bounds",
+      "is_featured_product": "No",
+      "meta_keyword": "1955S",
+      "clearance": "No",
+      "personalization": "No",
+      "visibility_catalog": 1,
+      "ordered_qty": 35,
+      "price": {
+       "USD": {
+        "default": 1099.95,
+        "default_formated": "$1,099.95",
+        "special_from_date": "",
+        "special_to_date": "",
+        "default_original_formated": "$1,118.99"
+       }
+      },
+      "matching_skus": [],
+      "name": "SURGICEL Original Absorbable Hemostat",
+      "categories_without_path": [
+       "Surgical medicaments and packing",
+       "Ethicon"
+      ],
+      "objectID": "100909",
+      "url": "https://www.safcodental.com/product/surgicel-reg",
+      "family_title": "SURGICEL Original Absorbable Hemostat",
+      "category_ids": [
+       "955",
+       "2305"
+      ],
+      "stock_availability": "In stock",
+      "parent_ids": [],
+      "is_black_friday": 0,
+      "is_cyber_monday": 0,
+      "family_id": 100909,
+      "family_url": "https://www.safcodental.com/product/surgicel-reg",
+      "visibility_search": 1,
+      "promo_description": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>SURGICEL Original Absorbable Hemostat - Q4 Offer</div><ul><li>&lt;b&gt;$698.99 Limited Time Sale!&lt;/b&gt;\r\nDiscounted price will reflect in the cart.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+      "manufacturer_name": "Ethicon",
+      "type_id": "grouped",
+      "thumbnail_url": "https://www.safcodental.com/media/catalog/product/p/f/pfphj.jpg?width=75&height=75&canvas=75,75&optimize=medium&fit=bounds",
+      "sku": [
+       "PFPHJ",
+       "2580213",
+       "258-0213"
+      ],
+      "price_drop": "No",
+      "algoliaLastUpdateAtCET": 1792413034,
+      "_highlightResult": {
+       "name": {
+        "value": "SURGICEL Original Absorbable Hemostat",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "type_id": {
+        "value": "grouped",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "categories": {
+        "level0": [
+         {
+          "value": "Dental Supplies",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level1": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer /// Ethicon",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level2": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products /// Surgical medicaments and packing",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ]
+       },
+       "categories_without_path": [
+        {
+         "value": "Surgical medicaments and packing",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "Ethicon",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "sku": [
+        {
+         "value": "PFPHJ",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "2580213",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "258-0213",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "meta_keyword": {
+        "value": "1955S",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "promo_description": {
+        "value": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>SURGICEL Original Absorbable Hemostat - Q4 Offer</div><ul><li>&lt;b&gt;$698.99 Limited Time Sale!&lt;/b&gt;\r\nDiscounted price will reflect in the cart.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "clearance": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "stock_availability": {
+        "value": "In stock",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "manufacturer_name": {
+        "value": "Ethicon",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "personalization": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "family_title": {
+        "value": "SURGICEL Original Absorbable Hemostat",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      }
+     },
+     {
+      "on_offer": "Yes",
+      "meta_keyword": "27-07971007,27-07970007,27-07972007,27-07973007",
+      "is_cyber_monday": 0,
+      "matching_skus": [],
+      "url": "https://www.safcodental.com/product/feather-sup-reg-nbsp-sup-microsurgical-blades",
+      "visibility_search": 1,
+      "categories_without_path": [
+       "Surgical blades and scalpels",
+       "J. Morita"
+      ],
+      "parent_ids": [],
+      "is_new": "No",
+      "type_id": "grouped",
+      "image_url": "https://www.safcodental.com/media/catalog/product/p/f/pflvv.jpg?width=265&height=265&canvas=265,265&optimize=medium&fit=bounds",
+      "category_ids": [
+       "952",
+       "2431"
+      ],
+      "stock_availability": "In stock",
+      "family_title": "Feather Microsurgical Blades",
+      "objectID": "100867",
+      "categories": {
+       "level0": [
+        "Dental Supplies",
+        "Shop By Manufacturer"
+       ],
+       "level1": [
+        "Dental Supplies /// Sutures & surgical products",
+        "Shop By Manufacturer /// J. Morita"
+       ],
+       "level2": [
+        "Dental Supplies /// Sutures & surgical products /// Surgical blades and scalpels"
+       ]
+      },
+      "family_url": "https://www.safcodental.com/product/feather-sup-reg-nbsp-sup-microsurgical-blades",
+      "name": "Feather Microsurgical Blades",
+      "sku": [
+       "PFLVV",
+       "3435243",
+       "343-5243",
+       "3435263",
+       "343-5263",
+       "3435264",
+       "343-5264",
+       "3435265",
+       "343-5265"
+      ],
+      "clearance": "No",
+      "family_id": 100867,
+      "is_black_friday": 0,
+      "thumbnail_url": "https://www.safcodental.com/media/catalog/product/p/f/pflvv.jpg?width=75&height=75&canvas=75,75&optimize=medium&fit=bounds",
+      "price": {
+       "USD": {
+        "default": 89.99,
+        "default_formated": "$89.99",
+        "special_from_date": "",
+        "special_to_date": ""
+       }
+      },
+      "is_featured_product": "No",
+      "promo_description": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Feather\u00ae Microsurgical Blades - Q4</div><ul><li>&lt;b&gt;Buy 4 Packs of Microsurgical Blades, Get 1 Pack FREE!&lt;/b&gt;\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+      "algoliaLastUpdateAtCET": 1792413404,
+      "_highlightResult": {
+       "name": {
+        "value": "Feather Microsurgical Blades",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "type_id": {
+        "value": "grouped",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "categories": {
+        "level0": [
+         {
+          "value": "Dental Supplies",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level1": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer /// J. Morita",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level2": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products /// Surgical blades and scalpels",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ]
+       },
+       "categories_without_path": [
+        {
+         "value": "Surgical blades and scalpels",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "J. Morita",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "sku": [
+        {
+         "value": "PFLVV",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "3435243",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "343-5243",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "3435263",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "343-5263",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "3435264",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "343-5264",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "3435265",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "343-5265",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "meta_keyword": {
+        "value": "27-07971007,27-07970007,27-07972007,27-07973007",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "promo_description": {
+        "value": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Feather\u00ae Microsurgical Blades - Q4</div><ul><li>&lt;b&gt;Buy 4 Packs of Microsurgical Blades, Get 1 Pack FREE!&lt;/b&gt;\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "clearance": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "stock_availability": {
+        "value": "In stock",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "manufacturer_name": {
+        "value": "J. Morita",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "family_title": {
+        "value": "Feather Microsurgical Blades",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      },
+      "visibility_catalog": 1,
+      "ordered_qty": 75,
+      "categoryIds": [
+       "4",
+       "937",
+       "952",
+       "1972",
+       "2431"
+      ],
+      "manufacturer_name": "J. Morita"
+     },
+     {
+      "promo_description": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Kerr Rotary Products - Q4</div><ul><li>&lt;b&gt;Buy 20, Get 10 FREE!&lt;/b&gt;\r\nLimit 3 redemptions per office.\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+      "parent_ids": [],
+      "is_new": "No",
+      "is_cyber_monday": 0,
+      "is_featured_product": "No",
+      "category_ids": [
+       "952",
+       "2461"
+      ],
+      "clearance": "No",
+      "family_title": "Soft Tissue Trimmer",
+      "_highlightResult": {
+       "name": {
+        "value": "Soft Tissue Trimmer",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "type_id": {
+        "value": "grouped",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "categories": {
+        "level0": [
+         {
+          "value": "Dental Supplies",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level1": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer /// Kerr Rotary",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level2": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products /// Surgical blades and scalpels",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ]
+       },
+       "categories_without_path": [
+        {
+         "value": "Surgical blades and scalpels",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "Kerr Rotary",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "sku": [
+        {
+         "value": "PFLWH",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "4605716",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "460-5716",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "4605738",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "460-5738",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "meta_keyword": {
+        "value": "STT-016,STTL-016",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "promo_description": {
+        "value": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Kerr Rotary Products - Q4</div><ul><li>&lt;b&gt;Buy 20, Get 10 FREE!&lt;/b&gt;\r\nLimit 3 redemptions per office.\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "clearance": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "stock_availability": {
+        "value": "In stock",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "manufacturer_name": {
+        "value": "Kerr Rotary",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "family_title": {
+        "value": "Soft Tissue Trimmer",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "matching_skus": [
+        {
+         "value": "4605716",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "4605738",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ]
+      },
+      "name": "Soft Tissue Trimmer",
+      "type_id": "grouped",
+      "visibility_catalog": 1,
+      "stock_availability": "In stock",
+      "is_black_friday": 0,
+      "on_offer": "Yes",
+      "matching_skus": [
+       "4605716",
+       "4605738"
+      ],
+      "visibility_search": 1,
+      "categoryIds": [
+       "4",
+       "937",
+       "952",
+       "1972",
+       "2461"
+      ],
+      "manufacturer_name": "Kerr Rotary",
+      "algoliaLastUpdateAtCET": 1792413531,
+      "objectID": "100873",
+      "url": "https://www.safcodental.com/product/soft-tissue-trimmer",
+      "ordered_qty": 49,
+      "meta_keyword": "STT-016,STTL-016",
+      "family_url": "https://www.safcodental.com/product/soft-tissue-trimmer",
+      "thumbnail_url": "https://www.safcodental.com/media/catalog/product/p/f/pflwh.jpg?width=75&height=75&canvas=75,75&optimize=medium&fit=bounds",
+      "sku": [
+       "PFLWH",
+       "4605716",
+       "460-5716",
+       "4605738",
+       "460-5738"
+      ],
+      "price": {
+       "USD": {
+        "default": 139.99,
+        "default_formated": "$139.99",
+        "special_from_date": "",
+        "special_to_date": "",
+        "default_original_formated": "$144.99"
+       }
+      },
+      "family_id": 100873,
+      "categories": {
+       "level0": [
+        "Dental Supplies",
+        "Shop By Manufacturer"
+       ],
+       "level1": [
+        "Dental Supplies /// Sutures & surgical products",
+        "Shop By Manufacturer /// Kerr Rotary"
+       ],
+       "level2": [
+        "Dental Supplies /// Sutures & surgical products /// Surgical blades and scalpels"
+       ]
+      },
+      "categories_without_path": [
+       "Surgical blades and scalpels",
+       "Kerr Rotary"
+      ],
+      "image_url": "https://www.safcodental.com/media/catalog/product/p/f/pflwh.jpg?width=265&height=265&canvas=265,265&optimize=medium&fit=bounds"
+     },
+     {
+      "thumbnail_url": "https://www.safcodental.com/media/catalog/product/p/f/pfwrg.jpg?width=75&height=75&canvas=75,75&optimize=medium&fit=bounds",
+      "on_offer": "Yes",
+      "clearance": "No",
+      "matching_skus": [
+       "6130102",
+       "6130104"
+      ],
+      "visibility_search": 1,
+      "sku": [
+       "PFWRG",
+       "6130102",
+       "613-0102",
+       "6130104",
+       "613-0104"
+      ],
+      "family_id": 100963,
+      "is_new": "No",
+      "url": "https://www.safcodental.com/product/ossify-sup-reg-sup-cortical-bone-sheet",
+      "parent_ids": [],
+      "is_cyber_monday": 0,
+      "type_id": "grouped",
+      "ordered_qty": 18,
+      "image_url": "https://www.safcodental.com/media/catalog/product/p/f/pfwrg.jpg?width=265&height=265&canvas=265,265&optimize=medium&fit=bounds",
+      "is_featured_product": "No",
+      "stock_availability": "In stock",
+      "family_title": "Ossify Cortical Bone Sheet",
+      "is_black_friday": 0,
+      "name": "Ossify Cortical Bone Sheet",
+      "categoryIds": [
+       "4",
+       "937",
+       "940",
+       "1972",
+       "2842"
+      ],
+      "price": {
+       "USD": {
+        "default": 149.49,
+        "default_formated": "$149.49",
+        "special_from_date": "",
+        "special_to_date": "",
+        "default_max": 260.99
+       }
+      },
+      "category_ids": [
+       "940",
+       "2842"
+      ],
+      "promo_description": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Surgical Esthetics Bone Grafting Products - Q4</div><ul><li>&lt;b&gt;Buy 5, Get 1 FREE!&lt;/b&gt;\r\n&lt;b&gt;Buy 12, Get 3 FREE!&lt;/b&gt;\r\n&lt;/b&gt;Buy 30, Get 10 FREE!&lt;/b&gt;\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+      "objectID": "100963",
+      "visibility_catalog": 1,
+      "categories": {
+       "level0": [
+        "Dental Supplies",
+        "Shop By Manufacturer"
+       ],
+       "level1": [
+        "Dental Supplies /// Sutures & surgical products",
+        "Shop By Manufacturer /// Surgical Esthetics"
+       ],
+       "level2": [
+        "Dental Supplies /// Sutures & surgical products /// Bone grafting tissue augmentation"
+       ]
+      },
+      "meta_keyword": "LBS15X20,LBS20X30",
+      "family_url": "https://www.safcodental.com/product/ossify-sup-reg-sup-cortical-bone-sheet",
+      "_highlightResult": {
+       "name": {
+        "value": "Ossify Cortical Bone Sheet",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "type_id": {
+        "value": "grouped",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "categories": {
+        "level0": [
+         {
+          "value": "Dental Supplies",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level1": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products",
+          "matchLevel": "none",
+          "matchedWords": []
+         },
+         {
+          "value": "Shop By Manufacturer /// Surgical Esthetics",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ],
+        "level2": [
+         {
+          "value": "Dental Supplies /// Sutures & surgical products /// Bone grafting tissue augmentation",
+          "matchLevel": "none",
+          "matchedWords": []
+         }
+        ]
+       },
+       "categories_without_path": [
+        {
+         "value": "Bone grafting tissue augmentation",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "Surgical Esthetics",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "sku": [
+        {
+         "value": "PFWRG",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130102",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0102",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130104",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "613-0104",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ],
+       "meta_keyword": {
+        "value": "LBS15X20,LBS20X30",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "promo_description": {
+        "value": "<div class=\"promo_tootlip_content\"><div class=\"promo_heading_wr\"><span>Promo </span>Surgical Esthetics Bone Grafting Products - Q4</div><ul><li>&lt;b&gt;Buy 5, Get 1 FREE!&lt;/b&gt;\r\n&lt;b&gt;Buy 12, Get 3 FREE!&lt;/b&gt;\r\n&lt;/b&gt;Buy 30, Get 10 FREE!&lt;/b&gt;\r\nFree goods will be shipped directly from manufacturer.\r\nFree goods will be of equal or lesser value to lowest price purchase item.\r\nRedemption coupon will be included with your order.\r\nFree goods are subject to manufacturer terms and conditions.</li><li><span>Offer Ends </span>12/31/2026</li></ul></div>",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "clearance": {
+        "value": "No",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "stock_availability": {
+        "value": "In stock",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "manufacturer_name": {
+        "value": "Surgical Esthetics",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "family_title": {
+        "value": "Ossify Cortical Bone Sheet",
+        "matchLevel": "none",
+        "matchedWords": []
+       },
+       "matching_skus": [
+        {
+         "value": "6130102",
+         "matchLevel": "none",
+         "matchedWords": []
+        },
+        {
+         "value": "6130104",
+         "matchLevel": "none",
+         "matchedWords": []
+        }
+       ]
+      },
+      "manufacturer_name": "Surgical Esthetics",
+      "algoliaLastUpdateAtCET": 1792413531,
+      "categories_without_path": [
+       "Bone grafting tissue augmentation",
+       "Surgical Esthetics"
+      ]
+     }
+    ],
+    "nbHits": 55,
+    "hitsPerPage": 12,
+    "index": "safco_prod_default_products",
+    "page": 0,
+    "nbPages": 5,
+    "processingTimeMS": 9,
+    "processingTimingsMS": {
+     "isLegacyExtensionEnabled": {
+      "total": 0
+     },
+     "drrPromotedObjectIDs": {
+      "total": 0
+     },
+     "runLegacyExtension": {
+      "total": 0
+     },
+     "makeLegacyExtensionAggregateResponse": {
+      "total": 0
+     },
+     "makeLegacyExtensionRequest": {
+      "total": 0
+     },
+     "normalizeText": {
+      "total": 0
+     },
+     "getAIConfig": {
+      "total": 0
+     },
+     "engineSearch": {
+      "total": 7,
+      "_request": {
+       "roundTrip": 7
+      },
+      "getIdx": {
+       "load": {
+        "total": 1
+       },
+       "total": 1
+      }
+     },
+     "total": 9
+    },
+    "exhaustiveNbHits": true,
+    "exhaustiveTypo": true,
+    "facets_stats": {
+     "price.USD.default": {
+      "min": 8.49,
+      "max": 1099.95,
+      "avg": 113.505,
+      "sum": 6242.77
+     }
+    },
+    "query": "",
+    "params": "facetFilters=%5B%5B%22categories.level1%3ADental+Supplies+%2F%2F%2F+Sutures+%26+surgical+products%22%5D%5D&facets=%5B%22categories.level0%22%2C%22categories.level1%22%2C%22categories.level2%22%2C%22item%22%2C%22manufacturer_name%22%2C%22on_offer%22%2C%22price.USD.default%22%2C%22safco_additives%22%2C%22safco_age%22%2C%22safco_delivery_form%22%2C%22safco_gauge%22%2C%22safco_percentage%22%2C%22safco_pre_age%22%2C%22safco_pre_alcohol_status%22%2C%22safco_pre_bristle_firmness%22%2C%22safco_pre_color_profile%22%2C%22safco_pre_cure_type%22%2C%22safco_pre_delivery_format%22%2C%22safco_pre_flavor_profile%22%2C%22safco_pre_fluoride%22%2C%22safco_pre_grit%22%2C%22safco_pre_item%22%2C%22safco_pre_item_type%22%2C%22safco_pre_material%22%2C%22safco_pre_packaging_type%22%2C%22safco_pre_quantity%22%2C%22safco_pre_shade%22%2C%22safco_pre_toothbrush_type%22%2C%22safco_pre_volume%22%2C%22safco_pre_wax_status%22%2C%22safco_volume%22%5D&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&hitsPerPage=12&maxValuesPerFacet=40&numericFilters=%5B%22visibility_catalog%3D1%22%5D&page=0&query&ruleContexts=%5B%22magento_filters%22%2C%22magento-category-937%22%5D&tagFilters",
+    "facets": {
+     "on_offer": {
+      "Yes": 13,
+      "No": 5
+     },
+     "categories.level0": {
+      "Dental Supplies": 55,
+      "Shop By Manufacturer": 54
+     },
+     "categories.level1": {
+      "Dental Supplies /// Sutures & surgical products": 55,
+      "Shop By Manufacturer /// Integra Miltex": 8,
+      "Shop By Manufacturer /// Surgical Esthetics": 7,
+      "Shop By Manufacturer /// B Braun": 4,
+      "Shop By Manufacturer /// Myco Medical": 4,
+      "Shop By Manufacturer /// Bard-Parker": 3,
+      "Shop By Manufacturer /// Ethicon": 3,
+      "Shop By Manufacturer /// Hu-Friedy": 3,
+      "Shop By Manufacturer /// Septodont": 3,
+      "Shop By Manufacturer /// GC America": 2,
+      "Shop By Manufacturer /// J. Morita": 2,
+      "Shop By Manufacturer /// Orca Products": 2,
+      "Shop By Manufacturer /// Queens Surgical": 2,
+      "Shop By Manufacturer /// Baxter Healthcare": 1,
+      "Shop By Manufacturer /// Coldstar": 1,
+      "Shop By Manufacturer /// Collagen Matrix Inc": 1,
+      "Shop By Manufacturer /// Coreva Health Sciences": 1,
+      "Shop By Manufacturer /// DentalProX": 1,
+      "Shop By Manufacturer /// Dentsply Sirona": 1,
+      "Shop By Manufacturer /// GluStitch": 1,
+      "Shop By Manufacturer /// Halyard": 1,
+      "Shop By Manufacturer /// Kerr Rotary": 1,
+      "Shop By Manufacturer /// Medicom": 1,
+      "Shop By Manufacturer /// Safco": 1
+     },
+     "categories.level2": {
+      "Dental Supplies /// Sutures & surgical products /// Surgical blades and scalpels": 15,
+      "Dental Supplies /// Sutures & surgical products /// Bone grafting tissue augmentation": 14,
+      "Dental Supplies /// Sutures & surgical products /// Surgical medicaments and packing": 10,
+      "Dental Supplies /// Sutures & surgical products /// IV fluids and administration sets": 5,
+      "Dental Supplies /// Sutures & surgical products /// Sutures": 5,
+      "Dental Supplies /// Sutures & surgical products /// Periodontal dressings": 3,
+      "Dental Supplies /// Sutures & surgical products /// Cold packs": 2,
+      "Dental Supplies /// Sutures & surgical products /// Suture needles": 1
+     },
+     "manufacturer_name": {
+      "Integra Miltex": 8,
+      "Surgical Esthetics": 7,
+      "B Braun": 4,
+      "Myco Medical": 4,
+      "Bard-Parker": 3,
+      "Ethicon": 3,
+      "Hu-Friedy": 3,
+      "Septodont": 3,
+      "GC America": 2,
+      "J. Morita": 2,
+      "Orca Products": 2,
+      "Queens Surgical": 2,
+      "Baxter Healthcare": 1,
+      "Coldstar": 1,
+      "Collagen Matrix Inc": 1,
+      "Coreva Health Sciences": 1,
+      "DentalProX": 1,
+      "Dentsply Sirona": 1,
+      "GluStitch": 1,
+      "Halyard": 1,
+      "Kerr Rotary": 1,
+      "Medicom": 1,
+      "Safco": 1,
+      "Surgical Specialties": 1
+     },
+     "price.USD.default": {
+      "8.49": 2,
+      "8.99": 2,
+      "102.59": 1,
+      "102.99": 1,
+      "104.49": 1,
+      "106.99": 1,
+      "108.29": 1,
+      "1099.95": 1,
+      "120.99": 1,
+      "121.49": 1,
+      "122.95": 1,
+      "125.49": 1,
+      "125.99": 1,
+      "128.99": 1,
+      "139.99": 1,
+      "145.49": 1,
+      "146.99": 1,
+      "147.99": 1,
+      "149.49": 1,
+      "15.99": 1,
+      "17.99": 1,
+      "171.99": 1,
+      "173.99": 1,
+      "174.29": 1,
+      "18.99": 1,
+      "20.99": 1,
+      "206.49": 1,
+      "22.99": 1,
+      "228.99": 1,
+      "231.99": 1,
+      "24.99": 1,
+      "259.99": 1,
+      "28.99": 1,
+      "29.49": 1,
+      "31.59": 1,
+      "35.49": 1,
+      "37.99": 1,
+      "38.49": 1,
+      "409.49": 1,
+      "41.49": 1
+     }
+    },
+    "renderingContent": {},
+    "exhaustive": {
+     "facetsCount": true,
+     "nbHits": true,
+     "typo": true
+    },
+    "exhaustiveFacetsCount": true
+   },
+   {
+    "hits": [],
+    "nbHits": 3895,
+    "hitsPerPage": 0,
+    "index": "safco_prod_default_products",
+    "page": 0,
+    "nbPages": 0,
+    "processingTimeMS": 4,
+    "processingTimingsMS": {
+     "total": 4,
+     "normalizeText": {
+      "total": 0
+     },
+     "getAIConfig": {
+      "total": 0
+     },
+     "drrPromotedObjectIDs": {
+      "total": 0
+     },
+     "runLegacyExtension": {
+      "total": 0
+     },
+     "makeLegacyExtensionAggregateResponse": {
+      "total": 0
+     },
+     "engineSearch": {
+      "total": 3,
+      "_request": {
+       "roundTrip": 3
+      }
+     },
+     "makeLegacyExtensionRequest": {
+      "total": 0
+     },
+     "isLegacyExtensionEnabled": {
+      "total": 0
+     }
+    },
+    "exhaustiveNbHits": true,
+    "exhaustiveTypo": true,
+    "query": "",
+    "params": "analytics=false&clickAnalytics=false&facets=%5B%22categories.level0%22%2C%22categories.level1%22%5D&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&hitsPerPage=0&maxValuesPerFacet=40&numericFilters=%5B%22visibility_catalog%3D1%22%5D&page=0&query&ruleContexts=%5B%22magento_filters%22%2C%22magento-category-937%22%5D&tagFilters",
+    "facets": {
+     "categories.level0": {
+      "Shop By Manufacturer": 3775,
+      "Dental Supplies": 2722,
+      "Endodontics": 386,
+      "Equipment": 342,
+      "Patient giveaway/gifts": 144,
+      "TSP": 123,
+      "Laboratory": 102,
+      "Orthodontics": 74,
+      "Custom and Personalized Products": 41,
+      "Clearance": 1,
+      "Promotions": 1
+     },
+     "categories.level1": {
+      "Dental Supplies /// Restorative and Cosmetic Dentistry Supplies": 638,
+      "Dental Supplies /// Preventives": 409,
+      "Dental Supplies /// Infection Control": 392,
+      "Dental Supplies /// Impression Materials": 231,
+      "Shop By Manufacturer /// Safco": 222,
+      "Dental Supplies /// Dental Instruments": 185,
+      "Equipment /// Small Equipment": 174,
+      "Shop By Manufacturer /// Hu-Friedy": 146,
+      "Patient giveaway/gifts /// Patient giveaways": 144,
+      "Equipment /// Handpieces": 135,
+      "Shop By Manufacturer /// 3M Health Care (now Solventum)": 132,
+      "Shop By Manufacturer /// Dentsply Sirona": 110,
+      "Shop By Manufacturer /// GC America": 106,
+      "Shop By Manufacturer /// Coltene": 104,
+      "Shop By Manufacturer /// Premier": 99,
+      "Dental Supplies /// Dental Exam Gloves": 93,
+      "Dental Supplies /// X-ray & Imaging": 92,
+      "Dental Supplies /// Burs and Diamonds": 91,
+      "Dental Supplies /// Finishing and Polishing": 91,
+      "Dental Supplies /// Dental Disposables": 89,
+      "Shop By Manufacturer /// Sherman Specialty": 86,
+      "Dental Supplies /// Evacuation Products": 76,
+      "Shop By Manufacturer /// Quantum": 72,
+      "Shop By Manufacturer /// Sunstar": 64,
+      "Shop By Manufacturer /// Vista Apex": 63,
+      "Shop By Manufacturer /// Crosstex": 62,
+      "Shop By Manufacturer /// Kulzer": 62,
+      "Shop By Manufacturer /// Procter & Gamble": 61,
+      "Shop By Manufacturer /// Ivoclar": 57,
+      "Dental Supplies /// Anesthetics": 55,
+      "Dental Supplies /// Crown and Bridge": 55,
+      "Dental Supplies /// Sutures & surgical products": 55,
+      "Shop By Manufacturer /// Kerr Endodontics": 55,
+      "Shop By Manufacturer /// Kerr Restoratives": 55,
+      "Dental Supplies /// Miscellaneous Supplies": 53,
+      "Endodontics /// Endo Files": 53,
+      "Endodontics /// Rubber Dams & Clamps": 51,
+      "Shop By Manufacturer /// Integra Miltex": 51,
+      "TSP /// Quantum toothbrushes": 51,
+      "Endodontics /// Sealers and cements": 50
+     }
+    },
+    "renderingContent": {},
+    "exhaustive": {
+     "facetsCount": true,
+     "nbHits": true,
+     "typo": true
+    },
+    "exhaustiveFacetsCount": true
+   },
+   {
+    "hits": [],
+    "nbHits": 3895,
+    "hitsPerPage": 0,
+    "index": "safco_prod_default_products",
+    "page": 0,
+    "nbPages": 0,
+    "processingTimeMS": 5,
+    "processingTimingsMS": {
+     "makeLegacyExtensionRequest": {
+      "total": 0
+     },
+     "isLegacyExtensionEnabled": {
+      "total": 0
+     },
+     "drrPromotedObjectIDs": {
+      "total": 0
+     },
+     "runLegacyExtension": {
+      "total": 0
+     },
+     "makeLegacyExtensionAggregateResponse": {
+      "total": 0
+     },
+     "total": 5,
+     "normalizeText": {
+      "total": 0
+     },
+     "getAIConfig": {
+      "total": 0
+     },
+     "engineSearch": {
+      "total": 4,
+      "_request": {
+       "roundTrip": 1
+      }
+     }
+    },
+    "exhaustiveNbHits": true,
+    "exhaustiveTypo": true,
+    "query": "",
+    "params": "analytics=false&clickAnalytics=false&facets=%5B%22categories.level2%22%5D&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&hitsPerPage=0&maxValuesPerFacet=40&numericFilters=%5B%22visibility_catalog%3D1%22%5D&page=0&query&ruleContexts=%5B%22magento_filters%22%2C%22magento-category-937%22%5D&tagFilters",
+    "facets": {
+     "categories.level2": {
+      "Dental Supplies /// Restorative and Cosmetic Dentistry Supplies /// Cements and liners": 137,
+      "Dental Supplies /// Preventives /// Toothbrushes": 109,
+      "Dental Supplies /// Preventives /// Prophylaxis Supplies": 106,
+      "Equipment /// Small Equipment /// Power Scaling & Air Polishing": 79,
+      "Dental Supplies /// Impression Materials /// Vinyl polysiloxane (VPS)": 72,
+      "Dental Supplies /// Restorative and Cosmetic Dentistry Supplies /// Composite filling materials - universal": 71,
+      "Dental Supplies /// Infection Control /// Masks": 69,
+      "Dental Supplies /// Restorative and Cosmetic Dentistry Supplies /// Bonding agents": 69,
+      "Dental Supplies /// Preventives /// Dental Floss & Interdental Cleaners": 63,
+      "Dental Supplies /// Dental Exam Gloves /// Nitrile gloves": 62,
+      "Dental Supplies /// Restorative and Cosmetic Dentistry Supplies /// Matrix materials": 56,
+      "Dental Supplies /// Restorative and Cosmetic Dentistry Supplies /// Composite filling materials - flowable": 53,
+      "Dental Supplies /// Restorative and Cosmetic Dentistry Supplies /// Rubber dam": 50,
+      "Dental Supplies /// Miscellaneous Supplies /// Miscellaneous Dental": 48,
+      "Dental Supplies /// Preventives /// Fluoride & Desensitizers": 40,
+      "Dental Supplies /// Infection Control /// Ultrasonic solutions": 38,
+      "Dental Supplies /// Crown and Bridge /// Temporary crown and bridge": 37,
+      "Endodontics /// Endo Files /// Hand files and reamers": 36,
+      "Dental Supplies /// Finishing and Polishing /// Abrasives and polishers": 34,
+      "Dental Supplies /// Preventives /// Dental Hygiene Bundles & Kits": 30,
+      "Patient giveaway/gifts /// Patient giveaways /// Plastic bags": 30,
+      "Dental Supplies /// Hemostatics & Retraction /// Retraction": 28,
+      "Dental Supplies /// Restorative and Cosmetic Dentistry Supplies /// Core materials": 28,
+      "Dental Supplies /// Impression Materials /// Bite registration": 27,
+      "Endodontics /// Rubber Dams & Clamps /// Dental Dam": 26,
+      "Laboratory /// 3D Printing /// 3D Printer": 26,
+      "Dental Supplies /// Evacuation Products /// HVE tips and accessories": 25,
+      "Dental Supplies /// Finishing and Polishing /// Composite polishing": 25,
+      "Dental Supplies /// Infection Control /// Waterline purification and testing": 25,
+      "Dental Supplies /// Preventives /// Toothpaste": 23,
+      "Dental Supplies /// Restorative and Cosmetic Dentistry Supplies /// Articulating": 22,
+      "Dental Supplies /// Restorative and Cosmetic Dentistry Supplies /// Glass ionomer filling materials": 22,
+      "Dental Supplies /// Restorative and Cosmetic Dentistry Supplies /// Take-home tooth whitening": 22,
+      "Dental Supplies /// Infection Control /// Disinfecting wipes (towelettes)": 21,
+      "Equipment /// Handpieces /// Handpiece lubricants": 21,
+      "Equipment /// Small Equipment /// Curing lights": 21,
+      "Dental Supplies /// Burs and Diamonds /// Diamond instruments - multi-use": 20,
+      "Dental Supplies /// Evacuation Products /// Evacuation system cleaners": 20,
+      "Dental Supplies /// Finishing and Polishing /// Strips": 20,
+      "Patient giveaway/gifts /// Patient giveaways /// Stickers and tattoos": 20
+     }
+    },
+    "renderingContent": {},
+    "exhaustive": {
+     "facetsCount": true,
+     "nbHits": true,
+     "typo": true
+    },
+    "exhaustiveFacetsCount": true
+   }
+  ]
+ }
+}

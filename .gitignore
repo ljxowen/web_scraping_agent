@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/
+logs/
+.cache/
+.pytest_cache/
+*.db
+*.db-journal
+spike_out/

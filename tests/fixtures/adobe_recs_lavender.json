@@ -1,0 +1,1250 @@
+{
+ "totalResults": 2,
+ "results": [
+  {
+   "unitId": "10a61e9d-d9c6-465a-9b75-ecca76a5b7cf",
+   "unitName": "Trending Products",
+   "label": "",
+   "unitType": "primary",
+   "searchTime": 8,
+   "totalProducts": 8,
+   "primaryProducts": 8,
+   "backupProducts": 0,
+   "products": [
+    {
+     "rank": 1,
+     "score": 0.9790969,
+     "sku": "DRCAB",
+     "name": "Purple Nitrile",
+     "productId": 95806,
+     "shortDescription": "",
+     "type": "grouped",
+     "visibility": "Catalog, Search",
+     "categories": [
+      "catalog",
+      "catalog/gloves",
+      "catalog/gloves/nitrile-gloves",
+      "shop-by-manufacturer",
+      "shop-by-manufacturer/halyard"
+     ],
+     "weight": 0.0,
+     "weightType": "",
+     "currency": "USD",
+     "image": {
+      "label": "Purple Nitrile*",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcab.jpg"
+     },
+     "smallImage": {
+      "label": "Purple Nitrile*",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcab.jpg"
+     },
+     "thumbnailImage": {
+      "label": "Purple Nitrile*",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcab.jpg"
+     },
+     "swatchImage": {
+      "label": "",
+      "url": ""
+     },
+     "url": "//www.safcodental.com/product/purple-nitrile",
+     "prices": {
+      "maximum": {
+       "regular": 123.96,
+       "final": 123.96
+      },
+      "minimum": {
+       "regular": 30.99,
+       "final": 30.99
+      }
+     },
+     "queryType": "primary",
+     "addToCartAllowed": true,
+     "attributes": {
+      "manufacturer_part_number": [
+       "53430",
+       "53431",
+       "53432",
+       "53433"
+      ],
+      "is_value_buy_item": [
+       "false"
+      ],
+      "clearance": [
+       "false"
+      ],
+      "manufacturer_name": [
+       "Halyard"
+      ],
+      "web_vendor_number": [
+       "591"
+      ]
+     }
+    },
+    {
+     "rank": 2,
+     "score": 0.9768927,
+     "sku": "DRCAN",
+     "name": "Alasta",
+     "productId": 95824,
+     "shortDescription": "",
+     "type": "grouped",
+     "visibility": "Catalog, Search",
+     "categories": [
+      "catalog",
+      "catalog/gloves",
+      "catalog/gloves/nitrile-gloves",
+      "shop-by-manufacturer",
+      "shop-by-manufacturer/dash"
+     ],
+     "weight": 0.0,
+     "weightType": "",
+     "currency": "USD",
+     "image": {
+      "label": "Alasta<sup>&reg;</sup>",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcan.jpg"
+     },
+     "smallImage": {
+      "label": "Alasta<sup>&reg;</sup>",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcan.jpg"
+     },
+     "thumbnailImage": {
+      "label": "Alasta<sup>&reg;</sup>",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcan.jpg"
+     },
+     "swatchImage": {
+      "label": "",
+      "url": ""
+     },
+     "url": "//www.safcodental.com/product/alasta-sup-reg-sup",
+     "prices": {
+      "maximum": {
+       "regular": 197.4,
+       "final": 197.4
+      },
+      "minimum": {
+       "regular": 13.49,
+       "final": 13.49
+      }
+     },
+     "queryType": "primary",
+     "addToCartAllowed": true,
+     "attributes": {
+      "on_offer": [
+       "true"
+      ],
+      "promo_description": [
+       "{\"14870\":{\"rule_id\":\"14870\",\"rule_name\":\"Alasta - Box of 200 - Q4\",\"rule_description\":\"<b>Buy 7, Get 3 FREE!<\\/b>\\r\\nFree goods will ship from Safco.\",\"rule_from\":\"2026-10-01\",\"rule_to\":\"11\\/1\\/2026\",\"is_tier_price_rule\":\"0\",\"description_sorting\":\"0\",\"is_black_friday\":0,\"is_cyber_monday\":0}}"
+      ],
+      "is_value_buy_item": [
+       "false"
+      ],
+      "price_drop": [
+       "false"
+      ],
+      "price_drop_description": [
+       "{\"0\":{\"heading\":\"Alasta&#xae; Gloves - New Everyday Low Price\",\"description\":\"Save up to $3.00 per unit! <br>Discounted price is already applied.\"}}"
+      ],
+      "contain_mfg_promo": [
+       "false"
+      ],
+      "manufacturer_name": [
+       "Dash"
+      ],
+      "grouped_promo": [
+       "0"
+      ],
+      "web_vendor_number": [
+       "336"
+      ],
+      "itemgroup_section": [
+       "100/box",
+       "200/box"
+      ],
+      "manufacturer_part_number": [
+       "ALS100L",
+       "ALS100M",
+       "ALS100S",
+       "ALS100XL",
+       "ALS100XS",
+       "ALS200L",
+       "ALS200M",
+       "ALS200S",
+       "ALS200XL",
+       "ALS200XS"
+      ],
+      "tooltip_details": [
+       "0"
+      ],
+      "clearance": [
+       "false"
+      ]
+     }
+    },
+    {
+     "rank": 3,
+     "score": 0.9749608,
+     "sku": "DRCDH",
+     "name": "GloveUp",
+     "productId": 96007,
+     "shortDescription": "",
+     "type": "grouped",
+     "visibility": "Catalog, Search",
+     "categories": [
+      "catalog",
+      "catalog/gloves",
+      "catalog/gloves/nitrile-gloves",
+      "shop-by-manufacturer",
+      "shop-by-manufacturer/dash"
+     ],
+     "weight": 0.0,
+     "weightType": "",
+     "currency": "USD",
+     "image": {
+      "label": "GloveUp<sup>&reg;</sup>",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcdh.jpg"
+     },
+     "smallImage": {
+      "label": "GloveUp<sup>&reg;</sup>",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcdh.jpg"
+     },
+     "thumbnailImage": {
+      "label": "GloveUp<sup>&reg;</sup>",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcdh.jpg"
+     },
+     "swatchImage": {
+      "label": "",
+      "url": ""
+     },
+     "url": "//www.safcodental.com/product/gloveup-sup-reg-sup",
+     "prices": {
+      "maximum": {
+       "regular": 192.45,
+       "final": 192.45
+      },
+      "minimum": {
+       "regular": 38.49,
+       "final": 38.49
+      }
+     },
+     "queryType": "primary",
+     "addToCartAllowed": true,
+     "attributes": {
+      "gtin": [
+       "0"
+      ],
+      "sds": [
+       "0"
+      ],
+      "on_offer": [
+       "true"
+      ],
+      "group_id": [
+       "0"
+      ],
+      "manufacturer_part_number": [
+       "0",
+       "GUP300L",
+       "GUP300M",
+       "GUP300S",
+       "GUP300XL",
+       "GUP300XS"
+      ],
+      "promo_description": [
+       "{\"14888\":{\"rule_id\":\"14888\",\"rule_name\":\"Glove Up - Q4\",\"rule_description\":\"<b>Buy 6, Get 4 FREE!<\\/b>\\r\\nFree goods will ship from Safco.\",\"rule_from\":\"2026-10-01\",\"rule_to\":\"12\\/31\\/2026\",\"is_tier_price_rule\":\"0\",\"description_sorting\":\"0\",\"is_black_friday\":0,\"is_cyber_monday\":0}}"
+      ],
+      "is_value_buy_item": [
+       "false"
+      ],
+      "tooltip_details": [
+       "0"
+      ],
+      "clearance": [
+       "false"
+      ],
+      "manufacturer_name": [
+       "Dash"
+      ],
+      "vendor_number": [
+       "0"
+      ],
+      "grouped_promo": [
+       "<div data-content-type=\"html\" data-appearance=\"default\" data-element=\"main\">0</div>"
+      ]
+     }
+    },
+    {
+     "rank": 4,
+     "score": 0.9736681,
+     "sku": "DRCAL",
+     "name": "Safco Nitrilex",
+     "productId": 95821,
+     "shortDescription": "",
+     "type": "grouped",
+     "visibility": "Catalog, Search",
+     "categories": [
+      "catalog",
+      "catalog/gloves",
+      "catalog/gloves/nitrile-gloves",
+      "shop-by-manufacturer",
+      "shop-by-manufacturer/safco"
+     ],
+     "weight": 0.0,
+     "weightType": "",
+     "currency": "USD",
+     "image": {
+      "label": "Safco Nitrilex&reg; nitrile gloves",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcal.jpg"
+     },
+     "smallImage": {
+      "label": "Safco Nitrilex&reg; nitrile gloves",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcal.jpg"
+     },
+     "thumbnailImage": {
+      "label": "Safco Nitrilex&reg; nitrile gloves",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcal.jpg"
+     },
+     "swatchImage": {
+      "label": "",
+      "url": ""
+     },
+     "url": "//www.safcodental.com/product/safco-nitrilex-reg-nitrile-gloves",
+     "prices": {
+      "maximum": {
+       "regular": 32.45,
+       "final": 32.45
+      },
+      "minimum": {
+       "regular": 6.49,
+       "final": 6.49
+      }
+     },
+     "queryType": "primary",
+     "addToCartAllowed": true,
+     "attributes": {
+      "gtin": [
+       "0"
+      ],
+      "sds": [
+       "0"
+      ],
+      "on_offer": [
+       "false"
+      ],
+      "private_label_boost": [
+       "10"
+      ],
+      "is_value_buy_item": [
+       "false"
+      ],
+      "manufacturer_name": [
+       "Safco"
+      ],
+      "vendor_number": [
+       "0"
+      ],
+      "grouped_promo": [
+       "0"
+      ],
+      "web_vendor_number": [
+       "675"
+      ],
+      "group_id": [
+       "0"
+      ],
+      "manufacturer_part_number": [
+       "0",
+       "1028031",
+       "1028044",
+       "1028057",
+       "1028069",
+       "1028070"
+      ],
+      "tooltip_details": [
+       "0"
+      ],
+      "clearance": [
+       "false"
+      ]
+     }
+    },
+    {
+     "rank": 5,
+     "score": 0.9726364,
+     "sku": "DRCBO",
+     "name": "BeeSure SuperSlim Nitrile",
+     "productId": 95887,
+     "shortDescription": "",
+     "type": "grouped",
+     "visibility": "Catalog, Search",
+     "categories": [
+      "catalog",
+      "catalog/gloves",
+      "catalog/gloves/nitrile-gloves",
+      "shop-by-manufacturer",
+      "shop-by-manufacturer/ecobee"
+     ],
+     "weight": 0.0,
+     "weightType": "",
+     "currency": "USD",
+     "image": {
+      "label": "BeeSure&reg; SuperSlim&trade; Nitrile",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcbo.jpg"
+     },
+     "smallImage": {
+      "label": "BeeSure&reg; SuperSlim&trade; Nitrile",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcbo.jpg"
+     },
+     "thumbnailImage": {
+      "label": "BeeSure&reg; SuperSlim&trade; Nitrile",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcbo.jpg"
+     },
+     "swatchImage": {
+      "label": "",
+      "url": ""
+     },
+     "url": "//www.safcodental.com/product/beesure-reg-superslim-trade-nitrile",
+     "prices": {
+      "maximum": {
+       "regular": 99.96,
+       "final": 99.96
+      },
+      "minimum": {
+       "regular": 24.99,
+       "final": 24.99
+      }
+     },
+     "queryType": "primary",
+     "addToCartAllowed": true,
+     "attributes": {
+      "gtin": [
+       "0"
+      ],
+      "sds": [
+       "0"
+      ],
+      "on_offer": [
+       "true"
+      ],
+      "promo_description": [
+       "{\"15854\":{\"rule_id\":\"15854\",\"rule_name\":\"BeeSure SuperSlim Nitrile Gloves - Q4\",\"rule_description\":\"<b>Buy 8, Get 2 FREE!<\\/b>\\r\\nFree goods will ship from Safco.\",\"rule_from\":\"2026-10-01\",\"rule_to\":\"12\\/31\\/2026\",\"is_tier_price_rule\":\"0\",\"description_sorting\":\"0\",\"is_black_friday\":0,\"is_cyber_monday\":0}}"
+      ],
+      "is_value_buy_item": [
+       "false"
+      ],
+      "price_drop": [
+       "false"
+      ],
+      "price_drop_description": [
+       "{\"0\":{\"heading\":\"BeeSure&#xae; SuperSlim&#x2122; Nitrile Gloves - New Everyday Low Price\",\"description\":\"Save $1.00 per unit! <br>Discounted price is already applied.\"}}"
+      ],
+      "contain_mfg_promo": [
+       "false"
+      ],
+      "manufacturer_name": [
+       "EcoBee"
+      ],
+      "vendor_number": [
+       "0"
+      ],
+      "require_customer_proof": [
+       "yes"
+      ],
+      "grouped_promo": [
+       "<div data-content-type=\"html\" data-appearance=\"default\" data-element=\"main\">0</div>"
+      ],
+      "group_id": [
+       "0"
+      ],
+      "manufacturer_part_number": [
+       "0",
+       "BE1145",
+       "BE1146",
+       "BE1147",
+       "BE1148"
+      ],
+      "tooltip_details": [
+       "0"
+      ],
+      "clearance": [
+       "false"
+      ]
+     }
+    },
+    {
+     "rank": 6,
+     "score": 0.9720105,
+     "sku": "DRCAP",
+     "name": "Micro-Touch Nitrile",
+     "productId": 95830,
+     "shortDescription": "",
+     "type": "grouped",
+     "visibility": "Catalog, Search",
+     "categories": [
+      "catalog",
+      "catalog/gloves",
+      "catalog/gloves/nitrile-gloves",
+      "shop-by-manufacturer",
+      "shop-by-manufacturer/ansell"
+     ],
+     "weight": 0.0,
+     "weightType": "",
+     "currency": "USD",
+     "image": {
+      "label": "Micro-Touch&reg; Nitrile",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcap.jpg"
+     },
+     "smallImage": {
+      "label": "Micro-Touch&reg; Nitrile",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcap.jpg"
+     },
+     "thumbnailImage": {
+      "label": "Micro-Touch&reg; Nitrile",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcap.jpg"
+     },
+     "swatchImage": {
+      "label": "",
+      "url": ""
+     },
+     "url": "//www.safcodental.com/product/micro-touch-reg-nitrile",
+     "prices": {
+      "maximum": {
+       "regular": 79.96,
+       "final": 79.96
+      },
+      "minimum": {
+       "regular": 19.99,
+       "final": 19.99
+      }
+     },
+     "queryType": "primary",
+     "addToCartAllowed": true,
+     "attributes": {
+      "manufacturer_part_number": [
+       "6034300",
+       "6034301",
+       "6034302",
+       "6034303"
+      ],
+      "is_value_buy_item": [
+       "false"
+      ],
+      "clearance": [
+       "false"
+      ],
+      "manufacturer_name": [
+       "Ansell"
+      ],
+      "web_vendor_number": [
+       "219"
+      ]
+     }
+    },
+    {
+     "rank": 7,
+     "score": 0.9714012,
+     "sku": "DRCCW",
+     "name": "BeeSure UltraSlim Nitrile",
+     "productId": 95974,
+     "shortDescription": "",
+     "type": "grouped",
+     "visibility": "Catalog, Search",
+     "categories": [
+      "catalog",
+      "catalog/gloves",
+      "catalog/gloves/nitrile-gloves",
+      "shop-by-manufacturer",
+      "shop-by-manufacturer/ecobee"
+     ],
+     "weight": 0.0,
+     "weightType": "",
+     "currency": "USD",
+     "image": {
+      "label": "",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drccw.jpg"
+     },
+     "smallImage": {
+      "label": "",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drccw.jpg"
+     },
+     "thumbnailImage": {
+      "label": "",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drccw.jpg"
+     },
+     "swatchImage": {
+      "label": "",
+      "url": ""
+     },
+     "url": "//www.safcodental.com/product/beesure-ultraslim-nitrile",
+     "prices": {
+      "maximum": {
+       "regular": 127.96,
+       "final": 127.96
+      },
+      "minimum": {
+       "regular": 31.99,
+       "final": 31.99
+      }
+     },
+     "queryType": "primary",
+     "addToCartAllowed": true,
+     "attributes": {
+      "gtin": [
+       "0"
+      ],
+      "sds": [
+       "0"
+      ],
+      "on_offer": [
+       "true"
+      ],
+      "promo_description": [
+       "{\"15839\":{\"rule_id\":\"15839\",\"rule_name\":\"BeeSure UltraSlim Nitrile Gloves - Q4\",\"rule_description\":\"<b>Buy 7, Get 3 FREE!<\\/b>\\r\\nFree goods will ship from Safco.\",\"rule_from\":\"2026-10-01\",\"rule_to\":\"12\\/31\\/2026\",\"is_tier_price_rule\":\"0\",\"description_sorting\":\"0\",\"is_black_friday\":0,\"is_cyber_monday\":0}}"
+      ],
+      "is_value_buy_item": [
+       "false"
+      ],
+      "contain_mfg_promo": [
+       "false"
+      ],
+      "manufacturer_name": [
+       "EcoBee"
+      ],
+      "vendor_number": [
+       "0"
+      ],
+      "grouped_promo": [
+       "<div data-content-type=\"html\" data-appearance=\"default\" data-element=\"main\">0</div>"
+      ],
+      "group_id": [
+       "0"
+      ],
+      "manufacturer_part_number": [
+       "0",
+       "BE1155",
+       "BE1156",
+       "BE1157",
+       "BE1158"
+      ],
+      "tooltip_details": [
+       "0"
+      ],
+      "clearance": [
+       "false"
+      ]
+     }
+    },
+    {
+     "rank": 8,
+     "score": 0.97036815,
+     "sku": "DRCBJ",
+     "name": "Microflex Ultraform",
+     "productId": 95872,
+     "shortDescription": "",
+     "type": "grouped",
+     "visibility": "Catalog, Search",
+     "categories": [
+      "catalog",
+      "catalog/gloves",
+      "catalog/gloves/nitrile-gloves",
+      "shop-by-manufacturer",
+      "shop-by-manufacturer/ansell"
+     ],
+     "weight": 0.0,
+     "weightType": "",
+     "currency": "USD",
+     "image": {
+      "label": "Microflex<sup>&reg;</sup> Ultraform<sup>&trade;</sup>",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcbj.jpg"
+     },
+     "smallImage": {
+      "label": "Microflex<sup>&reg;</sup> Ultraform<sup>&trade;</sup>",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcbj.jpg"
+     },
+     "thumbnailImage": {
+      "label": "Microflex<sup>&reg;</sup> Ultraform<sup>&trade;</sup>",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcbj.jpg"
+     },
+     "swatchImage": {
+      "label": "",
+      "url": ""
+     },
+     "url": "//www.safcodental.com/product/microflex-sup-reg-sup-ultraform-sup-trade-sup",
+     "prices": {
+      "maximum": {
+       "regular": 227.92,
+       "final": 227.92
+      },
+      "minimum": {
+       "regular": 28.49,
+       "final": 28.49
+      }
+     },
+     "queryType": "primary",
+     "addToCartAllowed": true,
+     "attributes": {
+      "gtin": [
+       "0"
+      ],
+      "sds": [
+       "0"
+      ],
+      "on_offer": [
+       "true"
+      ],
+      "promo_description": [
+       "{\"16184\":{\"rule_id\":\"16184\",\"rule_name\":\"Microflex Ultraform - Q4\",\"rule_description\":\"<b>Buy 7, Get 3 FREE!<\\/b>\\r\\nFree goods will ship from Safco.\",\"rule_from\":\"2026-10-01\",\"rule_to\":\"12\\/31\\/2026\",\"is_tier_price_rule\":\"0\",\"description_sorting\":\"0\",\"is_black_friday\":0,\"is_cyber_monday\":0}}"
+      ],
+      "is_value_buy_item": [
+       "false"
+      ],
+      "price_drop": [
+       "false"
+      ],
+      "price_drop_description": [
+       "{\"0\":{\"heading\":\"Microflex&#xae; Ultraform&#x2122; Gloves - New Everyday Low Price\",\"description\":\"Save $2.50 per unit! <br>Discounted price is already applied.\"}}"
+      ],
+      "manufacturer_name": [
+       "Ansell"
+      ],
+      "vendor_number": [
+       "0"
+      ],
+      "grouped_promo": [
+       "0"
+      ],
+      "web_vendor_number": [
+       "219"
+      ],
+      "group_id": [
+       "0"
+      ],
+      "manufacturer_part_number": [
+       "0",
+       "UF-524-L",
+       "UF-524-M",
+       "UF-524-ML",
+       "UF-524-S",
+       "UF-524-SM",
+       "UF-524-XL",
+       "UF-524-XS",
+       "UF-524-XSS"
+      ],
+      "tooltip_details": [
+       "0"
+      ],
+      "clearance": [
+       "false"
+      ]
+     }
+    }
+   ],
+   "pageType": "Product",
+   "typeId": "more-like-this",
+   "storefrontLabel": "Trending Products",
+   "pagePlacement": "below-main-content",
+   "displayNumber": 8,
+   "displayOrder": 3
+  },
+  {
+   "unitId": "cdcc9db7-219e-4e03-8f4c-c8a6bbb62c4d",
+   "unitName": "Safco Brand Recommendation",
+   "label": "",
+   "unitType": "primary",
+   "searchTime": 14,
+   "totalProducts": 5,
+   "primaryProducts": 5,
+   "backupProducts": 0,
+   "products": [
+    {
+     "rank": 1,
+     "score": 0.96998256,
+     "sku": "DRCCJ",
+     "name": "Safco Nitrilex Prevail Gloves",
+     "productId": 95938,
+     "shortDescription": "",
+     "type": "grouped",
+     "visibility": "Catalog, Search",
+     "categories": [
+      "catalog",
+      "catalog/gloves",
+      "catalog/gloves/nitrile-gloves",
+      "shop-by-manufacturer",
+      "shop-by-manufacturer/safco"
+     ],
+     "weight": 0.0,
+     "weightType": "",
+     "currency": "USD",
+     "image": {
+      "label": "Safco Nitrilex Prevail&trade; nitrile gloves",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drccj.jpg"
+     },
+     "smallImage": {
+      "label": "Safco Nitrilex Prevail&trade; nitrile gloves",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drccj.jpg"
+     },
+     "thumbnailImage": {
+      "label": "Safco Nitrilex Prevail&trade; nitrile gloves",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drccj.jpg"
+     },
+     "swatchImage": {
+      "label": "",
+      "url": ""
+     },
+     "url": "//www.safcodental.com/product/safco-nitrilex-prevail-trade-nitrile-gloves",
+     "prices": {
+      "maximum": {
+       "regular": 79.95,
+       "final": 79.95
+      },
+      "minimum": {
+       "regular": 15.99,
+       "final": 15.99
+      }
+     },
+     "queryType": "primary",
+     "addToCartAllowed": true,
+     "attributes": {
+      "gtin": [
+       "0"
+      ],
+      "sds": [
+       "0"
+      ],
+      "on_offer": [
+       "false"
+      ],
+      "private_label_boost": [
+       "10"
+      ],
+      "is_value_buy_item": [
+       "false"
+      ],
+      "price_drop": [
+       "false"
+      ],
+      "contain_mfg_promo": [
+       "false"
+      ],
+      "manufacturer_name": [
+       "Safco"
+      ],
+      "vendor_number": [
+       "0"
+      ],
+      "require_customer_proof": [
+       "yes"
+      ],
+      "grouped_promo": [
+       "<div data-content-type=\"html\" data-appearance=\"default\" data-element=\"main\">0</div>"
+      ],
+      "group_id": [
+       "0"
+      ],
+      "manufacturer_part_number": [
+       "0",
+       "1028085",
+       "1028087",
+       "1028090",
+       "1028093",
+       "1028094"
+      ],
+      "tooltip_details": [
+       "0"
+      ],
+      "clearance": [
+       "false"
+      ]
+     }
+    },
+    {
+     "rank": 2,
+     "score": 0.96944016,
+     "sku": "DRCBN",
+     "name": "Safco Nitrilex UltraSoft Gloves",
+     "productId": 95884,
+     "shortDescription": "",
+     "type": "grouped",
+     "visibility": "Catalog, Search",
+     "categories": [
+      "catalog",
+      "catalog/gloves",
+      "catalog/gloves/nitrile-gloves",
+      "shop-by-manufacturer",
+      "shop-by-manufacturer/safco"
+     ],
+     "weight": 0.0,
+     "weightType": "",
+     "currency": "USD",
+     "image": {
+      "label": "Safco Nitrilex&reg; UltraSoft nitrile gloves",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcbn.jpg"
+     },
+     "smallImage": {
+      "label": "Safco Nitrilex&reg; UltraSoft nitrile gloves",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcbn.jpg"
+     },
+     "thumbnailImage": {
+      "label": "Safco Nitrilex&reg; UltraSoft nitrile gloves",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcbn.jpg"
+     },
+     "swatchImage": {
+      "label": "",
+      "url": ""
+     },
+     "url": "//www.safcodental.com/product/safco-nitrilex-reg-ultrasoft-nitrile-gloves",
+     "prices": {
+      "maximum": {
+       "regular": 66.45,
+       "final": 66.45
+      },
+      "minimum": {
+       "regular": 13.29,
+       "final": 13.29
+      }
+     },
+     "queryType": "primary",
+     "addToCartAllowed": true,
+     "attributes": {
+      "gtin": [
+       "0"
+      ],
+      "sds": [
+       "0"
+      ],
+      "on_offer": [
+       "false"
+      ],
+      "private_label_boost": [
+       "10"
+      ],
+      "is_value_buy_item": [
+       "false"
+      ],
+      "price_drop": [
+       "false"
+      ],
+      "contain_mfg_promo": [
+       "false"
+      ],
+      "manufacturer_name": [
+       "Safco"
+      ],
+      "vendor_number": [
+       "0"
+      ],
+      "require_customer_proof": [
+       "yes"
+      ],
+      "grouped_promo": [
+       "<div data-content-type=\"html\" data-appearance=\"default\" data-element=\"main\">0</div>"
+      ],
+      "group_id": [
+       "0"
+      ],
+      "manufacturer_part_number": [
+       "0",
+       "1028005",
+       "1028009",
+       "1028012",
+       "1028016",
+       "1028018"
+      ],
+      "tooltip_details": [
+       "0"
+      ],
+      "clearance": [
+       "false"
+      ]
+     }
+    },
+    {
+     "rank": 3,
+     "score": 0.96680474,
+     "sku": "DRCCS",
+     "name": "Safco Nitrilex Surpass Gloves",
+     "productId": 95962,
+     "shortDescription": "",
+     "type": "grouped",
+     "visibility": "Catalog, Search",
+     "categories": [
+      "catalog",
+      "catalog/gloves",
+      "catalog/gloves/nitrile-gloves",
+      "shop-by-manufacturer",
+      "shop-by-manufacturer/safco"
+     ],
+     "weight": 0.0,
+     "weightType": "",
+     "currency": "USD",
+     "image": {
+      "label": "Safco Nitrilex Surpass&trade;",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drccs.jpg"
+     },
+     "smallImage": {
+      "label": "Safco Nitrilex Surpass&trade;",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drccs.jpg"
+     },
+     "thumbnailImage": {
+      "label": "Safco Nitrilex Surpass&trade;",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drccs.jpg"
+     },
+     "swatchImage": {
+      "label": "",
+      "url": ""
+     },
+     "url": "//www.safcodental.com/product/safco-nitrilex-surpass-trade",
+     "prices": {
+      "maximum": {
+       "regular": 79.95,
+       "final": 79.95
+      },
+      "minimum": {
+       "regular": 15.99,
+       "final": 15.99
+      }
+     },
+     "queryType": "primary",
+     "addToCartAllowed": true,
+     "attributes": {
+      "gtin": [
+       "0"
+      ],
+      "sds": [
+       "0"
+      ],
+      "on_offer": [
+       "false"
+      ],
+      "private_label_boost": [
+       "10"
+      ],
+      "is_value_buy_item": [
+       "true"
+      ],
+      "price_drop": [
+       "false"
+      ],
+      "contain_mfg_promo": [
+       "false"
+      ],
+      "manufacturer_name": [
+       "Safco"
+      ],
+      "vendor_number": [
+       "0"
+      ],
+      "require_customer_proof": [
+       "yes"
+      ],
+      "grouped_promo": [
+       "<div data-content-type=\"html\" data-appearance=\"default\" data-element=\"main\">0</div>"
+      ],
+      "group_id": [
+       "0"
+      ],
+      "manufacturer_part_number": [
+       "0",
+       "1027990",
+       "1027993",
+       "1027996",
+       "1027999",
+       "1028001"
+      ],
+      "tooltip_details": [
+       "0"
+      ],
+      "clearance": [
+       "false"
+      ]
+     }
+    },
+    {
+     "rank": 4,
+     "score": 0.95404625,
+     "sku": "DRDAP",
+     "name": "Safco EZ Green Chloroprene Gloves",
+     "productId": 96040,
+     "shortDescription": "",
+     "type": "grouped",
+     "visibility": "Catalog, Search",
+     "categories": [
+      "catalog",
+      "catalog/gloves",
+      "catalog/gloves/chloroprene-gloves",
+      "shop-by-manufacturer",
+      "shop-by-manufacturer/safco"
+     ],
+     "weight": 0.0,
+     "weightType": "",
+     "currency": "USD",
+     "image": {
+      "label": "",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drdap.jpg"
+     },
+     "smallImage": {
+      "label": "",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drdap.jpg"
+     },
+     "thumbnailImage": {
+      "label": "",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drdap.jpg"
+     },
+     "swatchImage": {
+      "label": "",
+      "url": ""
+     },
+     "url": "//www.safcodental.com/product/safco-ez-green-chloroprene",
+     "prices": {
+      "maximum": {
+       "regular": 71.96,
+       "final": 71.96
+      },
+      "minimum": {
+       "regular": 17.99,
+       "final": 17.99
+      }
+     },
+     "queryType": "primary",
+     "addToCartAllowed": true,
+     "attributes": {
+      "gtin": [
+       "0"
+      ],
+      "sds": [
+       "0"
+      ],
+      "on_offer": [
+       "false"
+      ],
+      "private_label_boost": [
+       "10"
+      ],
+      "is_value_buy_item": [
+       "false"
+      ],
+      "price_drop": [
+       "false"
+      ],
+      "contain_mfg_promo": [
+       "false"
+      ],
+      "manufacturer_name": [
+       "Safco"
+      ],
+      "vendor_number": [
+       "0"
+      ],
+      "require_customer_proof": [
+       "yes"
+      ],
+      "grouped_promo": [
+       "<div data-content-type=\"html\" data-appearance=\"default\" data-element=\"main\">0</div>"
+      ],
+      "group_id": [
+       "0"
+      ],
+      "manufacturer_part_number": [
+       "0",
+       "1028046",
+       "1028048",
+       "1028050",
+       "1028052",
+       "1028053",
+       "1028054"
+      ],
+      "tooltip_details": [
+       "0"
+      ],
+      "clearance": [
+       "false"
+      ]
+     }
+    },
+    {
+     "rank": 5,
+     "score": 0.95095146,
+     "sku": "DRCDJ",
+     "name": "Safco Nitrilex Soothe",
+     "productId": 96013,
+     "shortDescription": "",
+     "type": "grouped",
+     "visibility": "Catalog, Search",
+     "categories": [
+      "catalog",
+      "catalog/gloves",
+      "catalog/gloves/nitrile-gloves",
+      "shop-by-manufacturer",
+      "shop-by-manufacturer/safco",
+      "temporary-search-pages",
+      "temporary-search-pages/september-glove-promotions"
+     ],
+     "weight": 0.0,
+     "weightType": "",
+     "currency": "USD",
+     "image": {
+      "label": "Safco Nitrilex Soothe",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcdj.jpg"
+     },
+     "smallImage": {
+      "label": "Safco Nitrilex Soothe",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcdj.jpg"
+     },
+     "thumbnailImage": {
+      "label": "Safco Nitrilex Soothe",
+      "url": "//www.safcodental.com/media/catalog/product/d/r/drcdj.jpg"
+     },
+     "swatchImage": {
+      "label": "",
+      "url": ""
+     },
+     "url": "//www.safcodental.com/product/safco-nitrilex-soothe",
+     "prices": {
+      "maximum": {
+       "regular": 79.95,
+       "final": 79.95
+      },
+      "minimum": {
+       "regular": 15.99,
+       "final": 15.99
+      }
+     },
+     "queryType": "primary",
+     "addToCartAllowed": true,
+     "attributes": {
+      "on_offer": [
+       "false"
+      ],
+      "manufacturer_part_number": [
+       "1028073",
+       "1028077",
+       "1028078",
+       "1028086",
+       "1028088"
+      ],
+      "private_label_boost": [
+       "10"
+      ],
+      "is_value_buy_item": [
+       "false"
+      ],
+      "clearance": [
+       "false"
+      ],
+      "manufacturer_name": [
+       "Safco"
+      ],
+      "web_vendor_number": [
+       "675"
+      ]
+     }
+    }
+   ],
+   "pageType": "Product",
+   "typeId": "more-like-this",
+   "storefrontLabel": "Best Value Options",
+   "pagePlacement": "below-main-content",
+   "displayNumber": 5,
+   "displayOrder": 2
+  }
+ ]
+}

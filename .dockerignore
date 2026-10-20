@@ -1,0 +1,8 @@
+.venv
+data
+logs
+output
+spike_out
+.env
+.git
+**/__pycache__

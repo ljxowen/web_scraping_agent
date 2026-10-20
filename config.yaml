@@ -1,0 +1,62 @@
+# Safco agent run configuration. Secrets (API keys) come from .env / environment, never from here.
+site:
+  base_url: "https://www.safcodental.com"
+  user_agent: "SafcoCatalogPOC/0.1 (+take-home prototype; contact: catalog-poc@example.com)"
+  respect_robots: true
+
+seeds:
+  - name: "Sutures & surgical products"
+    url: "https://www.safcodental.com/catalog/sutures-surgical-products"
+  - name: "Dental Exam Gloves"
+    url: "https://www.safcodental.com/catalog/gloves"
+
+crawl:
+  # null = full mode (no limit). The CLI flag --max-products-per-category overrides this.
+  max_products_per_category: null
+  traverse_subcategories: true      # also walk subcategory listings to record category membership
+  product_fetch_mode: "browser"     # browser = render page (gets recommendations); http = raw HTML only
+  concurrency: 3                    # concurrent product workers
+  max_attempts: 3                   # per URL, across fetch + recovery
+
+rate_limit:
+  requests_per_second: 1.0          # shared budget for HTTP fetches and browser navigations/clicks
+  burst: 2
+
+http:
+  timeout_seconds: 30
+  max_retries: 4
+  backoff_base_seconds: 1.5
+  backoff_max_seconds: 30
+
+browser:
+  headless: true
+  navigation_timeout_ms: 45000
+  listing_settle_ms: 2500
+  recommendations_timeout_ms: 12000
+  block_resource_types: ["image", "font", "media"]
+  block_hosts: ["google", "doubleclick", "facebook", "fullstory", "clarity.ms", "bing.com",
+                "pinterest", "shop.pe", "contentsquare", "hubspot", "hsforms", "hubapi",
+                "nr-data.net", "yotpo", "cloudfront.net", "addshoppers"]
+
+llm:
+  enabled: true                     # auto-disabled when no API key is present
+  provider: "minimax"               # any OpenAI-compatible endpoint
+  base_url: "https://api.minimax.io/v1"
+  model: "MiniMax-M2.5"
+  api_key_env: "MINIMAX_API_KEY"
+  timeout_seconds: 90
+  max_retries: 2
+  max_output_tokens: 4000
+  # Which capabilities may call the LLM
+  extraction_fallback: true         # missing critical fields that are visibly present on the page
+  spec_extraction: true             # structure specs written as free-text bullet lists
+  ambiguous_classification: true
+  recovery_decisions: false         # let the LLM pick among bounded recovery actions (policy is used otherwise)
+
+storage:
+  db_path: "data/catalog.db"
+  output_dir: "output"
+
+logging:
+  level: "INFO"
+  json_file: "logs/crawl.jsonl"
