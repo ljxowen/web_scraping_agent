@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T04:52:57+00:00",
+  "generated_at": "2026-10-20T05:29:28+00:00",
   "run": {
-    "run_id": "20261020T044924Z-94f6af",
-    "elapsed_s": 211.2,
+    "run_id": "20261020T052548Z-f6564b",
+    "elapsed_s": 218.7,
     "counters": {
       "categories_discovered": 16,
       "listing_pages": 35,
@@ -12,8 +12,8 @@
       "products_stored": 148,
       "products_dead_lettered": 0,
       "inserted": 0,
-      "updated": 11,
-      "unchanged": 137
+      "updated": 1,
+      "unchanged": 147
     },
     "http": {
       "requests": 2,
@@ -35,9 +35,9 @@
         "llm_fallback_attempts": 0,
         "llm_fallback_fields_recovered": 0,
         "llm_fallback_rejected_values": 0,
-        "llm_spec_calls": 119,
-        "llm_specs_added": 709,
-        "llm_specs_rejected": 55
+        "llm_spec_calls": 148,
+        "llm_specs_added": 943,
+        "llm_specs_rejected": 127
       },
       "validator": {
         "valid": 144,
@@ -53,19 +53,19 @@
       }
     },
     "llm": {
-      "calls": 0,
-      "cache_hits": 119,
+      "calls": 1,
+      "cache_hits": 147,
       "failures": 0,
-      "prompt_tokens": 0,
-      "completion_tokens": 0,
-      "latency_s": 0.0,
+      "prompt_tokens": 533,
+      "completion_tokens": 503,
+      "latency_s": 7.41,
       "available": true,
       "model": "MiniMax-M2.5"
     },
     "product_latency_s": {
       "p50": 3.0,
-      "p90": 3.06,
-      "max": 4.9689999999827705
+      "p90": 3.08,
+      "max": 10.436999999976251
     }
   },
   "totals": {
@@ -292,8 +292,8 @@
     "manufacturer_code": 1.0,
     "price": 1.0,
     "availability": 1.0,
-    "pack_size": 0.895,
-    "unit_of_measure": 0.953
+    "pack_size": 0.9,
+    "unit_of_measure": 0.964
   },
   "sku_coverage": 1.0,
   "validation_status": {
@@ -304,8 +304,8 @@
     "missing_variants": 4
   },
   "extraction_method": {
-    "deterministic": 30,
-    "deterministic+llm": 118
+    "deterministic+llm": 147,
+    "deterministic": 1
   },
   "price_type": {
     "exact": 21,
@@ -314,51 +314,51 @@
   },
   "specification_quality": {
     "canonical_keys_used": 27,
-    "canonical_values": 796,
-    "extra_keys_used": 5,
-    "extra_values": 5,
-    "products_with_canonical_specs": 118,
+    "canonical_values": 1001,
+    "extra_keys_used": 30,
+    "extra_values": 34,
+    "products_with_canonical_specs": 147,
     "top_canonical_keys": {
-      "Color": 91,
-      "Texture": 90,
+      "Color": 98,
+      "Material": 96,
+      "Texture": 95,
+      "Product Type": 88,
       "Cuff Style": 86,
-      "Count Per Pack": 83,
-      "Product Type": 72,
-      "Thickness": 70,
-      "Material": 68,
-      "Packs Per Case": 65,
+      "Count Per Pack": 85,
+      "Fit": 83,
+      "Thickness": 69,
       "Powder Status": 62,
-      "Sterility": 19,
-      "Latex Protein Level": 12,
-      "Intended Use": 11,
-      "Form": 10,
-      "Absorbability": 8,
-      "Packaging": 7
+      "Packs Per Case": 53,
+      "Coating": 44,
+      "Sterility": 30,
+      "Intended Use": 20,
+      "Form": 15,
+      "Packaging": 14
     },
     "coverage_by_root_category": {
       "Sutures & surgical products": {
-        "Sterility": "15/55",
-        "Product Type": "14/55",
-        "Material": "11/55",
-        "Form": "10/55",
-        "Absorbability": "8/55",
-        "Intended Use": "8/55",
-        "Absorption Time": "5/55",
-        "Packaging": "5/55",
-        "Standards": "4/55",
-        "Texture": "3/55"
+        "Material": "32/55",
+        "Product Type": "27/55",
+        "Sterility": "26/55",
+        "Form": "15/55",
+        "Intended Use": "15/55",
+        "Packaging": "12/55",
+        "Absorbability": "9/55",
+        "Texture": "9/55",
+        "Standards": "7/55",
+        "Absorption Time": "7/55"
       },
       "Dental Exam Gloves": {
-        "Color": "89/93",
-        "Texture": "87/93",
+        "Color": "93/93",
         "Cuff Style": "86/93",
+        "Texture": "86/93",
+        "Fit": "83/93",
         "Count Per Pack": "82/93",
         "Thickness": "69/93",
-        "Packs Per Case": "65/93",
+        "Material": "64/93",
         "Powder Status": "62/93",
-        "Product Type": "58/93",
-        "Material": "57/93",
-        "Latex Protein Level": "12/93"
+        "Product Type": "61/93",
+        "Packs Per Case": "53/93"
       }
     }
   },
@@ -374,12 +374,12 @@
     },
     {
       "task": "structure_specs",
-      "calls": 1077,
-      "cached": 839,
-      "ok": 1077,
-      "avg_latency_s": 7.08,
-      "prompt_tokens": 84651,
-      "completion_tokens": 115818
+      "calls": 1374,
+      "cached": 990,
+      "ok": 1373,
+      "avg_latency_s": 8.24,
+      "prompt_tokens": 162161,
+      "completion_tokens": 207080
     }
   ],
   "dead_letters": []

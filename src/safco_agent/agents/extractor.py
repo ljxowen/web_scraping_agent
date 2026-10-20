@@ -28,9 +28,12 @@ log = get_logger("extractor")
 
 CRITICAL = ("name", "sku", "price")
 
+# Most available first: a product is as available as its best SKU.
+AVAILABILITY_RANK = (Availability.IN_STOCK, Availability.BACKORDER, Availability.SPECIAL_ORDER,
+                     Availability.DROP_SHIP, Availability.OUT_OF_STOCK, Availability.NOT_PURCHASABLE,
+                     Availability.DISCONTINUED, Availability.UNKNOWN)
+
 _PRICE_VISIBLE = re.compile(r"\$\s?\d[\d,]*(?:\.\d{2})?")
-_MEASURE = re.compile(r"\d|\b(color|colour|material|latex|nitrile|vinyl|powder|sterile|non-sterile|length|"
-                      r"size|thickness|gauge|diameter|absorbable|needle|cuff|texture|textured)\b", re.I)
 
 
 def _norm(s: str) -> str:
@@ -244,10 +247,12 @@ class ExtractorAgent:
                 product.price_type = PriceType.FROM if product.product_type in ("grouped", "configurable") \
                     else PriceType.EXACT
                 product.field_provenance["price"] = "jsonld"
-        if product.variants and product.availability == Availability.UNKNOWN:
+        if product.variants:
+            # The family-level JSON-LD offer always says InStock; what a buyer can actually get is decided
+            # by the SKUs, so the product takes its most available variant's state.
             states = {v.availability for v in product.variants}
-            product.availability = (Availability.IN_STOCK if Availability.IN_STOCK in states
-                                    else next(iter(states)) if len(states) == 1 else Availability.UNKNOWN)
+            product.availability = next((a for a in AVAILABILITY_RANK if a in states), Availability.UNKNOWN)
+            product.field_provenance["availability"] = product.field_provenance.get("variants", "master_data")
 
     @staticmethod
     def missing_critical(p: Product) -> list[str]:
@@ -389,13 +394,15 @@ class ExtractorAgent:
             # long prose paragraphs are split into sentences so each fact is judged on its own
             parts = re.split(r"(?<=[.;!])\s+", line) if len(line) > 200 else [line]
             lines += [p.strip() for p in parts if p.strip()]
-        return [l for l in lines if _norm(l) not in captured and _MEASURE.search(l) and len(l) < 300]
+        # Every remaining description line goes to the model: a keyword pre-filter dropped lines such as
+        # "blades produced from high-quality Swiss stainless steel". The evidence check guards the output.
+        return [l for l in lines if _norm(l) not in captured and len(l) < 300]
 
     async def llm_structure_specs(self, product: Product) -> Product:
         if not (self.llm and self.llm.available and self.allow_specs):
             return product
         lines = self.irregular_spec_lines(product)
-        if len(lines) < 2:
+        if not lines:
             return product
         self.stats["llm_spec_calls"] += 1
         source = "\n".join(lines)

@@ -186,3 +186,25 @@ def test_verbatim_span_keeps_surrounding_punctuation():
     src = "Ambidextrous\n250 gloves per box (230 for x-large)\nOrder 10 boxes"
     assert verbatim_span("250 gloves per box (230 for x-large)", src) == "250 gloves per box (230 for x-large)"
     assert verbatim_span("(230 for x-large)", src) == "(230 for x-large)"
+
+
+def test_product_availability_follows_its_variants():
+    """The family JSON-LD offer says InStock even when every SKU is on backorder; the SKUs decide."""
+    from safco_agent.models import Availability, Product, Variant
+    p = Product(product_id="safco:1", canonical_url="https://www.safcodental.com/product/x",
+                availability=Availability.IN_STOCK,
+                variants=[Variant(sku="A", availability=Availability.BACKORDER, price=Decimal("5")),
+                          Variant(sku="B", availability=Availability.SPECIAL_ORDER, price=Decimal("6"))])
+    ExtractorAgent._apply_prices(p, {})
+    assert p.availability == Availability.BACKORDER
+    p.variants[1].availability = Availability.IN_STOCK
+    ExtractorAgent._apply_prices(p, {})
+    assert p.availability == Availability.IN_STOCK
+
+
+def test_spec_pass_sees_every_description_line():
+    from safco_agent.models import Product
+    p = Product(product_id="x", canonical_url="u", description="Sterile disposable scalpel; plastic handle with "
+                "stainless steel blade.\nScalpel blades produced from high-quality Swiss stainless steel")
+    lines = ExtractorAgent.irregular_spec_lines(p)
+    assert any("Swiss stainless steel" in l for l in lines) and len(lines) == 2

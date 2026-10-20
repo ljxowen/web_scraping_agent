@@ -81,3 +81,7 @@ def test_volume_dimensions_and_container():
     assert parse_option_attributes("Oral Coating Rinse - Hygiene, 3.4 oz Bottle")["volume"] == "3.4oz"
     assert parse_container("0.5cc jar") == "jar"
     assert parse_container("15 x 20mm") is None
+
+
+def test_pkg_unit():
+    assert parse_pack("regular body mixing tips (aqua), 48/pkg") == (48, "pack")

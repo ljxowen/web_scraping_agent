@@ -15,7 +15,7 @@ from ..models import Availability, Variant
 SIZE_WORDS = ["xx-small", "x-small", "extra small", "small", "medium", "large", "x-large", "extra large",
               "xx-large", "xxx-large"]
 _SIZE_RE = re.compile(r"\b(" + "|".join(re.escape(s) for s in sorted(SIZE_WORDS, key=len, reverse=True)) + r")\b", re.I)
-_UNITS = ("box|bx|pk|pack|package|case|cs|bag|bottle|btl|ea|each|roll|tube|kit|jar|dozen|dz|tray|pouch|vial|"
+_UNITS = ("box|bx|pkg|pk|pack|package|case|cs|bag|bottle|btl|ea|each|roll|tube|kit|jar|dozen|dz|tray|pouch|vial|"
           "syringe|carton|ctn|sleeve|cartridge|refill|pad|sheet|unit|pc|pcs|set|cup|can|packet|gallon|bucket")
 _PACK_SLASH = re.compile(rf"(\d[\d,]*)\s*/\s*({_UNITS})\b", re.I)
 _PACK_OF = re.compile(rf"\b({_UNITS})\s+of\s+(\d[\d,]*)\b", re.I)
@@ -25,7 +25,7 @@ _CONTAINER = re.compile(rf"\b({_UNITS})\b\s*$", re.I)
 _VOLUME = re.compile(r"(?<![\w.])(\d*\.?\d+)\s?(cc|ml|fl\.? ?oz|oz|gm|kg|g|l|lb)\b", re.I)
 _DIMENSIONS = re.compile(r"\b\d+(?:\.\d+)?\s?(?:mm|cm)?\s?x\s?\d+(?:\.\d+)?(?:\s?x\s?\d+(?:\.\d+)?)?\s?(?:mm|cm|in)\b",
                          re.I)
-_UNIT_CANON = {"bx": "box", "pk": "pack", "package": "pack", "cs": "case", "btl": "bottle", "ea": "each",
+_UNIT_CANON = {"bx": "box", "pk": "pack", "pkg": "pack", "package": "pack", "cs": "case", "btl": "bottle", "ea": "each",
                "dz": "dozen", "ctn": "carton", "pcs": "pc"}
 
 

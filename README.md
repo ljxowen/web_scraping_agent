@@ -12,12 +12,12 @@ The committed sample in [`output/`](output/) is a **full crawl of both categorie
 | | Result | Evidence |
 |---|---|---|
 | **Coverage** | Both categories crawled completely: **148 product families, 742 purchasable SKUs**. For all 16 listings, extracted count = the site's own total. | [`crawl_report.json`](output/crawl_report.json) → `listing_traversal` |
-| **Accuracy** | Re-fetched a sample of 16 products from the live site. **Every** checked value occurs on the page: names, SKUs (51/51), manufacturer codes, prices (51/51), breadcrumbs, brands, LLM spec values (58/58). | [`verification.md`](output/verification.md) |
+| **Accuracy** | Re-fetched a sample of 16 products from the live site. **Every** checked value occurs on the page: names, SKUs (51/51), manufacturer codes, prices (51/51), breadcrumbs, brands, LLM spec values (85/85). | [`verification.md`](output/verification.md) |
 | **Completeness** | 100% for name, brand, SKU, category path, URL, price, availability, description and images. Variants on 97% of products (the other 4 sell nothing online and are flagged, not invented). | `crawl_report.json` → `field_completeness_*` |
 | **Variants** | Each SKU is a separate record with price, stock, manufacturer part #, pack size and size. Up to 48 variants per product. | [`variants.csv`](output/variants.csv) |
 | **Dynamic content** | Client-side Algolia listings rendered in Playwright and paged with the on-page "Next" control (35 pages); lazily loaded recommendations captured. | [Why this approach](#why-this-approach) |
 | **Clean specs** | Controlled vocabulary: **27** consistent spec names (down from 102 free-form names), long tail kept separately. | [Where the LLM is used](#where-the-llm-is-used-and-where-it-is-not) |
-| **AI where it adds value** | LLM raises products with structured specs from 71 to 118 and spec values from 92 to 801. Every value must be quoted from the page; 55 unsupported values were rejected. | [`verification.md`](output/verification.md) |
+| **AI where it adds value** | LLM raises products with structured specs from 71 to 147 (of 148) and spec values from 92 to 1,035. Every value must be quoted from the page; 127 unsupported values were rejected. | [`verification.md`](output/verification.md) |
 | **Reliability** | 0 dead letters. A crash mid-crawl resumed without duplicates; a full re-crawl reported 148/148 `unchanged`. | [Sample output](#sample-output) |
 | **Tests & deployment** | 103 offline tests plus 3 live tests; Docker image builds and runs. | [Testing](#testing), [Quick start](#quick-start) |
 
@@ -213,7 +213,7 @@ Comparison mode: `crawl --no-llm` gives a deterministic-only baseline. The diffe
 | `canonical_url` | str | Normalized product URL (no query or fragment) |
 | `price_min`, `price_max`, `currency` | decimal-as-string | Taken from variant prices when available |
 | `price_type` | enum | `range` (several variants), `exact` (one SKU), or `from` (advertised family price only) |
-| `availability` | enum | `in_stock`, `out_of_stock`, `backorder`, `discontinued` or `unknown` |
+| `availability` | enum | `in_stock`, `backorder`, `special_order`, `drop_ship`, `out_of_stock`, `not_purchasable`, `discontinued` or `unknown`. For products with variants it is the **most available SKU's state**, because the family-level JSON-LD offer always says "InStock". |
 | `description` | str | Description section as lines (bullets preserved) |
 | `specifications` | {str:str} | Canonical spec names only (controlled vocabulary). Sources: `Key: value` lines and spec tables, plus evidence-checked LLM structuring. |
 | `extra_specifications` | {str:str} | Long-tail facts that fit no canonical name, kept under their own name |
@@ -262,7 +262,7 @@ SQLite tables: `products`, `variants`, `categories`, `product_categories`, `list
 
 ## Sample output
 
-`output/` holds a **full crawl of both categories** (final run `20261020T044924Z-94f6af`). Files: `products.json`, `products.csv`, `variants.csv`, `products.xlsx`, `crawl_report.json`, `verification.md`, and `catalog.sqlite` (a database snapshot).
+`output/` holds a **full crawl of both categories** (final run `20261020T052548Z-f6564b`). Files: `products.json`, `products.csv`, `variants.csv`, `products.xlsx`, `crawl_report.json`, `verification.md`, and `catalog.sqlite` (a database snapshot).
 
 | | Sutures & surgical products | Dental Exam Gloves | Total |
 |---|---|---|---|
@@ -273,24 +273,24 @@ SQLite tables: `products`, `variants`, `categories`, `product_categories`, `list
 
 **Coverage:** for every one of the 16 listings, the number of products extracted equals the site's own `nbHits`. Examples: gloves 93/93 across 8 pages, nitrile 62/62 across 6 pages, sutures root 55/55 across 5 pages. Each listing stopped at `last_page`.
 
-**Completeness:** 100% for product name, brand, family SKU, category path, URL, price, availability, description and images. 97.3% of products have variants; the other 4 genuinely sell no children online and are flagged `missing_variants`. Variant SKU, manufacturer code, price and availability are 100%. Pack size is 89.5% and unit 95.3%; the rest are options like "15 x 20mm", where no count is stated and none is inferred.
+**Completeness:** 100% for product name, brand, family SKU, category path, URL, price, availability, description and images. 97.3% of products have variants; the other 4 genuinely sell no children online and are flagged `missing_variants`. Variant SKU, manufacturer code, price and availability are 100%. Pack size is 90.0% and unit 96.4%; the rest are options like "15 x 20mm", where no count is stated and none is inferred.
 
-**Status:** 144 `valid`, 4 `valid_with_warnings`, 0 dead letters. Price type: 123 `range`, 21 `exact`, 4 `from`. Availability (variants): 585 in stock, 75 backorder, 65 special order, 16 drop-ship, 1 not purchasable.
+**Status:** 144 `valid`, 4 `valid_with_warnings`, 0 dead letters. Price type: 123 `range`, 21 `exact`, 4 `from`. Availability (products, taken from their best SKU): 141 in stock, 6 backorder, 1 drop-ship. Availability (variants): 585 in stock, 75 backorder, 65 special order, 16 drop-ship, 1 not purchasable.
 
-**Accuracy:** checked against the live site in [`output/verification.md`](output/verification.md). For a seeded sample of 16 products (51 variants), every extracted value was re-fetched from the live page and found in its source: name 16/16, family SKU 16/16, variant SKUs 51/51, manufacturer codes 51/51, variant prices 51/51, breadcrumbs 48/48, brands 16/16 and **LLM spec values 58/58**. I also manually compared the rendered Products table of *Lavender Nitrile* in a browser with the extracted rows: all 5 rows matched on SKU, Mfr #, option, stock and price.
+**Accuracy:** checked against the live site in [`output/verification.md`](output/verification.md). For a seeded sample of 16 products (51 variants), every extracted value was re-fetched from the live page and found in its source: name 16/16, family SKU 16/16, variant SKUs 51/51, manufacturer codes 51/51, variant prices 51/51, breadcrumbs 48/48, brands 16/16 and **LLM spec values 85/85**. I also manually compared the rendered Products table of *Lavender Nitrile* in a browser with the extracted rows: all 5 rows matched on SKU, Mfr #, option, stock and price.
 
 **LLM contribution** (deterministic-only vs. deterministic + LLM, from the same run via provenance):
 
 | Metric | Deterministic only | + LLM |
 |---|---|---|
-| Products with ≥1 structured spec | 71 / 148 | 118 / 148 |
-| Structured spec values | 92 | 801 |
-| Avg specs per product | 0.62 | 5.41 |
-| Spec values rejected by the evidence check | n/a | 55 |
+| Products with ≥1 structured spec | 71 / 148 | 147 / 148 |
+| Structured spec values | 92 | 1,035 |
+| Avg specs per product | 0.62 | 6.99 |
+| Spec values rejected by the evidence check | n/a | 127 |
 
-**Spec consistency** (controlled vocabulary, before → after): distinct spec names went from 102 to **27** canonical names plus 5 long-tail names in `extra_specifications`. Names used by only one product went from 66 to 2. For gloves, "count per pack" was previously split across four keys and now sits under one (`Count Per Pack`, 82/93). `Powder Status` is uniformly "Powder-free" (previously "Powder-free" and "powder-free"), and `Cuff Style` is "Beaded" for 85 of 86 (previously four spellings). Per-category coverage is in `crawl_report.json` → `specification_quality`.
+**Spec consistency** (controlled vocabulary, before → after): distinct spec names went from 102 to **27** canonical names plus 30 long-tail names in `extra_specifications` (one-off facts such as "Tonicity" or "Needle Type"). Names used by only one product went from 66 to 2. For gloves, "count per pack" was previously split across four keys and now sits under one (`Count Per Pack`, 82/93). `Powder Status` is uniformly "Powder-free" (previously "Powder-free" and "powder-free"), and `Cuff Style` is "Beaded" for 85 of 86 (previously four spellings). Per-category coverage is in `crawl_report.json` → `specification_quality`.
 
-LLM cost is small and bounded: 119 spec calls for the whole crawl, about 8 s average latency, and about 510 prompt + 515 completion tokens per call (the prompt includes the vocabulary). Re-runs are free because of the cache. The extraction fallback was not needed on any page in the final run. Its value is in drift scenarios: in the live test `test_live_llm_recovers_variants_after_simulated_rename`, renaming the site's variant blob leaves the deterministic parser with nothing, and the LLM recovers all 5 SKUs with prices identical to ground truth.
+LLM cost is small and bounded: one spec call per product (148 for a full crawl), about 8 s average latency, and about 420 prompt + 540 completion tokens per uncached call (the prompt includes the vocabulary). Re-runs are free because of the cache. The extraction fallback was not needed on any page in the final run. Its value is in drift scenarios: in the live test `test_live_llm_recovers_variants_after_simulated_rename`, renaming the site's variant blob leaves the deterministic parser with nothing, and the LLM recovers all 5 SKUs with prices identical to ground truth.
 
 **Operational evidence from the runs recorded in `crawl_runs`:**
 
@@ -301,9 +301,12 @@ LLM cost is small and bounded: 119 spec calls for the whole crawl, about 8 s ave
 | `…202730Z` resume `--retry-failed` | Re-processed the 4 failed URLs after the validator fix. All 4 were stored. |
 | `…202806Z` full | Fresh re-crawl: **148/148 `unchanged`**, so the run is idempotent at full scale. |
 | `…203412Z`, `…204038Z` full | After parser improvements, only the affected records came back `updated` (47, then 17). Change detection via `content_hash`. |
+| `…014517Z` full | 1 `updated`, 147 `unchanged`. |
 | `…042848Z` … `…044924Z` full | Spec vocabulary introduced: all 148 `updated` (new field), then only the records each later fix touched: 39 ("… cuff" values), 28 (LLM values re-punctuated by the model, now stored as exact page spans), then 11 (closing brackets restored on those spans). |
+| `…051243Z` full | After fixing product availability (now the best of its SKUs), specs missing on 29 products and "48/pkg" pack parsing: 141 `updated`, 7 `unchanged`. |
+| `…052548Z` full (final) | 1 `updated` (one product's earlier LLM response was malformed JSON and was retried), 147 `unchanged`. |
 
-The final run took 211 s: 164 browser navigations, 0 errors, about 3.0 s median per product, concurrency 3 at 1 req/s. LLM responses came from the cache.
+The final run took 219 s: 164 browser navigations, 0 errors, concurrency 3 at 1 req/s. LLM responses came from the cache, except one product whose earlier response had been malformed JSON and was retried.
 
 ---
 
